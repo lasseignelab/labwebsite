@@ -36,7 +36,7 @@ disableLanguages        = [""]
     # Sets the meta tag author
     author              = "Lasseigne Lab"
     # If you would like to add more comprehensive favicon support passed root
-    # directory favicon.ico, utlize this function. It is recommened to use
+    # directory favicon.ico, utlize this function. It is recommended to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
     # for the theme's naming.
     favicon             = true
@@ -52,7 +52,7 @@ disableLanguages        = [""]
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = true
+    languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
