@@ -51,7 +51,7 @@ disableLanguages        = [""]
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
-    shareMenu           = true
+    shareMenu           = false
     languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
@@ -69,7 +69,7 @@ disableLanguages        = [""]
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = "200"
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "Lasseigne Lab"
 
   [params.sidebar]
     about               = "test"
