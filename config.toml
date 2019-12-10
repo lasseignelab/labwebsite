@@ -330,7 +330,7 @@ disableLanguages        = ["fr, de, pl, pt"]
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  flickr                = "example"
+  flickr                = ""
   behance               = ""
   dribbble              = ""
   # Publishing Communities
@@ -358,8 +358,8 @@ disableLanguages        = ["fr, de, pl, pt"]
   twitter               = "example"
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
+  pinterest             = ""
+  telegram              = ""
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
@@ -367,4 +367,4 @@ disableLanguages        = ["fr, de, pl, pt"]
   keybase               = "example"
   mastodon              = "example.com/@example"
   # Email
-  email                 = "example"
+  email                 = "bnp0001@uab.edu"
