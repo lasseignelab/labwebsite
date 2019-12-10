@@ -84,7 +84,7 @@ disableLanguages        = ["fr, de, pl, pt"]
     # Sets RSS icons to appear on the sidebar with the social media buttons
     rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
-    socialFooter        = true
+    socialFooter        = false
 
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
@@ -322,7 +322,7 @@ disableLanguages        = ["fr, de, pl, pt"]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "lasseignelab"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -337,15 +337,15 @@ disableLanguages        = ["fr, de, pl, pt"]
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin              = "brittany-lasseigne-phd"
+  linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
-  facebook              = "example"
+  facebook              = ""
   googleplus            = ""
-  reddit                = "example"
+  reddit                = ""
   quora                 = ""
   youtube               = ""
   vimeo                 = ""
@@ -353,9 +353,9 @@ disableLanguages        = ["fr, de, pl, pt"]
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "example"
+  instagram             = ""
   tumblr                = ""
-  twitter               = "example"
+  twitter               = "bnlasse"
   skype                 = ""
   snapchat              = ""
   pinterest             = ""
@@ -363,8 +363,8 @@ disableLanguages        = ["fr, de, pl, pt"]
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  researchgate          = "Brittany_Lasseigne"
+  keybase               = ""
+  mastodon              = ""
   # Email
   email                 = "bnp0001@uab.edu"
