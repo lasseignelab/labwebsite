@@ -21,7 +21,7 @@ Lab Manager
 Staff Scientist
 
 ### Drew Hardigan
-Staff Scientist
+Postdoctoral Researcher
 
 ### Jen Fisher
 Graduate Research Assistant
