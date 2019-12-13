@@ -1,4 +1,4 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "/"
 DefaultContentLanguage  = "en"
 title                   = "Lasseigne Lab"
 theme = "hugo-future-imperfect-slim"
@@ -40,7 +40,7 @@ disableLanguages        = ["fr, de, pl, pt"]
     # https://realfavicongenerator.net to generate your icons as that is the basis
     # for the theme's naming.
     favicon             = true
-    svg                 = false
+    svg                 = true
     faviconVersion      = "1"
     msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
     iOSColor            = "#ffffff" # Copy from the https://realfavicongenerator.net
