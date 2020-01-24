@@ -133,7 +133,8 @@ disableLanguages        = ["fr, de, pl, pt"]
     identifier        = "categories"
     url               = "/categories/"
     pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 5
+    weight            = 4
+  
 
 
 
