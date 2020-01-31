@@ -14,16 +14,16 @@ images:
 linktitle: ''
 type: post
 ---
-**Welcome to the new Lasseigne Lab website!** We have been working hard to get it up and running with the hopes that we can share what’s going on in the lab. 
+**Welcome to the new Lasseigne Lab website!** While still under construction, we wanted to share a first post about our new team!
 
 <img src="/blog/2019-12-13-new-website.en_files/20191118_141811.jpg" alt="">
 **(left to right) Tabea Soelter, Jen Fisher, and Jordan Whitlock**
 
-  We've been lucky to have built up a strong team within the lab. This summer we welcomed Sasha Thalluri and Avery Williams, two undergraduate research assistants majoring in genetics and enthusiastic to learn more about working in a lab. We were then fortunate to have Randi Wood join as lab manager, and she has been working hard to bring the wet side of our lab into motion.
+  We've been fortunate to recruit such a strong, interdisciplinary team. This past summer we welcomed Sasha Thalluri and Avery Williams, two undergraduate genetics research assistants enthusiastic to learn more about science and the lab environment. Shortly after, Randi Wood joined as a staff scientist and our lab manager. Randi has been as been working hard to build the wet side of the lab.
   
-  We then had three graduate students, Jordan Whitlock, Jen Fisher, and Tabea Soelter, rotate through our lab. They each took on their own project that contributed to the research of the lab. Their projects were mainly computational in focus, and they contributed to library preparation as part of their wetlab training. Jordan and Jen then made the decision to join the lab and we are excited about what they will accomplish with us.
+  This fall we had three graduate students rotate: Jordan Whitlock, Jen Fisher, and Tabea Soelter. Each led her own hybrid wet and dry lab genomics disease project. All three of them have officially made the decision to join the lab and we are excited about what they will accomplish with us!
   
-  Vishal Oza is our new computational-focused staff scientist, and we are also happy to have Drew Hardigan on the team as he completes a short postdoc for his MD/PhD. Our lab seems to be growing more and more by the day and we look forward to what more our team will become and accomplish.
+  In early 2020, Vishal Oza, PhD, our new computational biology and bioinformatics Postdoctoral Fellow joined to lead our multiomics data integration studies. We are also thrilled to have Drew Hardigan, PhD, with us for a short postoc. We are looking forward to science in 2020!
   
 ![](/blog/2019-12-13-new-website.en_files/20191206_123730.jpg)
 **(left to right) Brittany Lasseigne, Vishal Oza, Sasha Thalluri, Drew Hardigan, Jen Fisher, Tabea Soelter, and Jordan Whitlock**
