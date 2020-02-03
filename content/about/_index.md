@@ -21,6 +21,8 @@ Our research focuses on developing approaches for assaying and integrating omics
 
 At UAB, Dr. Lasseigne is an assistant professor in the Department of Cell, Developmental and Integrative Biology, an associate scientist in the O’Neal Comprehensive Cancer Center, and a scientist in both the Hugh Kaul Precision Medicine Institute and the Informatics Institute.
 
+<a href="https://www.ncbi.nlm.nih.gov/myncbi/brittany.lasseigne.1/bibliography/public/">Brittany's Publications</a> <a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9901758&icde=48597598&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=">and Grants</a>
+
 <a href="mailto:bnp0001@uab.edu">bnp0001@uab.edu</a> 
 
 ---

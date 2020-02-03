@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/2020-02-03-publications/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
@@ -18,11 +33,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/new-website/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
@@ -33,22 +43,17 @@
   </url>
   
   <url>
-    <loc>/tags/website/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/website/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+    <loc>/tags/website/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/contactus/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url>
   

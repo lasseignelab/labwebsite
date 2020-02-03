@@ -135,6 +135,12 @@ disableLanguages        = ["fr, de, pl, pt"]
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 4
 
+  [[menu.main]]
+    name              = "Publications"
+    identifier        = "publications"
+    url               = "/publications/"
+    pre               = "<i class='fas fa-sitemap'></i>"
+    weight            = 5
 
 
 [Languages]
