@@ -115,32 +115,46 @@ disableLanguages        = ["fr, de, pl, pt"]
     weight            = 1
 
   [[menu.main]]
-    name              = "About Us"
+    name              = "About"
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
     weight            = 2
 
   [[menu.main]]
+    name              = "Contact"
+    identifier        = "contact-us"
+    url               = "/contact-us/"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 3
+    
+  [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
+    weight            = 4
 
   [[menu.main]]
     name              = "Categories"
     identifier        = "categories"
     url               = "/categories/"
     pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 4
+    weight            = 5
 
   [[menu.main]]
     name              = "Publications"
-    identifier        = "publications.en.md"
+    identifier        = "publications"
     url               = "/publications/"
-    pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 5
+    pre               = "<i class='far fa-file-alt'></i>"
+    weight            = 6
+    
+  [[menu.main]]
+    name              = "Education"
+    identifier        = "education"
+    url               = "/education/"
+    pre               = "<i class='fas fa-chalkboard-teacher'></i>"
+    weight            = 7
 
 [Languages]
   # Each language has its own menu.
