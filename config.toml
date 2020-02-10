@@ -137,11 +137,10 @@ disableLanguages        = ["fr, de, pl, pt"]
 
   [[menu.main]]
     name              = "Publications"
-    identifier        = "publications"
+    identifier        = "publications.en.md"
     url               = "/publications/"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
-
 
 [Languages]
   # Each language has its own menu.

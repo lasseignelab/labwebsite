@@ -6,19 +6,10 @@
     <description>Recent content on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Publications</title>
-      <link>/publications/2020-02-03-publications/</link>
-      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/2020-02-03-publications/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>New Website!</title>
@@ -29,6 +20,15 @@
       <description>Welcome to the new Lasseigne Lab website! While still under construction, we wanted to share a first post about our new team!
 (left to right) Tabea Soelter, Jen Fisher, and Jordan Whitlock
 We&amp;rsquo;ve been fortunate to recruit such a strong, interdisciplinary team. This past summer we welcomed Sasha Thalluri and Avery Williams, two undergraduate genetics research assistants enthusiastic to learn more about science and the lab environment. Shortly after, Randi Wood joined as a staff scientist and our lab manager.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>These are our publications</description>
     </item>
     
   </channel>
