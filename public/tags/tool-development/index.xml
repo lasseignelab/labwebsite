@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tool-development on Lasseigne Lab</title>
+    <link>/tags/tool-development/</link>
+    <description>Recent content in tool-development on Lasseigne Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tool-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computational Tools</title>
+      <link>/project/tool-development/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/tool-development/</guid>
+      <description>Building on my interest in sharing tools with the research community, I am developing project-relevant R packages and Shiny applications including test data and instructional vignettes to facilitate exploration, visualization, and analysis of multidimensional data sets. Such tools will accelerate future discoveries by allowing more rapid analysis of the relationships among genomic data sets and with disease, as well as increase research reproducibility in data-driven approaches to complex disease research.</description>
+    </item>
+    
+  </channel>
+</rss>

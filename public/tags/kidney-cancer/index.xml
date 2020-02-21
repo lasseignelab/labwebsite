@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kidney-cancer on Lasseigne Lab</title>
+    <link>/tags/kidney-cancer/</link>
+    <description>Recent content in kidney-cancer on Lasseigne Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/kidney-cancer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biomarker discovery in kidney cancer</title>
+      <link>/project/biomarkers/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/biomarkers/</guid>
+      <description>A key motivator of my research is applying genomics to complex diseases with the goal of discovering clinically relevant signatures that might be used to improve patient care. In graduate school, I led a project applying next-generation sequencing technologies to kidney cancer tumor and normal tissues to assess DNA methylation, copy number variation, and microsatellite instability associated with kidney cancer etiology and progression. This project was a collaboration with Drs. Rick Myers and Devin Absher at HudsonAlpha, and Dr.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cancer on Lasseigne Lab</title>
+    <link>/tags/cancer/</link>
+    <description>Recent content in cancer on Lasseigne Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrative analysis of genomic data in complex disease</title>
+      <link>/project/integrative-analysis/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/integrative-analysis/</guid>
+      <description>As a postdoctoral fellow, I lead and/or participate in several projects aimed at understanding the mechanisms behind broad molecular changes (e.g., thousands of differentially expressed genes between normal and disease tissues). For example, my colleagues and I identified transcription factor binding sites with altered DNAm in prostate cancer and genomic regulation of triple negative breast cancer invasion. Likewise, by measuring relative cell proliferation from gene expression data across 19 cancers, my colleagues and I demonstrated cell proliferation is a major driver of gene expression variation, is strongly associated with clinical characteristics, and by stratifying on cell proliferation, improved predictive models of patient survival.</description>
+    </item>
+    
+  </channel>
+</rss>
