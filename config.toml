@@ -159,7 +159,7 @@ disableLanguages        = ["fr, de, pl, pt"]
   [[menu.main]]
     name              = "Research"
     identifier        = "research"
-    url               = "/project/"
+    url               = "/research/"
     pre               = "<i class='fas fa-microscope'></i>"
     weight            = 8
 

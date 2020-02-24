@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lasseigne Lab</title>
-    <link>/</link>
-    <description>Recent content on Lasseigne Lab</description>
+    <title>Research projects on Lasseigne Lab</title>
+    <link>/research-projects/</link>
+    <description>Recent content in Research projects on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/research-projects/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>New Website!</title>
-      <link>/blog/new-website/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/new-website/</guid>
-      <description>Welcome to the new Lasseigne Lab website! While still under construction, we wanted to share a first post about our new team!
-(left to right) Tabea Soelter, Jen Fisher, and Jordan Whitlock
-We&amp;rsquo;ve been fortunate to recruit such a strong, interdisciplinary team. This past summer we welcomed Sasha Thalluri and Avery Williams, two undergraduate genetics research assistants enthusiastic to learn more about science and the lab environment. Shortly after, Randi Wood joined as a staff scientist and our lab manager.</description>
-    </item>
     
     <item>
       <title>Integrative analysis of genomic data in complex disease</title>
@@ -56,51 +45,6 @@ We&amp;rsquo;ve been fortunate to recruit such a strong, interdisciplinary team.
       
       <guid>/research-projects/tool-development/</guid>
       <description>Building on my interest in sharing tools with the research community, I am developing project-relevant R packages and Shiny applications including test data and instructional vignettes to facilitate exploration, visualization, and analysis of multidimensional data sets. Such tools will accelerate future discoveries by allowing more rapid analysis of the relationships among genomic data sets and with disease, as well as increase research reproducibility in data-driven approaches to complex disease research.</description>
-    </item>
-    
-    <item>
-      <title>Contact Us</title>
-      <link>/contact-us/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact-us/</guid>
-      <description> The Lasseigne Lab is in the Cell, Developmental and Integrative Biology Department at The University of Alabama at Birmingham School of Medicine. Our lab is located on the 9th floor of Tinsley Harrison Tower in 960.
- Contact PI Dr. Brittany Lasseigne at bnp0001@uab.edu </description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>/education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/education/</guid>
-      <description>Brittany Lasseigne&amp;rsquo;s Recent Teaching and Science Outreach  Guest speaker for MCBIOS19 Student Career Development Session; &amp;lsquo;Social Media for Science Careers&amp;rsquo; slides
- Guest speaker for HudsonAlpha GTAC: Advanced Concepts workshop; &amp;lsquo;Introduction to Machine Learning with Genomic Data Applications&amp;rsquo; slides
- Content Developer and instructor for the 2018 HudsonAlpha BioTrain Computational Biology Bootcamp (4 June 2018)
- Co-lead instructor of a Software Carpentry Workshop at the George Washington University in Washington D.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/</guid>
-      <description> Click here for Brittany Lasseigne&amp;rsquo;s Publications Click here for Vishal Oza&amp;rsquo;s Publications Click here for Drew Hardigan&amp;rsquo;s Publications </description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/research/</guid>
-      <description>   ul { list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #DCDCDC; }
-li { float: left; }
-li a { display: block; color: white; text-align: center; padding: 16px; text-decoration: none; }
-li a:hover { background-color: #1E90FF; }   
-Click the links below to find out more about what members of the lab are working on.
- Biomarker Discovery in Kidney Cancer Integrative Analysis Causal Variant Identification in Neurodegenerative Diseases Computational Tools  </description>
     </item>
     
   </channel>
