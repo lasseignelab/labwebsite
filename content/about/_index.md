@@ -54,14 +54,6 @@ Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics t
 
 ---
 
-<img src="/about/_index_files/randi.png" alt="" width="200px"/>
-### Randi Wood
-##### _Researcher IV and Lab Manager_
-
-Randi has 6+ years experience implementing genomics technologies. In addition to wrangling the Lasseigne Lab as lab manager, she is developing and applying RNA and DNA protocols for both tissue and liquid biopsy applications. 
-
----
-
 <img src="/about/_index_files/Image from iOS.jpg" alt="" width="200px"/>
 ### Sasha Thalluri
 ##### _Undergraduate Research Assistant_
@@ -83,6 +75,8 @@ Sasha is an honors undergraduate research assistant majoring in Genetics and Gen
 Vishal is a Postdoctoral Fellow interested in developing methods for analyzing high dimensional biological data through machine learning and network theory approaches.
 
 ---
+---
+
 
 # Our Alumni
 
@@ -90,3 +84,10 @@ Vishal is a Postdoctoral Fellow interested in developing methods for analyzing h
 <img src="/about/_index_files/Image from iOS (1).jpg" alt="" width="200px"/>
 ### Roshan Darji
 ##### _Computational Biologist (2019)_
+
+---
+
+
+<img src="/about/_index_files/randi.png" alt="" width="200px"/>
+### Randi Wood
+##### _Researcher IV and Lab Manager (2019-2020)_

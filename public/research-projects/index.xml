@@ -17,7 +17,7 @@
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/research-projects/integrative-analysis/</guid>
-      <description>As a postdoctoral fellow, I lead and/or participate in several projects aimed at understanding the mechanisms behind broad molecular changes (e.g., thousands of differentially expressed genes between normal and disease tissues). For example, my colleagues and I identified transcription factor binding sites with altered DNAm in prostate cancer and genomic regulation of triple negative breast cancer invasion. Likewise, by measuring relative cell proliferation from gene expression data across 19 cancers, my colleagues and I demonstrated cell proliferation is a major driver of gene expression variation, is strongly associated with clinical characteristics, and by stratifying on cell proliferation, improved predictive models of patient survival.</description>
+      <description>As a postdoctoral fellow, Brittany lead and/or participated in several projects aimed at understanding the mechanisms behind broad molecular changes (e.g., thousands of differentially expressed genes between normal and disease tissues). For example, she and her colleagues identified transcription factor binding sites with altered DNAm in prostate cancer and genomic regulation of triple negative breast cancer invasion. Likewise, by measuring relative cell proliferation from gene expression data across 19 cancers, they demonstrated cell proliferation is a major driver of gene expression variation, is strongly associated with clinical characteristics, and by stratifying on cell proliferation, improved predictive models of patient survival.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/research-projects/pathogenic-variant-discovery/</guid>
-      <description>My first postdoc project was a highly collaborative effort with Drs. Rick Myers and Greg Cooper (HudsonAlpha), Liz Cirulli (Duke), David Goldstein (Columbia), and Biogen Idec to sequence almost 3,000 amyotrophic lateral sclerosis (ALS) patient exomes to identify new genes contributing to ALS risk. We confirmed several known ALS genes and identified TBK1 as a novel ALS gene, revealing a key role of the autophagic pathway in ALS etiology and suggesting specific targets for therapeutic intervention.</description>
+      <description>Brittany&amp;rsquo;s first postdoc project was a highly collaborative effort with Drs. Rick Myers and Greg Cooper (HudsonAlpha), Liz Cirulli (Duke), David Goldstein (Columbia), and Biogen Idec to sequence almost 3,000 amyotrophic lateral sclerosis (ALS) patient exomes to identify new genes contributing to ALS risk. They confirmed several known ALS genes and identified TBK1 as a novel ALS gene, revealing a key role of the autophagic pathway in ALS etiology and suggesting specific targets for therapeutic intervention.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/research-projects/biomarkers/</guid>
-      <description>A key motivator of my research is applying genomics to complex diseases with the goal of discovering clinically relevant signatures that might be used to improve patient care. In graduate school, I led a project applying next-generation sequencing technologies to kidney cancer tumor and normal tissues to assess DNA methylation, copy number variation, and microsatellite instability associated with kidney cancer etiology and progression. This project was a collaboration with Drs. Rick Myers and Devin Absher at HudsonAlpha, and Dr.</description>
+      <description>A key motivator of our lab&amp;rsquo;s research is applying genomics to complex diseases with the goal of discovering clinically relevant signatures that might be used to improve patient care. In graduate school, Brittany led a project applying next-generation sequencing technologies to kidney cancer tumor and normal tissues to assess DNA methylation, copy number variation, and microsatellite instability associated with kidney cancer etiology and progression. This project was a collaboration with Drs.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/research-projects/tool-development/</guid>
-      <description>Building on my interest in sharing tools with the research community, I am developing project-relevant R packages and Shiny applications including test data and instructional vignettes to facilitate exploration, visualization, and analysis of multidimensional data sets. Such tools will accelerate future discoveries by allowing more rapid analysis of the relationships among genomic data sets and with disease, as well as increase research reproducibility in data-driven approaches to complex disease research.</description>
+      <description>Building on the lab&amp;rsquo;s interest in sharing tools with the research community, we are developing project-relevant R packages and Shiny applications including test data and instructional vignettes to facilitate exploration, visualization, and analysis of multidimensional data sets. Such tools will accelerate future discoveries by allowing more rapid analysis of the relationships among genomic data sets and with disease, as well as increase research reproducibility in data-driven approaches to complex disease research.</description>
     </item>
     
   </channel>
