@@ -19,7 +19,7 @@ type: post
 <img src="/blog/2019-12-13-new-website.en_files/20191118_141811.jpg" alt="">
 **(left to right) Tabea Soelter, Jen Fisher, and Jordan Whitlock**
 
-  We've been fortunate to recruit such a strong, interdisciplinary team. This past summer we welcomed Sasha Thalluri and Avery Williams, two undergraduate genetics research assistants enthusiastic to learn more about science and the lab environment. Shortly after, Randi Wood joined as a staff scientist and our lab manager. Randi has been as been working hard to build the wet side of the lab.
+  We've been fortunate to recruit such a strong, interdisciplinary team. This past summer we welcomed Sasha Thalluri and Avery Williams, two undergraduate genetics research assistants enthusiastic to learn more about science and the lab environment. Shortly after, Randi Wood joined as a staff scientist and our lab manager. Randi has been as been working hard to build the wet side of the lab. 
   
   This fall we had three graduate students rotate: Jordan Whitlock, Jen Fisher, and Tabea Soelter. Each led her own hybrid wet and dry lab genomics disease project. All three of them have officially made the decision to join the lab and we are excited about what they will accomplish with us!
   
