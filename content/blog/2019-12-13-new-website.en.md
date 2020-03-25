@@ -25,7 +25,7 @@ type: post
   
   In early 2020, Vishal Oza, PhD, our new computational biology and bioinformatics Postdoctoral Fellow joined to lead our multiomics data integration studies. We are also thrilled to have Drew Hardigan, PhD, with us for a short postoc. We are looking forward to science in 2020!
   
-![](/blog/2019-12-13-new-website.en_files/20191206_123730.jpg)
+![](/blog/2019-12-13-new-website.en_files/20191206_123730.jpg) 
 **(left to right) Brittany Lasseigne, Vishal Oza, Sasha Thalluri, Drew Hardigan, Jen Fisher, Tabea Soelter, and Jordan Whitlock**
 
 Stay tuned for more!
