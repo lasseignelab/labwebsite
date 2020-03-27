@@ -12,12 +12,21 @@
     
     
     <item>
+      <title>ex2</title>
+      <link>/blog/ex2/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ex2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>example post</title>
       <link>/blog/example-post/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/blog/example-post/</guid>
-      <description>type your text here!</description>
+      <description>##text here!</description>
     </item>
     
     <item>
