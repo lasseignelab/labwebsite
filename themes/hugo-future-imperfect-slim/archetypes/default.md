@@ -1,8 +1,9 @@
 +++
 author = ""
-categories = []
+title = ""
+date = ""
 description = ""
-linktitle = ""
+tags = [""]
+categories = [""]
 images = [""]
-
 +++

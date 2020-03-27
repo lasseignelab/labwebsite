@@ -10,7 +10,11 @@ pluralizeListTitles     = false
 disableLanguages        = [""]
 
 [params]
-  mainSections = ["blog", "post"]
+  # Add additional section names to mainSections to include posts from
+  # those sections on the homepage.
+  mainSections          = ["blog"]
+  enableCDN             = false
+
   # Loads CSS and JavaScript files. The variable is an array so that you can load
   # multiple/additional files if necessary. The standard theme files can be loaded
   # by adding the value, "default". Default includes the add-on.css and and-on.js.
@@ -61,6 +65,11 @@ disableLanguages        = [""]
     paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
     rssIntro              = true
     socialIntro           = true
+    # You may not want to display a long intro above content in the
+    # single column layout used on smaller screens.
+    hideWhenSingleColumn  = false
+    # But you may want to always display the intro on the homepage.
+    alwaysOnHomepage      = false
 
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
@@ -148,48 +157,6 @@ disableLanguages        = [""]
     LanguageCode        = "en"
     LanguageName        = "English"
     weight              = 1
-
-  [Languages.de]
-    LanguageCode        = "de"
-    LanguageName        = "Deutsch"
-    title               = "Hugo Future Imperfect Slim auf deutsch"
-    description         = "Ein Thema von HTML5 UP, portiert von Julio Pescador.  Vereinfacht und verbessert von Patrick Collins. Mehrsprachig von StatnMap. Unterstützt von: Hugo. "
-    weight              = 2
-
-    [[Languages.de.menu.main]]
-      name              = "Startseite"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.de.menu.main]]
-      name              = "Über mich"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.de.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.de.menu.main]]
-      name              = "Kategorien"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
-
-    [[Languages.de.menu.main]]
-      name              = "Kontakt"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
 
   [Languages.fr]
     LanguageCode        = "fr"
@@ -316,6 +283,31 @@ disableLanguages        = [""]
       url               = "/contact/"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
+
+  [Languages.de]
+    LanguageCode        = "de"
+    LanguageName        = "Deutsche"
+    weight              = 5
+
+  [Languages.es]
+    LanguageCode        = "es"
+    LanguageName        = "Española"
+    weight              = 6
+
+  [Languages.zh-CN]
+    LanguageCode        = "zh-CN"
+    LanguageName        = "中文"
+    weight              = 7
+
+  [Languages.zh-TW]
+    LanguageCode        = "zh-TW"
+    LanguageName        = "中文"
+    weight              = 8
+
+  [Languages.ja]
+    LanguageCode        = "ja"
+    LanguageName        = "日本語"
+    weight              = 9
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
