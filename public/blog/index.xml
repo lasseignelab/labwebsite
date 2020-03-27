@@ -6,33 +6,15 @@
     <description>Recent content in Blog on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ex2</title>
-      <link>/blog/ex2/</link>
-      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/ex2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>example post</title>
-      <link>/blog/example-post/</link>
-      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/example-post/</guid>
-      <description>##text here!</description>
-    </item>
-    
-    <item>
       <title>New Website!</title>
       <link>/blog/new-website/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/blog/new-website/</guid>
       <description>Welcome to the new Lasseigne Lab website! While still under construction, we wanted to share a first post about our new team!
