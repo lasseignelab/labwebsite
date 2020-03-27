@@ -3,8 +3,8 @@ title: New Website!
 author: 'Avery Williams'
 date: '2020-03-27'
 slug: new-website
-categories: []
-tags: []
+categories: [website]
+tags: [lab, website]
 description: ''
 images:
   - ''
