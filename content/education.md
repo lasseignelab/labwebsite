@@ -11,7 +11,7 @@ linktitle: ""
 ---
 ### Data Science Guides:
 <ul>
-<li><a href="/education/education_resources/rnamasterguide.html" target="_blank">RNA Master Guide</a></li>
+<li><a href="/education/education_resources/rmasterguide.html" target="_blank">R Master Guide</a></li>
 
 <li><a href="/education/education_resources/rnaseqguide.html" target="_blank">RNA-Seq Guide</a></li>
 </ul>
