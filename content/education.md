@@ -7,7 +7,16 @@ images:
 - ""
 linktitle: ""
 ---
+#### __<a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">Lasseigne Lab Hosted Data Science Office Hours for UAB trainees, faculty, and staff</a>__ 
+---
+### Data Science Guides:
+<ul>
+<li><a href="/education/education_resources/rnamasterguide.html" target="_blank">RNA Master Guide</a></li>
 
+<li><a href="/education/education_resources/rnaseqguide.html" target="_blank">RNA-Seq Guide</a></li>
+</ul>
+
+---
 ### Brittany Lasseigne's Recent Teaching and Science Outreach
 
 <ul>
