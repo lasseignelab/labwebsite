@@ -11,6 +11,7 @@ images:
 linktitle: ''
 type: post
 ---
+
 **Welcome to the new Lasseigne Lab website!** While still under construction, we wanted to share a first post about our new team!
 
 <img src="/blog/2019-12-13-new-website.en_files/20191118_141811.jpg" alt="">
@@ -26,3 +27,6 @@ type: post
 **(left to right) Brittany Lasseigne, Vishal Oza, Sasha Thalluri, Drew Hardigan, Jen Fisher, Tabea Soelter, and Jordan Whitlock**
 
 Stay tuned for more!
+
+---
+**Avery Williams** -- _March 3rd, 2020_
