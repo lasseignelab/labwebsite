@@ -1,11 +1,6 @@
 ---
+date: "2020-04-02"
 title: Education
-author: ""
-categories: []
-description: ""
-images:
-- ""
-linktitle: ""
 ---
 #### __<a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">Lasseigne Lab Hosted Data Science Office Hours for UAB trainees, faculty, and staff</a>__ 
 ---
