@@ -6,17 +6,17 @@ title: Education
 ### Welcome to our data science education page. 
 ##### _If you are UAB trainees, faculty, or staff and want to get started, please check out these resources._
 <ul>
-<li><p>We in the Lasseigne Lab do most of our omics analysis with R. and RStudio and we recommend that you do the same. Directions for downloading and installing R and RStudio as well as some lesosns on R programming can be found <a href="/education/education_resources/rmasterguide.html" target="_blank">here</a></p></li>
-<li><p>Check out some resources and tutorials for RNA-Seq analysis <a href="/education/education_resources/rnaseqguide.html" target="_blank">here</a></p></li>
-<li><p>If you need help, please see our 'Data Science Office Hours' guide <a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">here</a><p></li>
+<li><p>The Lasseigne Lab executes most downstream omics analysis with R in RStudio and we generally recommend the same for others. Directions for downloading and installing R and RStudio, as well as vetted R programming lessons for beginners, can be found <a href="/education/education_resources/rmasterguide.html" target="_blank">here</a></p></li>
+<li><p>Curated resources and tutorials for RNA-Seq analysis are found <a href="/education/education_resources/rnaseqguide.html" target="_blank">here</a></p></li>
+<li><p>Information about the Lasseigne Lab-hoted 'Data Science Office Hours' can be found in <a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">this guide</a><p></li>
 </ul>
-We recommend:
+When getting started with data analysis, we recommend:
 <ol>
-<li><p>Check the data science guides listed on this page</p></li>
-<li><p>Google your error on the topic you are interested in and read up on it</p></li>
-<li><p>Leave a message on the #datascience 'UAB Labs' Slack channel as described in the 'Data Science Office Hours' guide</p></li>
-<li><p>Attend Data Science Office Hours on Zoom or Slack as described in the guide above</p></li>
-<li><p>If you have done all of these and are still stuck or need help, email Brittany at <a href="mailto:bnp0001@uab.edu">bnp0001@uab.edu</a> and she will help you get unstuck</p></li>
+<li><p>Check the data science guides listed above for general information on your topic</p></li>
+<li><p>Google any errors you might encounter and first read and try solutions</p></li>
+<li><p>Leave a message on the #datascience 'UAB Labs' Slack channel as described in the 'Data Science Office Hours' <a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">guide</a></p></li>
+<li><p>Attend 'Data Science Office Hours' on Zoom or Slack as described in the <a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">guide</a> above</p></li>
+<li><p>If you have tried each step above and still require assistance, you can email Dr. Lasseigne at bnp0001[@]uab.edu. She will confirm you have walked through the above steps and then help you figure out your next one</p></li>
 </ol>
 
 ---
