@@ -38,12 +38,12 @@
   </url>
   
   <url>
-    <loc>/tags/website/</loc>
+    <loc>/categories/website/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/website/</loc>
+    <loc>/tags/website/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,11 +123,19 @@
   </url>
   
   <url>
+    <loc>/tags/biotrain/</loc>
+  </url>
+  
+  <url>
     <loc>/2018-06-04-biotraincompbioworkshop2018/</loc>
   </url>
   
   <url>
     <loc>/brittany-education/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/computational-biology/</loc>
   </url>
   
   <url>
@@ -144,6 +152,10 @@
   
   <url>
     <loc>/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/workshop/</loc>
   </url>
   
 </urlset>
