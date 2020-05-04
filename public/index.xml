@@ -17,7 +17,8 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/education/</guid>
-      <description>Welcome to our data science education page. If you are UAB trainees, faculty, or staff and want to get started, please check out these resources.  We in the Lasseigne Lab do most of our omics analysis with R. and RStudio and we recommend that you do the same. Directions for downloading and installing R and RStudio as well as some lesosns on R programming can be found here</description>
+      <description>Welcome to our data science education page. If you are UAB trainees, faculty, or staff and want to get started, please check out these resources.  The Lasseigne Lab executes most downstream omics analysis with R in RStudio and we generally recommend the same for others. Directions for downloading and installing R and RStudio, as well as vetted R programming lessons for beginners, can be found here
+ Curated resources and tutorials for RNA-Seq analysis are found here</description>
     </item>
     
     <item>
@@ -65,6 +66,17 @@ We&amp;rsquo;ve been fortunate to recruit such a strong, interdisciplinary team.
       
       <guid>/research-projects/tool-development/</guid>
       <description>Building on the lab&amp;rsquo;s interest in sharing tools with the research community, we are developing project-relevant R packages and Shiny applications including test data and instructional vignettes to facilitate exploration, visualization, and analysis of multidimensional data sets. Such tools will accelerate future discoveries by allowing more rapid analysis of the relationships among genomic data sets and with disease, as well as increase research reproducibility in data-driven approaches to complex disease research.</description>
+    </item>
+    
+    <item>
+      <title>BioTrain Computational Biology Workshop 2018</title>
+      <link>/2018-06-04-biotraincompbioworkshop2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2018-06-04-biotraincompbioworkshop2018/</guid>
+      <description>Introduction to Biology with Computers Slides
+Computational Biology Lab Notebook and Help Slides
+What Now? &amp;ndash; Continued Learning Slides</description>
     </item>
     
     <item>

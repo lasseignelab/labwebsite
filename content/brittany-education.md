@@ -8,7 +8,7 @@ title: "Brittany Lasseigne's Teaching and Outreach"
 
 <li><p>Guest speaker for <a href="https://hudsonalpha.org/education/teachers/gtac/" target="_blank">HudsonAlpha GTAC: Advanced Concepts workshop</a>; <a href="https://drive.google.com/file/d/121bheU4s84VCmeNIHt-hH1zXz5Qyvwhl/view?usp=sharing" target="_blank">&lsquo;Introduction to Machine Learning with Genomic Data Applications&rsquo; slides</a></p></li>
 
-<li><p>Content Developer and instructor for the 2018 <a href="https://hudsonalpha.org/biotrain/" target="_blank">HudsonAlpha BioTrain</a> Computational Biology <a href="post/2018-06-04-biotraincompbioworkshop2018" target="_blank">Bootcamp</a> (4 June 2018)</p></li>
+<li><p>Content Developer and instructor for the 2018 <a href="https://hudsonalpha.org/biotrain/" target="_blank">HudsonAlpha BioTrain</a> Computational Biology <a href="/2018-06-04-biotraincompbioworkshop2018" target="_blank">Bootcamp</a> (4 June 2018)</p></li>
 
 <li><p>Co-lead instructor of a <a href="https://software-carpentry.org/" target="_blank">Software Carpentry Workshop</a> at the George Washington University in Washington D.C. (8-9 March 2018) on <a href="https://rrlove.github.io/2018-03-08-gwu/" target="_blank">Unix shell, Git version control, and R programming.</a></p></li>
 
