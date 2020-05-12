@@ -50,7 +50,7 @@ Jen is a Ph.D. student in the Genomics, Genetics, and Bioinformatics theme withi
 ### Jordan Whitlock
 ##### _Graduate Research Assistant_
 
-Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. is Genetics and Genomic Sciences from UAB. Her projects and interests focus on developing and applying disease-agnostic computational approaches to understand the role of context dependency across and within disease. Jordan has a particular heart for rare diseases. 
+Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Genetics and Genomic Sciences from UAB. Her projects and interests focus on developing and applying disease-agnostic computational approaches to understand the role of context dependency across and within disease. Jordan has a particular heart for rare diseases. 
 
 ---
 
