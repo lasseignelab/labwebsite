@@ -125,14 +125,14 @@ disableLanguages        = ["fr, de, pl, pt"]
     identifier        = "contact-us"
     url               = "/contact-us/"
     pre               = "<i class='far fa-envelope'></i>"
-    weight            = 3
+    weight            = 7
     
   [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 4
+    weight            = 3
 
   [[menu.main]]
     name              = "Publications"
@@ -146,14 +146,14 @@ disableLanguages        = ["fr, de, pl, pt"]
     identifier        = "education"
     url               = "/education/"
     pre               = "<i class='fas fa-chalkboard-teacher'></i>"
-    weight            = 7
+    weight            = 5
     
   [[menu.main]]
     name              = "Research"
     identifier        = "research"
     url               = "/research/"
     pre               = "<i class='fas fa-microscope'></i>"
-    weight            = 8
+    weight            = 4
 
 [Languages]
   # Each language has its own menu.

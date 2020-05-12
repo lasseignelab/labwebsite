@@ -10,7 +10,7 @@ Our research focuses on developing approaches for assaying and integrating omics
 ---
 # Our Current Team
 
-<img src="/about/_index_files/b lasseigne.jpg" alt="" width="200px"/> 
+<img src="/about/_index_files/Brittany.jpg" alt="" width="200px"/> 
 ### Brittany Lasseigne, Ph.D.
 ##### _Principal Investigator and Assistant Professor_
 
@@ -22,7 +22,7 @@ At UAB, Dr. Lasseigne is an assistant professor in the Department of Cell, Devel
 
 ---
 
-<img src="/about/_index_files/IMG_4471.JPG" alt="" width="200px"/>
+<img src="/about/_index_files/Avery.JPG" alt="" width="200px"/>
 ### Avery Williams
 ##### _Undergraduate Research Assistant_
 
@@ -30,7 +30,7 @@ Avery is an undergraduate research assistant majoring in Genetics and Genomic Sc
 
 ---
 
-<img src="/about/_index_files/drew.jpg" alt="" width="200px"/>
+<img src="/about/_index_files/Drew.jpg" alt="" width="200px"/>
 ### Drew Hardigan. Ph.D.
 ##### _Postdoctoral Fellow_
 
@@ -38,7 +38,7 @@ Drew is completing the M.D./Ph.D. program at UAB and currently completing a shor
 
 ---
 
-<img src="/about/_index_files/8CC37108-DD54-4451-8187-63B73E486866.JPEG" alt="" width="200px"/>
+<img src="/about/_index_files/Jen.JPEG" alt="" width="200px"/>
 ### Jen Fisher
 ##### _Graduate Research Assistant_
 
@@ -46,7 +46,7 @@ Jen is a Ph.D. student in the Genomics, Genetics, and Bioinformatics theme withi
 
 ---
 
-<img src="/about/_index_files/headshot.JPG" alt="" width="200px"/>
+<img src="/about/_index_files/Jordan.JPG" alt="" width="200px"/>
 ### Jordan Whitlock
 ##### _Graduate Research Assistant_
 
@@ -54,7 +54,7 @@ Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics t
 
 ---
 
-<img src="/about/_index_files/Image from iOS.jpg" alt="" width="200px"/>
+<img src="/about/_index_files/Sasha.JPG" alt="" width="200px"/>
 ### Sasha Thalluri
 ##### _Undergraduate Research Assistant_
 
@@ -62,13 +62,13 @@ Sasha is an honors undergraduate research assistant majoring in Genetics and Gen
 
 ---
 
-<img src="/about/_index_files/Screen Shot 2020-01-17 at 1.27.02 PM.png" alt="" width="200px"/>
+<img src="/about/_index_files/Tabea.png" alt="" width="200px"/>
 ### Tabea Soelter
 ##### _Graduate Research Assistant_
 
 ---
 
-<img src="/about/_index_files/image_from_ios(1).jpg" alt="" width="200px"/>
+<img src="/about/_index_files/Vishal.jpg" alt="" width="200px"/>
 ### Vishal Oza, Ph.D.
 ##### _Postdoctoral Fellow_
 
@@ -81,13 +81,13 @@ Vishal is a Postdoctoral Fellow interested in developing methods for analyzing h
 # Our Alumni
 
 
-<img src="/about/_index_files/Image from iOS (1).jpg" alt="" width="200px"/>
+<img src="/about/_index_files/Roshan.jpg" alt="" width="200px"/>
 ### Roshan Darji
 ##### _Computational Biologist (2019)_
 
 ---
 
 
-<img src="/about/_index_files/randi.png" alt="" width="200px"/>
+<img src="/about/_index_files/Randi.png" alt="" width="200px"/>
 ### Randi Wood
 ##### _Researcher IV and Lab Manager (2019-2020)_
