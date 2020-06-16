@@ -1,5 +1,6 @@
 ---
 date: "2020-04-02"
+categories: []
 title: Education
 ---
 
