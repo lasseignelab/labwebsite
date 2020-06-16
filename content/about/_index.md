@@ -14,7 +14,7 @@ Our research focuses on developing approaches for assaying and integrating omics
 ### Brittany Lasseigne, Ph.D.
 ##### _Principal Investigator and Assistant Professor_
 
-At UAB, Dr. Lasseigne is an assistant professor in the Department of Cell, Developmental and Integrative Biology, an associate scientist in the O’Neal Comprehensive Cancer Center, and a scientist in both the Hugh Kaul Precision Medicine Institute and the Informatics Institute.
+Dr. Lasseigne is an Assistant Professor in the Department of Cell, Developmental and Integrative Biology, an Associate Scientist in both the O’Neal Comprehensive Cancer Center Experimental Therapeutics Program and the Center for Clinical and Translational Science, and a Scientist in both the Informatics Institute and the Hugh Kaul Precision Medicine Institute at the University of Alabama at Birmingham. She previously completed a BS in Biological Engineering at Mississippi State University, an interdisciplinary biology, chemistry, and chemical engineering PhD in Biotechnology Science and Engineering from The University of Alabama in Huntsville, and a postdoctoral fellowship in genetics and genomics at the HudsonAlpha Institute for Biotechnology. Brittany is passionate about developing and applying genomics technologies to human diseases and teaching data science to students and scientists of all backgrounds.
 
 <a href="https://www.ncbi.nlm.nih.gov/myncbi/brittany.lasseigne.1/bibliography/public/">Brittany's Publications</a> <a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9901758&icde=48597598&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=">and Grants</a>
 
@@ -26,15 +26,7 @@ At UAB, Dr. Lasseigne is an assistant professor in the Department of Cell, Devel
 ### Avery Williams
 ##### _Undergraduate Research Assistant_
 
-Avery is an undergraduate research assistant majoring in Genetics and Genomic Sciences and participating in the Science and Technology honors program. She participates in collaborative research on rare diseases like Friedreich’s Ataxia and is responsible for designing the lab website. 
-
----
-
-<img src="/about/_index_files/Drew.jpg" alt="" width="200px"/>
-### Drew Hardigan. Ph.D.
-##### _Postdoctoral Fellow_
-
-Drew is completing the M.D./Ph.D. program at UAB and currently completing a short postdoc in the lab developing and applying next-generation sequencing based “liquid biopsies” to improve diagnostic, prognostic, and therapeutic biomarkers of neurological disease. 
+Avery is an undergraduate research assistant majoring in Genetics and Genomic Sciences and a part of the Science and Technology honors program. She is responsible for the lab website and collaborates on multiple projects for the lab. Her current focus is working with comprehensive Glioblastoma RNA profiles to identify optimal research model systems and patient avatars, as well as understand Glioblastoma-associated blood and brain gene expression profiles.
 
 ---
 
@@ -42,7 +34,7 @@ Drew is completing the M.D./Ph.D. program at UAB and currently completing a shor
 ### Jen Fisher
 ##### _Graduate Research Assistant_
 
-Jen is a Ph.D. student in the Genomics, Genetics, and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Biological Engineering with a minor in Mathematics from Mississippi State University. Jen is currently applying machine learning approaches to uncovering biomarkers for drug repurposing, liquid biopsies, and chromosomal instability. 
+Jen is a current Ph.D. student in the Genomics, Genetics, and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She is supported by UAB’s AMC21 Scholars program. In 2019, She earned a B.S. in Biological Engineering with a minor in Mathematics from Mississippi State University. Jen is currently applying machine learning approaches to uncover biomarkers for drug repurposing, liquid biopsies, rare diseases, and chromosomal instability.
 
 ---
 
@@ -50,7 +42,7 @@ Jen is a Ph.D. student in the Genomics, Genetics, and Bioinformatics theme withi
 ### Jordan Whitlock
 ##### _Graduate Research Assistant_
 
-Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Genetics and Genomic Sciences from UAB. Her projects and interests focus on developing and applying disease-agnostic computational approaches to understand the role of context dependency across and within disease. Jordan has a particular heart for rare diseases. 
+Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Genetics and Genomic Sciences from UAB. Her projects and interests focus on developing and applying disease-agnostic computational approaches to understand the role of context dependency across and within disease. Jordan has a particular heart for rare diseases. She is currently investigating why context matters within ciliopathy and autophagy associated disorders.
 
 ---
 
@@ -58,7 +50,7 @@ Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics t
 ### Sasha Thalluri
 ##### _Undergraduate Research Assistant_
 
-Sasha is an honors undergraduate research assistant majoring in Genetics and Genomic Sciences. She is contributing to our genomic instabilities projects by gathering and analyzing genomics data to create predictive models of human cancer. 
+Sasha is an honors undergraduate student majoring in Genetics and Genomic Sciences at UAB. She is a part of our chromosomal instabilities project, which is geared towards gathering and analyzing genomics data to create predictive models of human cancer. She is currently applying computational approaches to determine chromosomal instability across human cancers in relation to cell proliferation. Sasha is also working on how to compare mouse and human genomics data sets. 
 
 ---
 
@@ -66,13 +58,15 @@ Sasha is an honors undergraduate research assistant majoring in Genetics and Gen
 ### Tabea Soelter
 ##### _Graduate Research Assistant_
 
+Tabea is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Cell and Molecular Biology from Piedmont College. Tabea's interests are widespread with particular curiosity for aging-related processes in disease. She is currently working on establishing age-associated signatures across cancers with telomerase promoter mutations using computational approaches.
+
 ---
 
 <img src="/about/_index_files/Vishal.jpg" alt="" width="200px"/>
 ### Vishal Oza, Ph.D.
 ##### _Postdoctoral Fellow_
 
-Vishal is a Postdoctoral Fellow interested in developing methods for analyzing high dimensional biological data through machine learning and network theory approaches.
+Vishal is a Postdoctoral Fellow at University of Alabama at Birmingham. He got his PhD from University of Alabama, Tuscaloosa where he developed methods for constructing network models of Drosophila melanogaster metabolome from untargeted metabolomics data. His research interests include analyzing high dimensional biological data using machine learning and network theory. His current research involves multiomics data integration in cancer and developing network based approaches to compare n=1 patient profiles. 
 
 ---
 ---
@@ -87,7 +81,13 @@ Vishal is a Postdoctoral Fellow interested in developing methods for analyzing h
 
 ---
 
-
 <img src="/about/_index_files/Randi.png" alt="" width="200px"/>
 ### Randi Wood
 ##### _Researcher IV and Lab Manager (2019-2020)_
+
+---
+
+<img src="/about/_index_files/Drew.jpg" alt="" width="200px"/>
+### Drew Hardigan. Ph.D.
+##### _Visiting Postdoctoral Fellow (2020)_
+###### Currently: Neurosurgery Resident, Duke University
