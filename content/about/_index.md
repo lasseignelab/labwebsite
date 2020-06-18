@@ -78,6 +78,7 @@ Vishal is a Postdoctoral Fellow at University of Alabama at Birmingham. He got h
 <img src="/about/_index_files/Roshan.jpg" alt="" width="200px"/>
 ### Roshan Darji
 ##### _Computational Biologist (2019)_
+###### Currently: Department of Biostatistics, Rollins School of Public Health, Emory University
 
 ---
 
