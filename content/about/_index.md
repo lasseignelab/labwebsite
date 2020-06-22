@@ -46,6 +46,14 @@ Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics t
 
 ---
 
+<img src="/about/_index_files/Kasi.jpg" alt="" width="200px"/>
+### Kasi McPherson
+##### _Postdoctoral Fellow_
+
+Kasi is a Postdoctoral Fellow in the <a href="https://www.uab.edu/meritprogram/" target="_blank">IRACDA-MERIT Program</a> at the University of Alabama at Birmingham. She obtained her PhD in Medical Pharmacology from University of Mississippi Medical Center, Jackson MS where her research projected was focused on testing pharmacological agents as potential treatments of obesity related kidney disease using a novel genetic rat model of obesity. Her current research interest includes application of data science-based methods to identify therapeutic targets for cardiovascular diseases, particularly in high-risk population.
+
+---
+
 <img src="/about/_index_files/Sasha.JPG" alt="" width="200px"/>
 ### Sasha Thalluri
 ##### _Undergraduate Research Assistant_
