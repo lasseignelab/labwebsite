@@ -7,11 +7,12 @@ title: Education
 ### Welcome to our data science education page. 
 ##### _If you are UAB trainees, faculty, or staff and want to get started, please check out these resources._
 <ul>
+<li><p>Information about the Lasseigne Lab-hosted 'Data Science Office Hours' can be found in <a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">this guide</a><p></li>
 <li><p>The Lasseigne Lab executes most downstream omics analysis with R in RStudio and we generally recommend the same for others. Directions for downloading and installing R and RStudio, as well as vetted R programming lessons for beginners, can be found <a href="/education/education_resources/rmasterguide.html" target="_blank">here</a></p></li>
 <li><p>Curated resources and tutorials for RNA-Seq analysis are found <a href="/education/education_resources/rnaseqguide.html" target="_blank">here</a></p></li>
 <li><p>Information about Single-Cell Transcriptomics can be found <a href="/education/education_resources/singlecellguide.html" target="_blank">here</a></p></li>
-<li><p>To learn more about how to use the Command Line interface, click <a href="/education/education_resources/commandlineguide.html" target="_blank">here</a></p></li>
-<li><p>Information about the Lasseigne Lab-hosted 'Data Science Office Hours' can be found in <a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">this guide</a><p></li>
+<li><p>Information about the Command Line interface can be found <a href="/education/education_resources/commandlineguide.html" target="_blank">here</a></p></li>
+<li><p>Information about the Cancer Genome Atlas can be found <a href="/education/education_resources/tcgaguide.html" target="_blank">here</a></p></li>
 </ul>
 When getting started with data analysis, we recommend:
 <ol>
