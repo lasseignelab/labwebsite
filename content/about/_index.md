@@ -54,6 +54,14 @@ Kasi is a Postdoctoral Fellow in the <a href="https://www.uab.edu/meritprogram/"
 
 ---
 
+<img src="/about/_index_files/Lizzy.png" alt="" width="200px"/>
+### Lizzy Ramsey
+##### _Researcher III and Lab Manager_
+
+Lizzy earned her B.S. in Biology with a minor in Chemistry from the University of Alabama at Huntsville. Prior to working at the University of Alabama at Birmingham, she applied genomics technologies such as RNA-Seq for understanding cancer and chemotherapy resistance as a research assistant. In her current role as Lasseigne lab manager and staff scientist, she analyzes, integrates, and interprets genomics data for multiple disease projects aimed at understanding disease biology and identify biomarkers.
+
+---
+
 <img src="/about/_index_files/Sasha.JPG" alt="" width="200px"/>
 ### Sasha Thalluri
 ##### _Undergraduate Research Assistant_
