@@ -12,7 +12,8 @@ title: Education
 <li><p>Curated resources and tutorials for RNA-Seq analysis are found <a href="/education/education_resources/rnaseqguide.html" target="_blank">here</a></p></li>
 <li><p>Information about Single-Cell Transcriptomics can be found <a href="/education/education_resources/singlecellguide.html" target="_blank">here</a></p></li>
 <li><p>Information about the Command Line interface can be found <a href="/education/education_resources/commandlineguide.html" target="_blank">here</a></p></li>
-<li><p>Information about the Cancer Genome Atlas can be found <a href="/education/education_resources/tcgaguide.html" target="_blank">here</a></p></li>
+<li><p>Information about The Cancer Genome Atlas (TCGA) can be found <a href="/education/education_resources/tcgaguide.html" target="_blank">here</a></p></li>
+<li><p>Information about the Genotype-Tissue Expression (GTEx) project can be found <a href"/education/education_resources/gtexguide.html" target="_blank">here</a></p></li>
 </ul>
 When getting started with data analysis, we recommend:
 <ol>
