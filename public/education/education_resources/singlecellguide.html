@@ -1539,7 +1539,7 @@ div.tocify {
 
 
 <h1 class="title toc-ignore">Single-Cell Transcriptomics Guide</h1>
-<h3 class="subtitle">Version 1.0</h3>
+<h3 class="subtitle">Version 1.1.0</h3>
 <h4 class="author">Sasha Thalluri, Lasseigne Lab, CDIB, UAB</h4>
 <h4 class="author">Developed with assistance from the Lasseigne Lab and Dr. Lara Ianov, UAB</h4>
 <address class="author_afil">
@@ -1610,6 +1610,17 @@ For questions, email Dr. Lasseigne at <a href="mailto:bnp0001@uab.edu" class="e
 <ul>
 <li>Paper that demonstrates how hashing can generalize the benefits of single cell multiplexing to diverse samples and experimental designs</li>
 </ul>
+<p><a href="https://pair-code.github.io/understanding-umap/">Understanding UMAP</a></p>
+<ul>
+<li>Review that focuses on dimensionality reduction using a new technique called UMAP</li>
+<li>Includes information on
+<ul>
+<li>How the UMAP algorithm works</li>
+<li>How to use UMAP effectively</li>
+<li>How UMAP compares with t-SNE (a widely used technique for visualizing)</li>
+</ul></li>
+</ul>
+<p><br></p>
 </div>
 <div id="courses" class="section level1">
 <h1>Courses</h1>
@@ -1624,6 +1635,7 @@ For questions, email Dr. Lasseigne at <a href="mailto:bnp0001@uab.edu" class="e
 <p>Here is an overview of the new computational analysis strategies and experimental technologies presented at Single Cell Genomics Day 2020. To access this video, click <a href="https://www.youtube.com/watch?v=b9bqKulMLp8">here.</a> To access the slides used in the video, click <a href="https://satijalab.org/scgd/">here.</a></p>
 <p><strong>Machine Learning for Single Cell Analysis Workshop</strong></p>
 <p>A course that helps its participants receive an introduction to emerging trends in single cell analysis, learn how to analyze single cell data sets, and develop an understanding of machine learning foundations. To access this workshop, click <a href="https://www.krishnaswamylab.org/workshop">here.</a></p>
+<p><br></p>
 </div>
 <div id="databases" class="section level1">
 <h1>Databases</h1>
@@ -1634,6 +1646,7 @@ For questions, email Dr. Lasseigne at <a href="mailto:bnp0001@uab.edu" class="e
 <p><strong>Mouse Brain Cell Atlas</strong></p>
 <p>Mouse Brain Cell Atlas uses the interactive online software (DropViz) to serve as a reference for development, disease, and evolution. To access it, click <a href="http://dropviz.org/">here.</a></p>
 <p><strong>CancerSEA</strong> CancerSEA is a database that aims to comprehensively decode distinct functional states of cancer cells at single-cell resolution. To access it, click <a href="http://biocc.hrbmu.edu.cn/CancerSEA/home.jsp">here.</a></p>
+<p><br></p>
 </div>
 <div id="tools" class="section level1">
 <h1>Tools</h1>
@@ -1660,6 +1673,9 @@ For questions, email Dr. Lasseigne at <a href="mailto:bnp0001@uab.edu" class="e
 <p>This is a tutorial that will show how to generate the spatially-resolved gene-count matrix for each spot using <strong>Alevin</strong> and visualize it using <strong>Seurat</strong>. To access the tutorial, click <a href="https://combine-lab.github.io/alevin-tutorial/2020/alevin-spatial/">here.</a></p>
 <p><strong>ReactomeGSA</strong></p>
 <p>This package allows for Gene Set Enrichment Analysis using the Reactome database. It allows for comparison of independent datasets across species as well as different omics including single-cell RNA-seq analysis. It also has inbuilt plotting tools. To access the paper that introduces this package, click <a href="https://www.biorxiv.org/content/10.1101/2020.04.16.044958v1.full.pdf">here.</a></p>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+<center>
+<p>Version 1.1.0: Added Coenen, <em>et.al</em>, <a href="https://pair-code.github.io/understanding-umap/">https://pair-code.github.io/understanding-umap/</a> <br></p>
 </div>
 
 
@@ -1712,7 +1728,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
