@@ -17,7 +17,13 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/education/</guid>
-      <description>Welcome to our data science education page. If you are UAB trainees, faculty, or staff and want to get started, please check out these resources.  Information about the Lasseigne Lab-hosted &amp;lsquo;Data Science Office Hours&amp;rsquo; can be found in this guide The Lasseigne Lab executes most downstream omics analysis with R in RStudio and we generally recommend the same for others. Directions for downloading and installing R and RStudio, as well as vetted R programming lessons for beginners, can be found here</description>
+      <description>Welcome to our data science education page. If you are UAB trainees, faculty, or staff and want to get started, please check out these resources. Data Science Guides  Lasseigne Lab-hosted &#39;Data Science Office Hours&#39; R and RStudio
+ RNA-Seq Analysis
+ Single-Cell Transcriptomics
+ Command Line Interface
+ The Cancer Genome Atlas (TCGA)
+ The Genotype-Tissue Expression (GTEx) Project
+  When getting started with data analysis, we recommend:  Check the data science guides listed above for general information on your topic</description>
     </item>
     
     <item>
@@ -38,18 +44,6 @@ We&amp;rsquo;ve been fortunate to recruit such a strong, interdisciplinary team.
       
       <guid>/2018-06-04-biotraincompbioworkshop2018/</guid>
       <description>Objective/Rationale: This one day workshop is intended to provide HudsonAlpha undergraduate student BioTrain interns and graduate rotation students an introduction to computational biology through a discussion on why computers are necessary in genomics, short unix shell and R tutorials followed by hands-on exercises (The Carpentries lessons), and tips on how to ask for help, keeping a computational lab notebook, and finding additional learning resources. Pre-requisites: Curiosity about computational biology and a basic understanding of the concepts of files and directories.</description>
-    </item>
-    
-    <item>
-      <title>Brittany Lasseigne&#39;s Teaching and Outreach</title>
-      <link>/brittany-education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/brittany-education/</guid>
-      <description>Guest speaker for MCBIOS19 Student Career Development Session; &amp;lsquo;Social Media for Science Careers&amp;rsquo; slides
- Guest speaker for HudsonAlpha GTAC: Advanced Concepts workshop; &amp;lsquo;Introduction to Machine Learning with Genomic Data Applications&amp;rsquo; slides
- Content Developer and instructor for the 2018 HudsonAlpha BioTrain Computational Biology Bootcamp (4 June 2018)
- Co-lead instructor of a Software Carpentry Workshop at the George Washington University in Washington D.C. (8-9 March 2018) on Unix shell, Git version control, and R programming.</description>
     </item>
     
     <item>

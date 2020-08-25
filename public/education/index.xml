@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lasseigne Lab</title>
+    <link>/education/</link>
+    <description>Recent content on Lasseigne Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science Guides</title>
+      <link>/education/guides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/education/guides/</guid>
+      <description>Information about the Lasseigne Lab-hosted &amp;lsquo;Data Science Office Hours&amp;rsquo; can be found in this guide The Lasseigne Lab executes most downstream omics analysis with R in RStudio and we generally recommend the same for others. Directions for downloading and installing R and RStudio, as well as vetted R programming lessons for beginners, can be found here
+ Curated resources and tutorials for RNA-Seq analysis are found here
+ Information about Single-Cell Transcriptomics can be found here</description>
+    </item>
+    
+    <item>
+      <title>Teaching and Outreach</title>
+      <link>/education/brittany-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/education/brittany-education/</guid>
+      <description>Guest speaker for MCBIOS19 Student Career Development Session; &amp;lsquo;Social Media for Science Careers&amp;rsquo; slides
+ Guest speaker for HudsonAlpha GTAC: Advanced Concepts workshop; &amp;lsquo;Introduction to Machine Learning with Genomic Data Applications&amp;rsquo; slides
+ Content Developer and instructor for the 2018 HudsonAlpha BioTrain Computational Biology Bootcamp (4 June 2018)
+ Co-lead instructor of a Software Carpentry Workshop at the George Washington University in Washington D.C. (8-9 March 2018) on Unix shell, Git version control, and R programming.</description>
+    </item>
+    
+  </channel>
+</rss>

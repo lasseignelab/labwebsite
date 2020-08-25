@@ -30,6 +30,22 @@ Avery is an undergraduate research assistant majoring in Genetics and Genomic Sc
 
 ---
 
+<img src="/about/_index_files/Emily.jpg" alt="" width="200px"/>
+### Emily Page
+##### _Research Assistant / Grad PREP Scholar_
+
+Emily is in the Graduate PREP Scholars program at UAB, which is a one year training program for students who are seeking graduate degrees in the biomedical sciences. She earned her B.S. in Biology, majoring in Biomedical Sciences from University of Alabama at Birmingham.  Some of her favorite previous work included Corynebacterium Bacteriophage gene analysis and color Gene analysis of Glacier Bears.
+
+---
+
+<img src="/about/_index_files/Jack.jpg" alt="" width="200px"/>
+### Jack Hoover
+##### _Fall 2020 Graduate Rotation Student_
+
+Jack is a current Ph.D. student in the Cellular, Molecular and Developmental Biology theme within the UAB Graduate Biomedical Sciences program. He earned a B.S. in Molecular Biology with a minor in Chemistry from The University of Southern Mississippi.
+
+---
+
 <img src="/about/_index_files/Jen.JPEG" alt="" width="200px"/>
 ### Jen Fisher
 ##### _Graduate Research Assistant_

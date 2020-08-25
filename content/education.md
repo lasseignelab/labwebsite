@@ -6,15 +6,20 @@ title: Education
 
 ### Welcome to our data science education page. 
 ##### _If you are UAB trainees, faculty, or staff and want to get started, please check out these resources._
+---
+### Data Science Guides
 <ul>
-<li><p>Information about the Lasseigne Lab-hosted 'Data Science Office Hours' can be found in <a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">this guide</a><p></li>
-<li><p>The Lasseigne Lab executes most downstream omics analysis with R in RStudio and we generally recommend the same for others. Directions for downloading and installing R and RStudio, as well as vetted R programming lessons for beginners, can be found <a href="/education/education_resources/rmasterguide.html" target="_blank">here</a></p></li>
-<li><p>Curated resources and tutorials for RNA-Seq analysis are found <a href="/education/education_resources/rnaseqguide.html" target="_blank">here</a></p></li>
-<li><p>Information about Single-Cell Transcriptomics can be found <a href="/education/education_resources/singlecellguide.html" target="_blank">here</a></p></li>
-<li><p>Information about the Command Line interface can be found <a href="/education/education_resources/commandlineguide.html" target="_blank">here</a></p></li>
-<li><p>Information about The Cancer Genome Atlas (TCGA) can be found <a href="/education/education_resources/tcgaguide.html" target="_blank">here</a></p></li>
-<li><p>Information about the Genotype-Tissue Expression (GTEx) project can be found <a href="/education/education_resources/gtexguide.html" target="_blank">here</a></p></li>
+<li><p><a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">Lasseigne Lab-hosted 'Data Science Office Hours'</a><p></li>
+<li><p><a href="/education/education_resources/rmasterguide.html" target="_blank">R and RStudio</a></p></li>
+<li><p><a href="/education/education_resources/rnaseqguide.html" target="_blank">RNA-Seq Analysis</a></p></li>
+<li><p><a href="/education/education_resources/singlecellguide.html" target="_blank">Single-Cell Transcriptomics</a></p></li>
+<li><p><a href="/education/education_resources/commandlineguide.html" target="_blank">Command Line Interface</a></p></li>
+<li><p><a href="/education/education_resources/tcgaguide.html" target="_blank">The Cancer Genome Atlas (TCGA)</a></p></li>
+<li><p><a href="/education/education_resources/gtexguide.html" target="_blank">The Genotype-Tissue Expression (GTEx) Project</a></p></li>
 </ul>
+
+---
+
 When getting started with data analysis, we recommend:
 <ol>
 <li><p>Check the data science guides listed above for general information on your topic</p></li>
