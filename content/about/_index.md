@@ -1,6 +1,6 @@
 ---
 date: "2019-12-10"
-title: About Lasseigne Lab
+title: Our Team
 ---
 
 # Our Focus
