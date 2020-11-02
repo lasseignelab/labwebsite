@@ -6,8 +6,6 @@ slug: new-website
 categories: [website]
 tags: [lab, website]
 description: ''
-images:
-  - ''
 linktitle: ''
 type: post
 ---
