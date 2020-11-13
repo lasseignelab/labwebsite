@@ -8,6 +8,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = ["fr, de, pl, pt"]
+ignoreFiles             = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [params]
   mainSections = ["blog", "post"]
@@ -71,13 +72,8 @@ disableLanguages        = ["fr, de, pl, pt"]
       alt                 = "Lasseigne Lab"
 
   [params.sidebar]
-    about               = "We are a lab of learners, of teachers, of thinkers and doers."
-    # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 3
     # set to show or to hide categories in the sidebar
-    categories          = true
-    # Sets Categories to sort by number of posts instead of alphabetical
-    categoriesByCount   = true
 
   [params.footer]
     # Sets RSS icons to appear on the sidebar with the social media buttons
@@ -126,13 +122,6 @@ disableLanguages        = ["fr, de, pl, pt"]
     url               = "/contact-us/"
     pre               = "<i class='far fa-envelope'></i>"
     weight            = 7
-    
-  [[menu.main]]
-    name              = "Blog"
-    identifier        = "blog"
-    url               = "/blog/"
-    pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
 
   [[menu.main]]
     name              = "Publications"

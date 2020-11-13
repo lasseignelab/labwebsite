@@ -1,11 +1,18 @@
 ---
-date: "2020-04-02"
-categories: []
 title: Education
+author: ""
+categories: []
+tags: []
+description: ""
+images:
+- ""
+linktitle: ""
 ---
 
-### Welcome to our data science education page. 
-##### _If you are UAB trainees, faculty, or staff and want to get started, please check out these resources._
+#### <p style="text-align:center;">Welcome to our data science education page.</p>
+
+_<p style="text-align:center;">If you are UAB trainees, faculty, or staff and want to get started, please check out these resources:</p>_
+
 ---
 ### Data Science Guides
 <ul>
