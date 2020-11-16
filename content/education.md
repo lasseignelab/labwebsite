@@ -23,6 +23,7 @@ _<p style="text-align:center;">If you are UAB trainees, faculty, or staff and wa
 <li><p><a href="/education/education_resources/commandlineguide.html" target="_blank">Command Line Interface</a></p></li>
 <li><p><a href="/education/education_resources/tcgaguide.html" target="_blank">The Cancer Genome Atlas (TCGA)</a></p></li>
 <li><p><a href="/education/education_resources/gtexguide.html" target="_blank">The Genotype-Tissue Expression (GTEx) Project</a></p></li>
+<li><p><a href="/education/education_resources/reproducibilityguide.html" target="_blank">Reproducible Research</a></p></li>
 </ul>
 
 ---
