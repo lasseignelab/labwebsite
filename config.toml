@@ -117,32 +117,39 @@ ignoreFiles             = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$
     weight            = 2
 
   [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact-us"
-    url               = "/contact-us/"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 7
-
-  [[menu.main]]
-    name              = "Publications"
-    identifier        = "publications"
-    url               = "/publications/"
-    pre               = "<i class='far fa-file-alt'></i>"
-    weight            = 6
+    name              = "Research"
+    identifier        = "research"
+    url               = "/research/"
+    pre               = "<i class='fas fa-microscope'></i>"
+    weight            = 3
     
   [[menu.main]]
     name              = "Education"
     identifier        = "education"
     url               = "/education/"
     pre               = "<i class='fas fa-chalkboard-teacher'></i>"
-    weight            = 5
-    
-  [[menu.main]]
-    name              = "Research"
-    identifier        = "research"
-    url               = "/research/"
-    pre               = "<i class='fas fa-microscope'></i>"
     weight            = 4
+
+  [[menu.main]]
+    name              = "Publications"
+    identifier        = "publications"
+    url               = "/publications/"
+    pre               = "<i class='far fa-file-alt'></i>"
+    weight            = 5
+
+  [[menu.main]]
+    name              = "Funding"
+    identifier        = "funding"
+    url               = "/funding/"
+    pre               = "<i class='fas fa-dollar-sign'></i>"
+    weight            = 6
+
+  [[menu.main]]
+    name              = "Contact"
+    identifier        = "contact-us"
+    url               = "/contact-us/"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 7
 
 [Languages]
   # Each language has its own menu.
