@@ -97,6 +97,16 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/_index_files/Shaurita.png" alt="" width="200px"/></p>
+
+### <p style="text-align:center;">Shaurita Hutchins</p>
+
+##### <p style="text-align:center;"> _Graduate Rotation Student_</p>
+
+<p style="text-align:center;">Shaurita is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Biology Premed from Xavier University of Louisiana and a M.S. in Biological Sciences from Mississippi College. Her interests focus on developing tools and methods to improve diagnosis, prediction, and treatment of diseases.</p>
+
+---
+
 <p style="text-align:center;"><img src="/about/_index_files/Tabea.png" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Tabea Soelter</p>
@@ -104,6 +114,16 @@ linktitle: ""
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
 <p style="text-align:center;">Tabea is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Cell and Molecular Biology from Piedmont College. Tabea's interests are widespread with particular curiosity for aging-related processes in disease. She is currently working on establishing age-associated signatures across cancers with telomerase promoter mutations using computational approaches.</p>
+
+---
+
+<p style="text-align:center;"><img src="/about/_index_files/TC.jpg" alt="" width="200px"/></p>
+
+### <p style="text-align:center;">TC Howton</p>
+
+##### <p style="text-align:center;"> _Researcher III and Lab Manager_</p>
+
+<p style="text-align:center;">T.C. earned his PhD in Biology from the University of Alabama at Birmingham. During his doctoral studies, T.C. focused on using network-based approaches to elucidate the molecular interactions between plants and bacterial pathogens. T.C. is currently serving as a lab manager as well as research scientist within the Lasseigne lab.</p>
 
 ---
 
