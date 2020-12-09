@@ -139,37 +139,29 @@ linktitle: ""
 
 # <ins><p style="text-align:center;">Our Alumni</p></ins>
 
-<p style="text-align:center;">
-<img src="/about/_index_files/Roshan.jpg" alt="" width="200px"/> </p>
-
 ### <p style="text-align:center;"> Roshan Darji </p>
 
 ##### <p style="text-align:center;"> _Computational Biologist (2019)_ </p>
 
-###### <p style="text-align:center;">Currently: Department of Biostatistics, Rollins School of Public Health, Emory University</p>
+<p style="text-align:center;">Currently: Department of Biostatistics, Rollins School of Public Health, Emory University</p>
 
 ---
-
-<p style="text-align:center;">
-<img src="/about/_index_files/Randi.png" alt="" width="200px"/> </p>
 
 ### <p style="text-align:center;"> Randi Wood </p>
 
 ##### <p style="text-align:center;"> _Researcher IV and Lab Manager (2019-2020)_ </p>
 
 ---
-<p style="text-align:center;">
-<img src="/about/_index_files/Drew.jpg" alt="" width="200px"/> </p>
 
 ### <p style="text-align:center;"> Drew Hardigan. Ph.D. </p>
 
 ##### <p style="text-align:center;"> _Visiting Postdoctoral Fellow (2020)_ </p>
 
-###### <p style="text-align:center;"> Currently: Neurosurgery Resident, Duke University </p>
+<p style="text-align:center;"> Currently: Neurosurgery Resident, Duke University </p>
 
 ---
-<p style="text-align:center;">
-<img src="/about/_index_files/Jack.jpg" alt="" width="200px"/> </p>
+
+## <ins><p style="text-align:center;">Past Rotation Students</p></ins>
 
 ### <p style="text-align:center;"> Jack Hoover </p>
 
