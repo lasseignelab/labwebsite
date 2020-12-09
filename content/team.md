@@ -71,7 +71,7 @@ linktitle: ""
 
 <p style="text-align:center;"><img src="/about/_index_files/Kasi.jpg" alt="" width="200px"/></p>
 
-### <p style="text-align:center;">Kasi McPherson</p>
+### <p style="text-align:center;">Kasi McPherson, Ph.D.</p>
 ##### <p style="text-align:center;"> _Postdoctoral Fellow_</p>
 
 <p style="text-align:center;">Kasi is a Postdoctoral Fellow in the <a href="https://www.uab.edu/meritprogram/" target="_blank">IRACDA-MERIT Program</a> at the University of Alabama at Birmingham. She obtained her PhD in Medical Pharmacology from University of Mississippi Medical Center, Jackson MS where her research projected was focused on testing pharmacological agents as potential treatments of obesity related kidney disease using a novel genetic rat model of obesity. Her current research interest includes application of data science-based methods to identify therapeutic targets for cardiovascular diseases, particularly in high-risk population.</p>
@@ -119,7 +119,7 @@ linktitle: ""
 
 <p style="text-align:center;"><img src="/about/_index_files/TC.jpg" alt="" width="200px"/></p>
 
-### <p style="text-align:center;">TC Howton</p>
+### <p style="text-align:center;">TC Howton, Ph.D.</p>
 
 ##### <p style="text-align:center;"> _Researcher III and Lab Manager_</p>
 
