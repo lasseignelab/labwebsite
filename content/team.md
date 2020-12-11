@@ -23,7 +23,7 @@ linktitle: ""
 
 <p style="text-align:center;">Dr. Lasseigne is an Assistant Professor in the Department of Cell, Developmental and Integrative Biology, an Associate Scientist in both the O’Neal Comprehensive Cancer Center Experimental Therapeutics Program and the Center for Clinical and Translational Science, and a Scientist in both the Informatics Institute and the Hugh Kaul Precision Medicine Institute at the University of Alabama at Birmingham. She previously completed a BS in Biological Engineering at Mississippi State University, an interdisciplinary biology, chemistry, and chemical engineering PhD in Biotechnology Science and Engineering from The University of Alabama in Huntsville, and a postdoctoral fellowship in genetics and genomics at the HudsonAlpha Institute for Biotechnology. Brittany is passionate about developing and applying genomics technologies to human diseases and teaching data science to students and scientists of all backgrounds.</p>
 
-<p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/brittany.lasseigne.1/bibliography/public/">Brittany's Publications</a> <a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9901758&icde=48597598&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=">and Grants</a></p>
+<p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/brittany.lasseigne.1/bibliography/public/">Brittany's Publications</a> <a href="https://www.lasseigne.org/funding/">and Grants</a></p>
 
 <p style="text-align:center;">bnp0001[@]uab.edu</p>
 
