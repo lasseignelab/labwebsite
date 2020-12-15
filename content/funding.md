@@ -27,7 +27,7 @@ linktitle: ""
  * Integrating multidimensional genomic data to discover clinically-relevant predictive models
 
 
-_<center>Note: co-I grants not included above.</center>_
+_<center>Note: not all co-I grants included above.</center>_
 
 ---
 
