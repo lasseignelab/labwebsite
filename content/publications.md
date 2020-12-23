@@ -10,6 +10,7 @@ linktitle: ""
 ---
 
 _<p style="text-align:center;"> Click from the links below for our lab members' publications:</p>_
+
 ## <ins><p style="text-align:center;">Current</p></ins>
 
 ### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/brittany.lasseigne.1/bibliography/public/" target="_blank">Brittany Lasseigne</a></p>
