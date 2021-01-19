@@ -17,13 +17,14 @@ _<p style="text-align:center;">If you are UAB trainees, faculty, or staff and wa
 ### Data Science Guides
 <ul>
 <li><p><a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">Lasseigne Lab-hosted 'Data Science Office Hours'</a><p></li>
-<li><p><a href="/education_resources/rmasterguide.html" target="_blank">R and RStudio</a></p></li>
-<li><p><a href="/education_resources/rnaseqguide.html" target="_blank">RNA-Seq Analysis</a></p></li>
-<li><p><a href="/education_resources/singlecellguide.html" target="_blank">Single-Cell Transcriptomics</a></p></li>
-<li><p><a href="/education_resources/commandlineguide.html" target="_blank">Command Line Interface</a></p></li>
-<li><p><a href="/education_resources/tcgaguide.html" target="_blank">The Cancer Genome Atlas (TCGA)</a></p></li>
-<li><p><a href="/education_resources/gtexguide.html" target="_blank">The Genotype-Tissue Expression (GTEx) Project</a></p></li>
-<li><p><a href="/education_resources/reproducibleresearchguide.html" target="_blank">Reproducible Research</a></p></li>
+<li><p><a href="/education_resources/rmds/rmasterguide.html" target="_blank">R and RStudio</a></p></li>
+<li><p><a href="/education_resources/rmds/rnaseqguide.html" target="_blank">RNA-Seq Analysis</a></p></li>
+<li><p><a href="/education_resources/rmds/singlecellguide.html" target="_blank">Single-Cell Transcriptomics</a></p></li>
+<li><p><a href="/education_resources/rmds/commandlineguide.html" target="_blank">Command Line Interface</a></p></li>
+<li><p><a href="/education_resources/rmds/tcgaguide.html" target="_blank">The Cancer Genome Atlas (TCGA)</a></p></li>
+<li><p><a href="/education_resources/rmds/gtexguide.html" target="_blank">The Genotype-Tissue Expression (GTEx) Project</a></p></li>
+<li><p><a href="/education_resources/rmds/reproducibleresearchguide.html" target="_blank">Reproducible Research</a></p></li>
+<li><p><a href="/education_resources/rmds/dnamethylationguide.html" target="_blank">DNA Methylation</a></p></li>
 </ul>
 
 ---
