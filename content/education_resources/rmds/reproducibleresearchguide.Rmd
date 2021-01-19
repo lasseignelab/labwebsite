@@ -4,8 +4,8 @@ subtitle: "Version 1.0"
 author:
   - name: "Jen Fisher and Avery Williams, Lasseigne Lab, CDIB, UAB"
   - name: "Developed with assistance from the Lasseigne Lab and Dr. Lara Ianov, UAB"
-    affiliation: For questions, email Dr. Lasseigne at <a href="mailto:bnp0001@uab.edu" target="_blank">bnp0001@uab.edu</a>
-date: "5/5/2020"
+    affiliation: For questions, email Dr. Lasseigne at bnp0001@uab.edu
+date: "4/24/2020"
 output:
   html_document:
     theme: spacelab
