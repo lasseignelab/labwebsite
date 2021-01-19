@@ -97,16 +97,6 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/Shaurita.png" alt="" width="200px"/></p>
-
-### <p style="text-align:center;">Shaurita Hutchins</p>
-
-##### <p style="text-align:center;"> _Graduate Rotation Student_</p>
-
-<p style="text-align:center;">Shaurita is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Biology Premed from Xavier University of Louisiana and a M.S. in Biological Sciences from Mississippi College. Her interests focus on developing tools and methods to improve diagnosis, prediction, and treatment of diseases.</p>
-
----
-
 <p style="text-align:center;"><img src="/about/_index_files/Tabea.png" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Tabea Soelter</p>
@@ -166,3 +156,7 @@ linktitle: ""
 ### <p style="text-align:center;"> Jack Hoover </p>
 
 ##### <p style="text-align:center;"> _Graduate Rotation Student (2020)_ </p>
+
+### <p style="text-align:center;">Shaurita Hutchins</p>
+
+##### <p style="text-align:center;"> _Graduate Rotation Student (2020)_</p>
