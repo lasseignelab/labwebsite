@@ -1,0 +1,114 @@
+---
+title: "R Master Guide"
+author: 
+  - name: "Sasha Thalluri Lasseigne Lab, CDIB, UAB"
+    affiliation: For questions, email Dr. Lasseigne at bnp0001@uab.edu
+date: "3/18/2020"
+output:
+  html_document:
+    theme: spacelab
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_control: yes
+  pdf_document:
+    toc: yes
+---
+
+# Introduction into R
+
+#### This is an SOP on getting started with R and RStudio. There are three main courses that should be taken to understand the basics.
+
+* Swirl
+* Software Carpentry 'R for Reproducible Scientific Analysis'
+* Software Carpentry 'Programming with R' 
+
+## Downloading R and RStudio
+
+[Here](https://swirlstats.com/students.html) is the quick start guide for installing R, RStudio, and R packages. 
+
+The latest version of R can be downloaded [here](https://cran.r-project.org/mirrors.html).
+
+RStudio is an application (an integrated development environment or IDE) that facilitates the use of R and offers a number of nice additional features. It can be downloaded [here](https://www.rstudio.com/products/rstudio/download/). You will need the free Desktop version for your computer.
+
+
+## Swirl
+
+#### A fun and interactive way to learn R programming
+
+Click on this [link](https://swirlstats.com/students.html) to take you to Swirl's tutorials. That link will give you instructions on how to install the Swirl package in RStudio. Follow the prompts it gives you. Afterwards, finish the following lessons.
+
+1. Basic Building Blocks
+2. Work space and Files
+3. Sequences of Numbers
+4. Vectors
+5. Missing Values
+6. Subsetting Vectors
+7. Matrices and Data Frames
+8. Logic
+9. Functions
+10. lapply and sapply
+11. vapply and tapply
+12. Looking at Data
+13. Simulation
+14. Dates and Times
+15. Base Graphics
+
+
+## Software Carpentry 'R for Reproducible Scientific Analysis'
+
+#### Lessons that give an introduction to R with 'real world' data science examples
+
+Click on this [link](http://swcarpentry.github.io/r-novice-gapminder/) to take you to the Software Carpentry lessons that are designed to teach novice programmers how to write code for data analysis.
+
+In particular, focus on the lessons listed below.
+
+1. Introduction to R and RStudio
+2. Project Management With RStudio
+3. Seeking Help
+4. Data Structures
+5. Exploring Data Frames
+6. Subsetting Data
+7. Control Flow
+8. Creating Publication-Quality Graphics with ggplot2
+9. Vectorization
+10. Functions Explained
+11. Writing Data
+15. Producing Reports With knitr
+16. Writing Good Software
+
+## Software Carpentry 'Programming with R' 
+
+#### Lessons that will further solidify fundamental concepts for R 
+
+Click on this [link](http://swcarpentry.github.io/r-novice-inflammation/) to take you to another set of Software Carpentry lessons. These lessons are geared towards teaching you how to manipulate data through different variables. 
+
+The following sections are recommended if you are trying to get the basics of data analysis through R. 
+
+1. Analyzing Patient Data
+2. Creating Functions
+3. Analyzing Multiple Data Sets
+4. Making Choices
+6. Best Practices for Writing R Code
+7. Dynamic Reports with knitr
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

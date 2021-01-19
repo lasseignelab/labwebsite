@@ -1,0 +1,81 @@
+---
+title: "Command Line Master Guide"
+subtitle: "Version 1.0"
+author: 
+  - name: "Sasha Thalluri Lasseigne Lab, CDIB, UAB"
+  - name: "Developed with assistance from the Lasseigne Lab and Dr. Lara Ianov, UAB"
+    affiliation: For questions, email Dr. Lasseigne at bnp0001@uab.edu
+date: "4/24/2020"
+output:
+  html_document:
+    theme: spacelab
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_control: yes
+  pdf_document:
+    toc: yes
+---
+
+# Introduction into Command Line
+
+#### This is an SOP on getting started with the Command Line Interface. Here, we provide fundamental information about Command Line and helpful resources to help you get started with the Command Line Interface. 
+
+## Command Line 
+
+Command Line is a text-based application that allows for viewing, handling, and manipulating files on your computer. 
+
+Usually, people work with programs that use Graphical User Interfaces (GUIs). GUIs use buttons and icons to complete certain tasks on the computer. Command Line also completes tasks, except it uses commands that must be typed into a Command Line Interface (CLI). 
+
+GUIs and CLIs both allow you to interact with your computer. However, CLI can be faster and more powerful to navigate with. That's why most programmers prefer it.
+
+## Unix Shell
+
+To access the CLI, we can use **Unix shell**. Shell is a program where people can type their commands in the CLI. **Bash** is the most popular shell used. 
+
+By using shell, users are able to complete repetitive tasks on their computer in a timely manner with minimal errors. Since shell uses commands, you must know the commands that are needed to achieve a specific task. Just knowing a few commands can bring one a long way in the world of shell because the commands used are universal. Shell is also able to read and execute a series of commands within a shell script, allowing users to execute numerous commands in an efficient manner.
+
+## Bash
+
+Bash (**B**ourne **A**gain **SH**ell) is the default shell for many Unix systems. While the commands for shell are universal, the commands used in bash are specific to bash. 
+
+## Helpful Resources 
+
+**Software Carpentry 'The Unix Shell'** is a course that will help you get started with learning how to use the CLI in shell. The course can be accessed [here](http://swcarpentry.github.io/shell-novice/).
+
+For a quick start into shell, focus on the lessons below.
+
+1. Introducing the Shell
+2. Navigating Files and Directories
+3. Working with Files and Directories
+
+For more advanced skills, take the remaining lessons.
+
+4. Pipes and Filters
+5. Loops
+6. Shell Scripts
+7. Finding Things
+
+**Codecademy 'The Command Line'** is an interactive course that can be used to further strengthen your skills. There is a free and pro version. To access the free version, click [here](https://www.codecademy.com/learn/learn-the-command-line). 
+
+**CMD Challenge** is a resource that uses fun exercises to test your CLI knowledge. There are also user submitted solutions you can take a look at if needed. To access CMD Challenge, click [here](https://cmdchallenge.com).
+
+**Unix Cheat Sheet** has a list of commands that are great for a quick reference. To access it, click [here](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/).
+
+**Bash Hackers Wiki** is a resource that has helpful descriptions of many commands that are used in Bash. To access the wiki page, click [here](https://wiki.bash-hackers.org).
+
+There are also many games you can play to test and strengthen your Bash skills. To access the list of games available, click [here](https://www.ostechnix.com/test-your-bash-skills-by-playing-command-line-games/).
+
+It is important to note that the latest version of macOS (Catalina) uses Z Shell (zsh) instead of Bash. It is very similar to Bash, but there are some minor differences. For example, ```.bashrc```  or ```.bash_profile``` are under different files names in your home directory. Thus, any information you have on these files such as aliases would have to be migrated over to the zsh files ```.zshrc``` and ```.zprofile```. More about the differences can be found [here](https://apple.stackexchange.com/questions/361870/what-are-the-practical-differences-between-bash-and-zsh)
+
+Bash is essential for efficient usage of High Performance Computing (HPC). Even if a user chooses to log in using OnDemand, one would still need to know how to create a basic shell script to submit jobs to Slurm. To help you get started with Cheaha, click [here](https://docs.uabgrid.uab.edu/wiki/Cheaha2_GettingStarted). To access OnDemand, click [here](https://rc.uab.edu/pun/sys/dashboard).
+
+
+
+
+
+
+
+
+
+

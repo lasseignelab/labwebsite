@@ -145,13 +145,13 @@ linktitle: ""
 
 <p style="text-align:center;">Currently: Department of Biostatistics, Rollins School of Public Health, Emory University</p>
 
----
+<br>
 
 ### <p style="text-align:center;"> Randi Wood </p>
 
 ##### <p style="text-align:center;"> _Researcher IV and Lab Manager (2019-2020)_ </p>
 
----
+<br>
 
 ### <p style="text-align:center;"> Drew Hardigan. Ph.D. </p>
 

@@ -1,0 +1,106 @@
+---
+title: "SOP for Guides"
+subtitle: "Version 1.0"
+author: 
+  - name: "Name of Lab Member, Lasseigne Lab, CDIB, UAB"
+  - name: "Developed with assistance from the Lasseigne Lab and Dr. Lara Ianov, UAB"
+    affiliation: For questions, email Dr. Lasseigne at bnp0001@uab.edu
+date: "Insert Date Here"
+output:
+  html_document:
+    theme: spacelab
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_control: yes
+  pdf_document:
+    toc: yes
+---
+
+
+# Introduction into Name of Guide
+***
+#### This is where you write that this is an SOP for whatever guide you are trying to make. Here you would write the types of resources you'll include in this SOP (e.g. papers, tools, workshops, etc).
+<br>
+
+
+# Papers
+***
+This is the section where you'll include papers. Here, write a blurb this section will include "a list of links to papers that have essential information" on the topic of the guide you're creating.
+<br>
+
+<a href="insert web url here">Insert Title of the Paper Here</a>
+
+* Use these bullets to write out essential information that will be a part of the a paper
+* You can also list out the type of information you can find in the paper
+  * You can use this sub-bullets to list out the parts
+  * And this sub-bullet
+  * And this one too
+
+ 
+Here is an example of how to include a paper from the Single Cell Guide:
+
+<a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4">A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications</a>
+
+* Review paper that presents a practical guide to help researchers design their first scRNA-seq studies
+* Includes introductory information on 
+  * Experimental hardware
+  * Protocol choice
+  * Quality control
+  * Data analysis
+  * Biological interpretation 
+
+# Courses
+*** 
+This is a section where you can include courses, workshops, and other resources that will give an overall introduction to the topic you are writing a guide on.
+<br>
+<br>
+**Insert the Title of Course/Workshop/Resource**
+
+Here, you would explain what this course/workshop would include. You can also write what the class focuses on to give people a better understanding on what is special about this particular course.  Then, you would include a sentence for people to access the link to the course/workshop/resource.
+
+Here is an example of how to include a course from the Single Cell Guide:
+
+**Analysis of Single Cell RNA-Seq Data**
+
+A course that covers all of the steps of scRNA-seq processing. It includes common analysis strategies and discusses central biological questions that can be addressed using scRNA-seq. To access this course, click <a href="https://broadinstitute.github.io/2019_scWorkshop/index.html">here.</a>
+
+Here is an example of how to include a talk with multiple linksfrom the Single Cell Guide :
+
+**Overview Talk of Single Cell Genomics Day 2020**
+
+Here is an overview of the new computational analysis strategies and experimental technologies presented at Single Cell Genomics Day 2020. 
+To access this video, click <a href="https://www.youtube.com/watch?v=b9bqKulMLp8">here.</a> To access the slides used in the video, click <a href="https://satijalab.org/scgd/">here.</a>
+
+
+# Databases
+*** 
+This is a section where you can include  databases/portals/atlases that can be helpful for the topic you are writing a guide on.
+<br>
+<br>
+
+**Insert the Name of the Database**
+
+Here, you would give an overal introduction about the database. Also write out the types of data that can be found in the database. Then, include a sentence for people to access the link to the database.
+
+Here is an example of how to include a database from the Single Cell Guide:
+
+**CancerSEA**
+CancerSEA is a database that aims to comprehensively decode distinct functional states of cancer cells at single-cell resolution. To access it, click <a href="http://biocc.hrbmu.edu.cn/CancerSEA/home.jsp">here.</a>
+
+# Tools
+*** 
+Here are some R packages and tools that can be used for single-cell analysis. 
+
+<br>
+<br>
+
+**Insert the Name of the Tool**
+
+Here, you would give an overall introduction about the tool is and what it can be used for. Also write out the types of data that it can be used with. Then, include a sentence for people to access the link to the tool and/or vignette.
+
+Here is an example of how to include a a tool from the Single Cell Guide:
+
+**Orchestrating Single-Cell Analysis with Bioconductor**
+
+This is a website that teaches some common workflows for scRNA-seq data. It focuses on how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore scRNA-seq data. To access this book, click <a href="https://osca.bioconductor.org">here.</a>
