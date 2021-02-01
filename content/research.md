@@ -8,7 +8,7 @@ images:
 - ""
 linktitle: ""
 ---
-_<p style="text-align:center;">The Lasseigne Lab uses genomic strategies and data to study complex and rare diseases with the goal of discovering biological signatures that might be used to improve patient care and provide insight into molecular processes contributing to disease.</p>_
+_<p style="text-align:center;">The Lasseigne Lab uses genomic strategies and data to study complex and rare diseases with the goal of discovering biological signatures that might be used to improve patient care and provide insight into molecular processes contributing to disease. We currently have active collaborations in cancer, neurodegeneration, kidney, and rare disease projects.</p>_
 
 ---
   
@@ -19,7 +19,7 @@ _<p style="text-align:center;">The Lasseigne Lab uses genomic strategies and dat
     <div class="card-text">
      <h4><p style="text-align:center;"><a href="/projects/multiomics">MULTIOMICS ASSAY AND ANALYTICAL APPROACHES</a></p></h4>
        <div class="card-desription">
-      <p style="text-align:center;">Discovery of kidney cancer diagnostic biomarkers and therapeutic signatures</p>
+      <p style="text-align:center;">Discovery of cancer (e.g., kidney, GBM, prostate, etc.) diagnostic biomarkers and therapeutic signatures</p>
     </div>
   </div>
 
@@ -32,7 +32,7 @@ ________________________________________________________________________________
     <div class="card-text">
      <h4><p style="text-align:center;"><a href="/projects/context">Context of disease manifestations</a></p></h4>
        <div class="card-desription">
-      <p style="text-align:center;">Identification of causal variants and genes in neurodegenerative disease</p>
+      <p style="text-align:center;">Identification of causal variants and genes in cancer, neurodegenerative, and rare diseases</p>
     </div>
   </div>
 ___________________________________________________________________________________________
