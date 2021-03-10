@@ -175,7 +175,5 @@ linktitle: ""
 
 ### <p style="text-align:center;"> Jack Hoover _(2020)_</p>
 
-<br>
-
 ### <p style="text-align:center;">Shaurita Hutchins _(2020)_</p>
 
