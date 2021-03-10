@@ -137,6 +137,16 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/_index_files/Zachary.jpg" alt="" width="200px"/></p>
+
+### <p style="text-align:center;">Zachary Sanders</p>
+
+##### <p style="text-align:center;"> _Graduate Rotation Student_</p>
+
+<p style="text-align:center;">Zachary is a student in the Master of Science in Multidisciplinary Biomedical Science program (MSMBS) at UAB. He earned a B.S. in psychology with a minor in sociology and chemistry. His research interests are currently focused on in-silico research on chromosomal instabilities.</p>
+
+---
+
 # <ins><p style="text-align:center;">Our Alumni</p></ins>
 
 ### <p style="text-align:center;"> Roshan Darji </p>

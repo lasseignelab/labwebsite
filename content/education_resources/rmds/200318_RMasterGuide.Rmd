@@ -85,12 +85,12 @@ Click on this [link](http://swcarpentry.github.io/r-novice-inflammation/) to tak
 
 The following sections are recommended if you are trying to get the basics of data analysis through R. 
 
-1. Analyzing Patient Data
-2. Creating Functions
-3. Analyzing Multiple Data Sets
-4. Making Choices
-6. Best Practices for Writing R Code
-7. Dynamic Reports with knitr
+* Analyzing Patient Data
+* Creating Functions
+* Analyzing Multiple Data Sets
+* Making Choices
+* Best Practices for Writing R Code
+* Dynamic Reports with knitr
 
 
 
