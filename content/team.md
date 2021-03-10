@@ -173,10 +173,9 @@ linktitle: ""
 
 ## <ins><p style="text-align:center;">Past Rotation Students</p></ins>
 
-### <p style="text-align:center;"> Jack Hoover </p>
+### <p style="text-align:center;"> Jack Hoover _(2020)_</p>
 
-##### <p style="text-align:center;"> _Graduate Rotation Student (2020)_ </p>
+<br>
 
-### <p style="text-align:center;">Shaurita Hutchins</p>
+### <p style="text-align:center;">Shaurita Hutchins _(2020)_</p>
 
-##### <p style="text-align:center;"> _Graduate Rotation Student (2020)_</p>
