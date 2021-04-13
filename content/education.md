@@ -26,7 +26,7 @@ _<p style="text-align:center;">If you are UAB trainees, faculty, or staff and wa
 <li><p><a href="/education_resources/reproducibleresearchguide.html" target="_blank">Reproducible Research</a></p></li>
 <li><p><a href="/education_resources/dnamethylationguide.html" target="_blank">DNA Methylation</a></p></li>
 </ul>
-
+ 
 ---
 
 When getting started with data analysis, we recommend:
