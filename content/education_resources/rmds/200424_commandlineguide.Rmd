@@ -60,7 +60,7 @@ For more advanced skills, take the remaining lessons.
 
 **CMD Challenge** is a resource that uses fun exercises to test your CLI knowledge. There are also user submitted solutions you can take a look at if needed. To access CMD Challenge, click [here](https://cmdchallenge.com).
 
-**Unix Cheat Sheet** has a list of commands that are great for a quick reference. To access it, click [here](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/).
+**Unix Cheat Sheet** has a list of commands that are great for a quick reference. To access it, click [here](https://files.fosswire.com/2007/08/fwunixref.pdf).
 
 **Bash Hackers Wiki** is a resource that has helpful descriptions of many commands that are used in Bash. To access the wiki page, click [here](https://wiki.bash-hackers.org).
 
