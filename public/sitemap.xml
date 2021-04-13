@@ -53,23 +53,48 @@
   </url>
   
   <url>
-    <loc>/education/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/new-website/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+    <loc>/education_resources/commandlineguide/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/team/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+    <loc>/education_resources/dnamethylationguide/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/education_resources/gtexguide/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/education_resources/reproducibleresearchguide/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/education_resources/rmasterguide/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/education_resources/rnaseqguide/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/education_resources/singlecellguide/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/education_resources/tcgaguide/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -97,6 +122,18 @@
   </url>
   
   <url>
+    <loc>/education/</loc>
+  </url>
+  
+  <url>
+    <loc>/education_resources/</loc>
+  </url>
+  
+  <url>
+    <loc>/funding/</loc>
+  </url>
+  
+  <url>
     <loc>/projects/multiomics/</loc>
   </url>
   
@@ -110,6 +147,10 @@
   
   <url>
     <loc>/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
   </url>
   
   <url>
