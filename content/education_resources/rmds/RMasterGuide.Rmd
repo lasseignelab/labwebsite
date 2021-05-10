@@ -25,18 +25,18 @@ output:
 
 ## Downloading R and RStudio
 
-[Here](https://swirlstats.com/students.html) is the quick start guide for installing R, RStudio, and R packages. 
+<a href="https://data-flair.training/blogs/how-to-install-r/" target="_blank">Here</a> is the quick start guide for installing R, RStudio, and R packages. 
 
-The latest version of R can be downloaded [here](https://cran.r-project.org/mirrors.html).
+The latest version of R can be downloaded <a href="https://cran.r-project.org/mirrors.html" target = "_blank">here</a>.
 
-RStudio is an application (an integrated development environment or IDE) that facilitates the use of R and offers a number of nice additional features. It can be downloaded [here](https://www.rstudio.com/products/rstudio/download/). You will need the free Desktop version for your computer.
+RStudio is an application (an integrated development environment or IDE) that facilitates the use of R and offers a number of nice additional features. It can be downloaded <a href="https://www.rstudio.com/products/rstudio/download/" target="_blank">here</a>. You will need the free Desktop version for your computer.
 
 
 ## Swirl
 
 #### A fun and interactive way to learn R programming
 
-Click on this [link](https://swirlstats.com/students.html) to take you to Swirl's tutorials. That link will give you instructions on how to install the Swirl package in RStudio. Follow the prompts it gives you. Afterwards, finish the following lessons.
+Click on <a href="https://swirlstats.com/students.html" target="_blank">this link</a> to take you to Swirl's tutorials. That link will give you instructions on how to install the Swirl package in RStudio. Follow the prompts it gives you. Afterwards, finish the following lessons.
 
 1. Basic Building Blocks
 2. Work space and Files
@@ -59,7 +59,7 @@ Click on this [link](https://swirlstats.com/students.html) to take you to Swirl'
 
 #### Lessons that give an introduction to R with 'real world' data science examples
 
-Click on this [link](http://swcarpentry.github.io/r-novice-gapminder/) to take you to the Software Carpentry lessons that are designed to teach novice programmers how to write code for data analysis.
+Click on <a href="http://swcarpentry.github.io/r-novice-gapminder/" target="_blank">this link</a> to take you to the Software Carpentry lessons that are designed to teach novice programmers how to write code for data analysis.
 
 In particular, focus on the lessons listed below.
 
@@ -81,7 +81,7 @@ In particular, focus on the lessons listed below.
 
 #### Lessons that will further solidify fundamental concepts for R 
 
-Click on this [link](http://swcarpentry.github.io/r-novice-inflammation/) to take you to another set of Software Carpentry lessons. These lessons are geared towards teaching you how to manipulate data through different variables. 
+Click on <a href="http://swcarpentry.github.io/r-novice-inflammation/" target="_blank">this link</a> to take you to another set of Software Carpentry lessons. These lessons are geared towards teaching you how to manipulate data through different variables. 
 
 The following sections are recommended if you are trying to get the basics of data analysis through R. 
 

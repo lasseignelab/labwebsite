@@ -98,7 +98,7 @@ _This section provides steps you can follow for general data management and stor
   * Comments about operations done within the script
 * Create an overview text document in your workspace describing the project, organization of the directory, and locations of data.
   * (e.g. a GitHub README.md)
-* Create and check md5sum files to check if your data files have changed after computational operations (more on that <a href="https://www.google.com/url?q=https://www.tecmint.com/generate-verify-check-files-md5-checksum-linux/&sa=D&ust=1588690772609000&usg=AFQjCNG0MBCdTTQljp_CpyRKkaL_NhRMPQ" target="_blank">here</a>).
+* Create and check md5sum files to check if your data files have changed after computational operations (more on that <a href="https://www.tecmint.com/generate-verify-check-files-md5-checksum-linux/" target="_blank">here</a>).
 * Use a method for version control or note what versions of tools were used for computational operations.
 
 ## Storage of Scripts
@@ -155,7 +155,7 @@ These tools should be used for version control for tool and workflow management 
 Our lab uses a <a href="https://www.google.com/drive/" target="_blank">Google Drive</a> folder, where data is organized into subfolders by project.
 
 ### Box
-<a href="https://www.box.com/home" target="_blank">Box</a> is a cloud storage service that is free to UAB staff. <a href="https://www.uab.edu/it/home/tech-solutions/file-storage/box/?utm_source=golink&utm_medium=golink" target="_blank">**UAB will be discontinuing its use of Box in 2021**</a>. *This section will be updated as UAB IT releases more information on this topic.*
+<a href="https://www.box.com/home" target="_blank">Box</a> is a cloud storage service that is free to UAB staff. <a href="https://www.uab.edu/it/home/tech-solutions/file-storage/box/?utm_source=golink&utm_medium=golink" target="_blank">**Though UAB previously announced discontinuing its use of box, it has been revealed that negotiations have allowed for UAB to continue its use as before.**
 
 * <a href="https://www.uab.edu/it/home/box" target="_blank">UAB's Box Landing Page</a>
 * <a href="https://support.box.com/hc/en-us/articles/360044196373-The-Basics-of-Box" target="_blank">The Basics of Box</a>
@@ -167,6 +167,6 @@ Our lab uses G-Drives, but one needs to be aware of how a given drive is formatt
 
 * <a href="https://github.com/greenelab/onboarding/blob/master/onboarding.md#source-code-data-and-reproducibility" target="_blank">Greene Lab's Data Management Policies</a>
 * <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525" target="_blank">Ten Simple Rules for Creating a Good Data Management Plan</a>
-* <a href="https://library.ucsd.edu/research-and-collections/data-curation/best-practices.html" target="_blank">Data Management Best Practices</a>
+* <a href="https://library.ucsd.edu/research-and-collections/data-curation/plan-and-manage/data-management-best-practices.html" target="_blank">Data Management Best Practices</a>
 * <a href="https://guides.ucsf.edu/c.php?g=101037&p=2704713" target="_blank">Reproducible Data Management</a>
 * <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510" target="_blank">Good Enough Practices in Scientific Computing</a>
