@@ -41,7 +41,7 @@ We recommend taking note of the following in your daily and/or dry lab experimen
 One can use R Projects that can be linked to version control programs such as Git (which is covered later in the guide) to create and manage reproducible data.
 
 ## R and RStudio
-See <a href="https://www.lasseigne.org/education/education_resources/rmasterguide.html" target="_blank"> this R Master Guide</a> for a full introduction to R and RStudio.
+See <a href="https://www.lasseigne.org/education_resources/rmasterguide.html" target="_blank"> this R Master Guide</a> for a full introduction to R and RStudio.
 
 ## R Markdown
 <a href="https://rmarkdown.rstudio.com/" target="_blank">R Markdown</a>, a tool in RStudio, creates reproducible documents that can combine narrative text and code from languages such as R, Python, and SQL. See below for some helpful resources:
