@@ -75,7 +75,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
-<p style="text-align:center;">Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Genetics and Genomic Sciences from UAB. Her projects and interests focus on developing and applying disease-agnostic computational approaches to understand the role of context dependency across and within disease. Jordan has a particular heart for rare diseases. She is currently investigating why context matters within ciliopathy and autophagy associated disorders.</p>
+<p style="text-align:center;">Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Genetics and Genomic Sciences from UAB. Her projects and interests focus on developing and applying disease-agnostic computational approaches to understand the role of context dependency across and within disease. Jordan has a particular heart for rare diseases. She is currently investigating the role of cell-specificity in tissue-specific Mendelian disease manifestations. Using renal- and neurological-associated phenotypes as a test set, she is employing a combination of wet-lab and computational approaches involving expression and regulatory networks to identify the underlying drivers of Mendelian disease.</p>
 
 ---
 
