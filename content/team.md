@@ -113,7 +113,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
-<p style="text-align:center;">Tabea is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Cell and Molecular Biology from Piedmont College. Tabea's interests are widespread with particular curiosity for aging-related processes in disease. She is currently working on establishing age-associated signatures across cancers with telomerase promoter mutations using computational approaches.</p>
+<p style="text-align:center;">Tabea is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Cell and Molecular Biology from Piedmont College (now Piedmont University). Tabea is currently investigating the cell-type-specific role of chromosomal instability and its effects on cell-cell interactions between neuronal and non-neuronal cell populations in Alzheimer's disease by employing a combination of wet-lab and computational approaches.</p>
 
 ---
 
