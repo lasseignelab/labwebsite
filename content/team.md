@@ -94,7 +94,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Researcher III and Lab Manager_</p>
 
-<p style="text-align:center;">Lizzy earned her B.S. in Biology with a minor in Chemistry from the University of Alabama at Huntsville. Prior to working at the University of Alabama at Birmingham, she applied genomics technologies such as RNA-Seq for understanding cancer and chemotherapy resistance as a research assistant. In her current role as Lasseigne lab manager and staff scientist, she analyzes, integrates, and interprets genomics data for multiple disease projects aimed at understanding disease biology and identify biomarkers.</p>
+<p style="text-align:center;">Lizzy earned her B.S. in Biology with a minor in Chemistry from the University of Alabama at Huntsville. Prior to working at the University of Alabama at Birmingham, she applied genomics technologies such as RNA-Seq for understanding cancer and chemotherapy resistance as a research assistant. Lizzy currently works as a staff scientist, applying transfer learning and drug repurposing methods to gene expression data.</p>
 
 ---
 
