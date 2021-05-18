@@ -23,7 +23,7 @@ linktitle: ""
 
 <p style="text-align:center;">Dr. Lasseigne is an Assistant Professor in the Department of Cell, Developmental and Integrative Biology, an Associate Scientist in both the O’Neal Comprehensive Cancer Center Experimental Therapeutics Program and the Center for Clinical and Translational Science, and a Scientist in both the Informatics Institute and the Hugh Kaul Precision Medicine Institute at the University of Alabama at Birmingham. She previously completed a BS in Biological Engineering at Mississippi State University, an interdisciplinary biology, chemistry, and chemical engineering PhD in Biotechnology Science and Engineering from The University of Alabama in Huntsville, and a postdoctoral fellowship in genetics and genomics at the HudsonAlpha Institute for Biotechnology. Brittany is passionate about developing and applying genomics technologies to human diseases and teaching data science to students and scientists of all backgrounds.</p>
 
-<p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/brittany.lasseigne.1/bibliography/public/">Brittany's Publications</a> <a href="https://www.lasseigne.org/funding/">and Grants</a></p>
+<p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/brittany.lasseigne.1/bibliography/public/" target="_blank">Brittany's Publications</a> <a href="https://www.lasseigne.org/funding/" target="_blank">and Grants</a></p>
 
 <p style="text-align:center;">bnp0001[@]uab.edu</p>
 
@@ -45,13 +45,13 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant_ </p>
 
-<p style="text-align:center;">Avery is an undergraduate research assistant majoring in Genetics and Genomic Sciences and a part of the Science and Technology honors program. She is responsible for the lab website and collaborates on multiple projects for the lab. Her current focus is working with comprehensive Glioblastoma RNA profiles to identify optimal research model systems and patient avatars, as well as understand Glioblastoma-associated blood and brain gene expression profiles.</p>
+<p style="text-align:center;">Avery is an undergraduate research assistant and <a href="https://www.uab.edu/cas/cancerbiology/images/documents/RACE_21_Application_Student_11-11-20_revision.pdf" target ="_blank">RACE21 Cancer Biology Scholar</a> majoring in Genetics and Genomic Sciences and a part of the Science and Technology honors program. She is responsible for the lab website and collaborates on multiple projects for the lab. Her current focus is working with comprehensive Glioblastoma RNA profiles to identify optimal research model systems and patient avatars, as well as understand Glioblastoma-associated blood and brain gene expression profiles.</p>
 
 ---
 
 <p style="text-align:center;"><img src="/about/_index_files/Emily.jpg" alt="" width="200px"/></p>
 
-### <p style="text-align:center;"> Emily Page </p>
+### <p style="text-align:center;"> Emily Page</p>
 
 ##### <p style="text-align:center;"> _Research Assistant / Grad PREP Scholar_</p>
 
