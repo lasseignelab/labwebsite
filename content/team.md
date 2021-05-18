@@ -103,7 +103,7 @@ linktitle: ""
 ### <p style="text-align:center;">Sasha Thalluri</p>
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant_</p>
 
-<p style="text-align:center;">Sasha is an honors undergraduate student majoring in Genetics and Genomic Sciences at UAB. She is a part of our chromosomal instabilities project, which is geared towards gathering and analyzing genomics data to create predictive models of human cancer. She is currently applying computational approaches to determine chromosomal instability across human cancers in relation to cell proliferation. Sasha is also working on how to compare mouse and human genomics data sets.</p>
+<p style="text-align:center;">Sasha is an honors undergraduate student majoring in Genetics and Genomic Sciences at UAB. She is a part of our genomic instabilities project, which is geared towards gathering and analyzing genomics data to create predictive models of human cancer. She is currently applying computational approaches to compare and contrast different types of chromosomal instability and DNA methylation instability metrics.</p>
 
 ---
 
