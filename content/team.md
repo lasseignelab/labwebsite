@@ -121,7 +121,7 @@ linktitle: ""
 
 ### <p style="text-align:center;">TC Howton, Ph.D.</p>
 
-##### <p style="text-align:center;"> _Researcher III and Lab Manager_</p>
+##### <p style="text-align:center;"> _Researcher IV and Lab Manager_</p>
 
 <p style="text-align:center;">T.C. earned his PhD in Biology from the University of Alabama at Birmingham. During his doctoral studies, T.C. focused on using network-based approaches to elucidate the molecular interactions between plants and bacterial pathogens. T.C. is currently serving as a lab manager as well as research scientist within the Lasseigne lab.</p>
 
