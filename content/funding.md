@@ -37,6 +37,8 @@ _<center>Note: not all co-I grants included above.</center>_
 
 * __<a href="https://sites.uab.edu/amc21scholarsprogram/scholars/" target="_blank">AMC21 Scholarship, Jennifer Fisher (Graduate Student), 2019-2021</a>__
 
+* __<a href="https://www.uab.edu/cas/cancerbiology/images/documents/RACE_21_Application_Student_11-11-20_revision.pdf" target="_blank">RACE21 Scholar, Avery Williams (Undergraduate Student), 2021</a>__
+
 ---
 
 ### <center>Primary Completed Research Support:</center>
