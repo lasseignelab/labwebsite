@@ -65,7 +65,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
-<p style="text-align:center;">Jen is a current Ph.D. student in the Genomics, Genetics, and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She is supported by UAB’s AMC21 Scholars program. In 2019, She earned a B.S. in Biological Engineering with a minor in Mathematics from Mississippi State University. Jen is currently applying machine learning approaches to uncover biomarkers for drug repurposing, liquid biopsies, rare diseases, and chromosomal instability.</p>
+<p style="text-align:center;">Jen is a current Ph.D. student in the Genomics, Genetics, and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She is supported by UAB’s AMC21 Scholars program. In 2019, she earned a B.S. in Biological Engineering with a minor in Mathematics from Mississippi State University. Jen is currently developing machine learning and network approaches to improve drug repurposing candidate selection and avoiding side effects due to sex differences. She is applying her methods in two rare diseases: Friedreich’s Ataxia & Glioblastoma multiforme.</p>
 
 ---
 
