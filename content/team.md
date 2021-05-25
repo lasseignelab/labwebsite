@@ -184,7 +184,7 @@ linktitle: ""
 
 ### <p style="text-align:center;"> Bagley Florence Fisher (Bag-boo) </p>
 
-<p style="text-align:center;"> _Owner:_ Jen </p>
+<p style="text-align:center;"> *Owner:* Jen </p>
 <p style="text-align:center;"> _Gotcha Day:_ May 19th, 2020 </p>
 <p style="text-align:center;"> _Likes:_ Dog cookies, peanut butter, and balls </p>
 <p style="text-align:center;"> _Dislikes:_ Rain and the dark </p>
