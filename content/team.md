@@ -24,7 +24,7 @@ linktitle: ""
 # <ins><p style="text-align:center;" id="current">Current Members</p></ins>
 
 <p style="text-align:center;">
-<img src="/about/_index_files/Brittany.jpg" alt="" width="200px"/></p>
+<img src="/about/people/Brittany.jpg" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Brittany Lasseigne, Ph.D.</p>
 
@@ -38,7 +38,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/Anisha.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Anisha.jpg" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Anisha Haldar</p>
 
@@ -48,7 +48,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/Avery.JPG" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Avery.JPG" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Avery Williams</p>
 
@@ -58,7 +58,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/Emily.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Emily.jpg" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;"> Emily Page</p>
 
@@ -68,7 +68,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/Jen.JPEG" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Jen.JPEG" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Jen Fisher</p>
 
@@ -78,7 +78,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/Jordan.JPG" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Jordan.JPG" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Jordan Whitlock</p>
 
@@ -88,7 +88,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/Kasi.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Kasi.jpg" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Kasi McPherson, Ph.D.</p>
 ##### <p style="text-align:center;"> _Postdoctoral Fellow_</p>
@@ -97,7 +97,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/Lizzy.png" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Lizzy.png" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Lizzy Ramsey</p>
 
@@ -107,7 +107,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/Sasha.JPG" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Sasha.JPG" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Sasha Thalluri</p>
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant_</p>
@@ -116,7 +116,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/Tabea.png" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Tabea.png" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Tabea Soelter</p>
 
@@ -126,7 +126,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/TC.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/TC.jpg" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">TC Howton, Ph.D.</p>
 
@@ -136,7 +136,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/_index_files/Vishal.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Vishal.jpg" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;">Vishal Oza, Ph.D.</p>
 
@@ -179,3 +179,56 @@ linktitle: ""
 ---
 
 # <ins><p style="text-align:center;" id="pets">Furry Friends</p></ins>
+
+<p style="text-align:center;"><img src="/about/pets/bagley.jpg" alt="" width="200px"/></p>
+
+### <p style="text-align:center;"> Bagley Florence Fisher (Bag-boo) </p>
+
+<p style="text-align:center;"> _Owner:_ Jen </p>
+<p style="text-align:center;"> _Gotcha Day:_ May 19th, 2020 </p>
+<p style="text-align:center;"> _Likes:_ Dog cookies, peanut butter, and balls </p>
+<p style="text-align:center;"> _Dislikes:_ Rain and the dark </p>
+
+---
+
+<p style="text-align:center;"><img src="/about/pets/lily.jpg" alt="" width="200px"/></p>
+
+### <p style="text-align:center;"> Lily Williams (Lily Lou) </p>
+
+<p style="text-align:center;"> _Owner:_ Avery </p>
+<p style="text-align:center;"> _Gotcha Day:_ sometime in 2006 </p>
+<p style="text-align:center;"> _Likes:_ Licking windows, attention, and her catnip banana</p>
+<p style="text-align:center;"> _Dislikes:_ Getting wet and vacuums </p>
+
+---
+
+<p style="text-align:center;"><img src="/about/pets/pj.jpg" alt="" width="200px"/></p>
+
+### <p style="text-align:center;"> Peanut Junior (PJ) Soelter</p>
+
+<p style="text-align:center;"> _Owner:_ Tabea </p>
+<p style="text-align:center;"> _Birthday:_ August 4th, 2018 </p>
+<p style="text-align:center;"> _Likes:_ Sleeping in the sun, treats, and attention</p>
+<p style="text-align:center;"> _Dislikes:_ Closed doors </p>
+
+---
+
+<p style="text-align:center;"><img src="/about/pets/william.jpg" alt="" width="200px"/></p>
+
+### <p style="text-align:center;"> William Soelter-Patterson</p>
+
+<p style="text-align:center;"> _Owner:_ Tabea </p>
+<p style="text-align:center;"> _Gotcha Day:_ Oct 6th, 2020 </p>
+<p style="text-align:center;"> _Likes:_ Food, toys, and his dog park friends</p>
+<p style="text-align:center;"> _Dislikes:_ Rain, kids </p>
+
+---
+
+<p style="text-align:center;"><img src="/about/pets/wrigley.jpg" alt="" width="200px"/></p>
+
+### <p style="text-align:center;"> Wrigley Whitlock </p>
+
+<p style="text-align:center;"> _Owner:_ Jordan </p>
+<p style="text-align:center;"> _Gotcha Day:_ September 15th, 2016 </p>
+<p style="text-align:center;"> _Likes:_ His Squeaky ball, hikes, and watching baseball</p>
+<p style="text-align:center;"> _Dislikes:_ Being alone </p>
