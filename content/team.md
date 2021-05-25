@@ -13,11 +13,11 @@ linktitle: ""
 
 ## <p style="text-align:center;">
 <a href="#current">Current Members</a>
-<br>
+
 <a href="#alumni">Alumni</a>
-<br>
+
 <a href="#pets">Furry Friends</a>
-<br>
+
 </p>
 
 
