@@ -185,9 +185,9 @@ linktitle: ""
 ### <p style="text-align:center;"> Bagley Florence Fisher (Bag-boo) </p>
 
 ##### <p style="text-align:center;"> __Owner:__ Jen </p>
-<p style="text-align:center;"> __Gotcha Day:__ May 19th, 2020 </p>
-<p style="text-align:center;"> __Likes:__ Dog cookies, peanut butter, and balls </p>
-<p style="text-align:center;"> __Dislikes:__ Rain and the dark </p>
+##### <p style="text-align:center;"> __Gotcha Day:__ May 19th, 2020 </p>
+##### <p style="text-align:center;"> __Likes:__ Dog cookies, peanut butter, and balls </p>
+##### <p style="text-align:center;"> __Dislikes:__ Rain and the dark </p>
 
 ---
 
@@ -195,10 +195,10 @@ linktitle: ""
 
 ### <p style="text-align:center;"> Lily Williams (Lily Lou) </p>
 
-<p style="text-align:center;"> _Owner:_ Avery </p>
-<p style="text-align:center;"> _Gotcha Day:_ sometime in 2006 </p>
-<p style="text-align:center;"> _Likes:_ Licking windows, attention, and her catnip banana</p>
-<p style="text-align:center;"> _Dislikes:_ Getting wet and vacuums </p>
+##### <p style="text-align:center;"> __Owner:__ Avery </p>
+##### <p style="text-align:center;"> __Gotcha Day:__ sometime in 2006 </p>
+##### <p style="text-align:center;"> __Likes:__ Licking windows, attention, and her catnip banana</p>
+##### <p style="text-align:center;"> __Dislikes:__ Getting wet and vacuums </p>
 
 ---
 
@@ -206,10 +206,10 @@ linktitle: ""
 
 ### <p style="text-align:center;"> Peanut Junior (PJ) Soelter</p>
 
-<p style="text-align:center;"> _Owner:_ Tabea </p>
-<p style="text-align:center;"> _Birthday:_ August 4th, 2018 </p>
-<p style="text-align:center;"> _Likes:_ Sleeping in the sun, treats, and attention</p>
-<p style="text-align:center;"> _Dislikes:_ Closed doors </p>
+##### <p style="text-align:center;"> __Owner:__ Tabea </p>
+##### <p style="text-align:center;"> __Birthday:__ August 4th, 2018 </p>
+##### <p style="text-align:center;"> __Likes:__ Sleeping in the sun, treats, and attention</p>
+##### <p style="text-align:center;"> __Dislikes:__ Closed doors </p>
 
 ---
 
@@ -217,10 +217,10 @@ linktitle: ""
 
 ### <p style="text-align:center;"> William Soelter-Patterson</p>
 
-<p style="text-align:center;"> _Owner:_ Tabea </p>
-<p style="text-align:center;"> _Gotcha Day:_ Oct 6th, 2020 </p>
-<p style="text-align:center;"> _Likes:_ Food, toys, and his dog park friends</p>
-<p style="text-align:center;"> _Dislikes:_ Rain, kids </p>
+##### <p style="text-align:center;"> __Owner:__ Tabea </p>
+##### <p style="text-align:center;"> __Gotcha Day:__ Oct 6th, 2020 </p>
+##### <p style="text-align:center;"> __Likes:__ Food, toys, and his dog park friends</p>
+##### <p style="text-align:center;"> __Dislikes:__ Rain, kids </p>
 
 ---
 
@@ -228,7 +228,7 @@ linktitle: ""
 
 ### <p style="text-align:center;"> Wrigley Whitlock </p>
 
-<p style="text-align:center;"> _Owner:_ Jordan </p>
-<p style="text-align:center;"> _Gotcha Day:_ September 15th, 2016 </p>
-<p style="text-align:center;"> _Likes:_ His Squeaky ball, hikes, and watching baseball</p>
-<p style="text-align:center;"> _Dislikes:_ Being alone </p>
+##### <p style="text-align:center;"> __Owner:__ Jordan </p>
+##### <p style="text-align:center;"> __Gotcha Day:__ September 15th, 2016 </p>
+##### <p style="text-align:center;"> __Likes:__ His Squeaky ball, hikes, and watching baseball</p>
+##### <p style="text-align:center;"> __Dislikes:__ Being alone </p>
