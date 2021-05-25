@@ -182,7 +182,7 @@ linktitle: ""
 
 <p style="text-align:center;"><img src="/about/pets/bagley.jpg" alt="" width="200px"/></p>
 
-### <p style="text-align:center;"> Bagley Florence Fisher (Bag-boo) </p>
+### <p style="text-align:center;"> Bagley (Bag-boo) Florence Fisher </p>
 
 ##### <p style="text-align:center;"> __Owner:__ Jen </p>
 ##### <p style="text-align:center;"> __Gotcha Day:__ May 19th, 2020 </p>
@@ -193,7 +193,7 @@ linktitle: ""
 
 <p style="text-align:center;"><img src="/about/pets/lily.jpg" alt="" width="200px"/></p>
 
-### <p style="text-align:center;"> Lily Williams (Lily Lou) </p>
+### <p style="text-align:center;"> Lily (Lily Lou) Williams </p>
 
 ##### <p style="text-align:center;"> __Owner:__ Avery </p>
 ##### <p style="text-align:center;"> __Gotcha Day:__ sometime in 2006 </p>
@@ -204,7 +204,7 @@ linktitle: ""
 
 <p style="text-align:center;"><img src="/about/pets/pj.jpg" alt="" width="200px"/></p>
 
-### <p style="text-align:center;"> Peanut Junior (PJ) Soelter</p>
+### <p style="text-align:center;"> Peanut Junior (PJ) Soelter </p>
 
 ##### <p style="text-align:center;"> __Owner:__ Tabea </p>
 ##### <p style="text-align:center;"> __Birthday:__ August 4th, 2018 </p>
@@ -215,7 +215,7 @@ linktitle: ""
 
 <p style="text-align:center;"><img src="/about/pets/william.jpg" alt="" width="200px"/></p>
 
-### <p style="text-align:center;"> William Soelter-Patterson</p>
+### <p style="text-align:center;"> William Soelter-Patterson </p>
 
 ##### <p style="text-align:center;"> __Owner:__ Tabea </p>
 ##### <p style="text-align:center;"> __Gotcha Day:__ Oct 6th, 2020 </p>
