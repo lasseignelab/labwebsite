@@ -12,9 +12,9 @@ linktitle: ""
 > Our research focuses on developing approaches for assaying and integrating omics data, functional annotations, and patient information to discover novel mechanisms in disease etiology and progression, therapeutic targets, and circulating biomarkers.
 
 <p style="text-align:center;">
-# <a href="#current">Current Members</a>
-# <a href="#alumni">Alumni</a>
-# <a href="#pets">Furry Friends</a>
+<a href="#current">Current Members</a>
+<a href="#alumni">Alumni</a>
+<a href="#pets">Furry Friends</a>
 </p>
 
 
