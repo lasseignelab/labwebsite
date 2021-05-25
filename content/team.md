@@ -17,7 +17,6 @@ linktitle: ""
 <a href="#alumni">Alumni</a>
 
 <a href="#pets">Furry Friends</a>
-
 </p>
 
 
