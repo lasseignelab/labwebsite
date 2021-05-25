@@ -11,8 +11,15 @@ linktitle: ""
 
 > Our research focuses on developing approaches for assaying and integrating omics data, functional annotations, and patient information to discover novel mechanisms in disease etiology and progression, therapeutic targets, and circulating biomarkers.
 
+<p style="text-align:center;">
+# <a href="#current">Current Members</a>
+# <a href="#alumni">Alumni</a>
+# <a href="#pets">Furry Friends</a>
+</p>
+
+
 ---
-# <ins><p style="text-align:center;">Current Members</p></ins>
+# <ins><p style="text-align:center;" id="current">Current Members</p></ins>
 
 <p style="text-align:center;">
 <img src="/about/_index_files/Brittany.jpg" alt="" width="200px"/></p>
@@ -137,7 +144,7 @@ linktitle: ""
 
 ---
 
-# <ins><p style="text-align:center;">Our Alumni</p></ins>
+# <ins><p style="text-align:center;" id="alumni">Our Alumni</p></ins>
 
 ### <p style="text-align:center;"> Roshan Darji </p>
 
@@ -167,3 +174,6 @@ linktitle: ""
 
 ### <p style="text-align:center;">Shaurita Hutchins _(2020)_</p>
 
+---
+
+# <ins><p style="text-align:center;" id="pets">Furry Friends</p></ins>
