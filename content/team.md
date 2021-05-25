@@ -11,12 +11,12 @@ linktitle: ""
 
 > Our research focuses on developing approaches for assaying and integrating omics data, functional annotations, and patient information to discover novel mechanisms in disease etiology and progression, therapeutic targets, and circulating biomarkers.
 
-## <p style="text-align:center;">
-<a href="#current">Current Members</a>
+<p style="text-align:center;">
+<a href="#current">_Current Members_</a>
 
-<a href="#alumni">Alumni</a>
+<a href="#alumni">_Alumni_</a>
 
-<a href="#pets">Furry Friends</a>
+<a href="#pets">_Furry Friends_</a>
 </p>
 
 
@@ -170,7 +170,7 @@ linktitle: ""
 
 ---
 
-## <ins><p style="text-align:center;">Past Rotation Students</p></ins>
+## <p style="text-align:center;">Past Rotation Students</p>
 
 ### <p style="text-align:center;"> Jack Hoover _(2020)_</p>
 
