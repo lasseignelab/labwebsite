@@ -202,6 +202,16 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/pets/mac.jpeg" alt="" width="200px"/></p>
+
+### <p style="text-align:center;"> Mac Aroniandcheese Lasseigne (aka Mac) </p>
+
+##### <p style="text-align:center;"> __Owner:__ The Lasseignes </p>
+##### <p style="text-align:center;"> __Birthday:__ July 4, 2019 </p>
+##### <p style="text-align:center;"> __Likes:__ Exploring new places, people and their food </p>
+
+---
+
 <p style="text-align:center;"><img src="/about/pets/pj.jpg" alt="" width="200px"/></p>
 
 ### <p style="text-align:center;"> Peanut Junior (PJ) Soelter </p>
