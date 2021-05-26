@@ -24,7 +24,7 @@ linktitle: ""
 # <ins><p style="text-align:center;" id="current">Current Members</p></ins>
 
 <p style="text-align:center;">
-<img src="/about/people/Brittany.jpg" alt="" width="200px"/></p>
+<img src="/about/people/Brittany.jpg" alt="Brittany" width="200px"/></p>
 
 ### <p style="text-align:center;">Brittany Lasseigne, Ph.D.</p>
 
@@ -38,7 +38,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Anisha.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Anisha.jpg" alt="Anisha" width="200px"/></p>
 
 ### <p style="text-align:center;">Anisha Haldar</p>
 
@@ -48,7 +48,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Avery.JPG" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Avery.JPG" alt="Avery" width="200px"/></p>
 
 ### <p style="text-align:center;">Avery Williams</p>
 
@@ -58,7 +58,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Emily.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Emily.jpg" alt="Emily" width="200px"/></p>
 
 ### <p style="text-align:center;"> Emily Page</p>
 
@@ -68,7 +68,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Jen.JPEG" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Jen.JPEG" alt="Jen" width="200px"/></p>
 
 ### <p style="text-align:center;">Jen Fisher</p>
 
@@ -78,7 +78,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Jordan.JPG" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Jordan.JPG" alt="Jordan" width="200px"/></p>
 
 ### <p style="text-align:center;">Jordan Whitlock</p>
 
@@ -88,7 +88,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Kasi.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Kasi.jpg" alt="Kasi" width="200px"/></p>
 
 ### <p style="text-align:center;">Kasi McPherson, Ph.D.</p>
 ##### <p style="text-align:center;"> _Postdoctoral Fellow_</p>
@@ -97,7 +97,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Lizzy.png" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Lizzy.png" alt="Lizzy" width="200px"/></p>
 
 ### <p style="text-align:center;">Lizzy Ramsey</p>
 
@@ -107,7 +107,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Sasha.JPG" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Sasha.JPG" alt="Sasha" width="200px"/></p>
 
 ### <p style="text-align:center;">Sasha Thalluri</p>
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant_</p>
@@ -116,7 +116,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Tabea.png" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Tabea.png" alt="Tabea" width="200px"/></p>
 
 ### <p style="text-align:center;">Tabea Soelter</p>
 
@@ -126,7 +126,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/TC.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/TC.jpg" alt="TC" width="200px"/></p>
 
 ### <p style="text-align:center;">TC Howton, Ph.D.</p>
 
@@ -136,7 +136,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Vishal.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Vishal.jpg" alt="Vishal" width="200px"/></p>
 
 ### <p style="text-align:center;">Vishal Oza, Ph.D.</p>
 
@@ -180,7 +180,7 @@ linktitle: ""
 
 # <ins><p style="text-align:center;" id="pets">Furry Friends</p></ins>
 
-<p style="text-align:center;"><img src="/about/pets/bagley.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/pets/bagley.jpg" alt="Bagley" width="200px"/></p>
 
 ### <p style="text-align:center;"> Bagley (Bag-boo) Florence Fisher </p>
 
@@ -191,7 +191,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/pets/lily.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/pets/lily.jpg" alt="Lily" width="200px"/></p>
 
 ### <p style="text-align:center;"> Lily (Lily Lou) Williams </p>
 
@@ -202,7 +202,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/pets/mac.jpeg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/pets/mac.jpeg" alt="Mac" width="200px"/></p>
 
 ### <p style="text-align:center;"> Mac Aroniandcheese Lasseigne (aka Mac) </p>
 
@@ -212,7 +212,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/pets/pj.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/pets/pj.jpg" alt="PJ" width="200px"/></p>
 
 ### <p style="text-align:center;"> Peanut Junior (PJ) Soelter </p>
 
@@ -223,7 +223,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/pets/william.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/pets/william.jpg" alt="William" width="200px"/></p>
 
 ### <p style="text-align:center;"> William Soelter-Patterson </p>
 
@@ -234,7 +234,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/pets/wrigley.jpg" alt="" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/pets/wrigley.jpg" alt="Wrigley" width="200px"/></p>
 
 ### <p style="text-align:center;"> Wrigley Whitlock </p>
 
