@@ -25,9 +25,7 @@ _<p style="text-align:center;"> Click from the links below for our lab members' 
 
 ### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/1XsJq6lUQqd5jm/bibliography/public/" target="_blank">Jen Fisher</a></p>
 
-### <p style="text-align:center;"><a
-href="https://www.ncbi.nlm.nih.gov/myncbi/1-sZliVlxrZ1vA/bibliography/public/"
-target="_blank">Jordan Whitlock</a></p>
+### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/1-sZliVlxrZ1vA/bibliography/public/" target="_blank">Jordan Whitlock</a></p>
 
 <br>
 ## <ins><p style="text-align:center;">Alumni</p></ins>
