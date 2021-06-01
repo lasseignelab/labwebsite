@@ -206,7 +206,7 @@ linktitle: ""
 
 ### <p style="text-align:center;"> Mac Aroniandcheese Lasseigne (aka Mac) </p>
 
-##### <p style="text-align:center;"> __Owner:__ The Lasseignes </p>
+##### <p style="text-align:center;"> __Owners:__ The Lasseignes </p>
 ##### <p style="text-align:center;"> __Birthday:__ July 4, 2019 </p>
 ##### <p style="text-align:center;"> __Likes:__ Exploring new places, people and their food </p>
 
