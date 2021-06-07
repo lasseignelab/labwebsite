@@ -251,7 +251,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> __Owner:__ Emma </p>
 ##### <p style="text-align:center;"> __Gotcha Day:__ September 15th, 2019 </p>
-##### <p style="text-align:center;"> __Likes:__ Playing fetch, butt rubs, and vsmelly shoes</p>
+##### <p style="text-align:center;"> __Likes:__ Playing fetch, butt rubs, and smelly shoes</p>
 ##### <p style="text-align:center;"> __Dislikes:__ Getting nails trimmed </p>
 
 ---
@@ -263,7 +263,7 @@ linktitle: ""
 ##### <p style="text-align:center;"> __Owner:__ Tabea </p>
 ##### <p style="text-align:center;"> __Gotcha Day:__ Oct 6th, 2020 </p>
 ##### <p style="text-align:center;"> __Likes:__ Food, toys, and his dog park friends</p>
-##### <p style="text-align:center;"> __Dislikes:__ Rain, kids </p>
+##### <p style="text-align:center;"> __Dislikes:__ Rain and kids </p>
 
 ---
 
