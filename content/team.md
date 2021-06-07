@@ -68,6 +68,16 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/people/Emma.jpeg" alt="Emma" width="200px"/></p>
+
+### <p style="text-align:center;"> Emma Jones </p>
+
+##### <p style="text-align:center;"> _Graduate Rotation Student_</p>
+
+<p style="text-align:center;">Emma is a current Ph.D. student in the genetic, genomics, and bioinformatics theme within UAB’s GBS program. She graduated in 2019 with a B.A. in psychology and a minor in studio art from Humboldt State University in Arcata, California. Emma has a background in psychology, neuroscience, molecular biology, and genomics. Her research interests primarily focus on the incorporation of these methods to study psychiatric disorders.</p>
+
+---
+
 <p style="text-align:center;"><img src="/about/people/Jen.JPEG" alt="Jen" width="200px"/></p>
 
 ### <p style="text-align:center;">Jen Fisher</p>
@@ -180,6 +190,18 @@ linktitle: ""
 
 # <ins><p style="text-align:center;" id="pets">Furry Friends</p></ins>
 
+<p style="text-align:center;"><img src="/about/pets/april.jpeg" alt="April" width="200px"/></p>
+
+### <p style="text-align:center;"> April Jones </p>
+
+##### <p style="text-align:center;"> __Owner:__ Emma </p>
+##### <p style="text-align:center;"> __Gotcha Day:__ April 10, 2018 </p>
+##### <p style="text-align:center;"> __Likes:__ Warm laps, cuddles, and routines </p>
+##### <p style="text-align:center;"> __Dislikes:__ Strangers and closed doors </p>
+##### <p style="text-align:center;"> __Fun Fact:__ Only has 3 legs! </p>
+
+---
+
 <p style="text-align:center;"><img src="/about/pets/bagley.jpg" alt="Bagley" width="200px"/></p>
 
 ### <p style="text-align:center;"> Bagley (Bag-boo) Florence Fisher </p>
@@ -220,6 +242,17 @@ linktitle: ""
 ##### <p style="text-align:center;"> __Birthday:__ August 4th, 2018 </p>
 ##### <p style="text-align:center;"> __Likes:__ Sleeping in the sun, treats, and attention</p>
 ##### <p style="text-align:center;"> __Dislikes:__ Closed doors </p>
+
+---
+
+<p style="text-align:center;"><img src="/about/pets/sadie.jpeg" alt="Sadie" width="200px"/></p>
+
+### <p style="text-align:center;"> Sadie Jones </p>
+
+##### <p style="text-align:center;"> __Owner:__ Emma </p>
+##### <p style="text-align:center;"> __Gotcha Day:__ September 15th, 2019 </p>
+##### <p style="text-align:center;"> __Likes:__ Playing fetch, butt rubs, and vsmelly shoes</p>
+##### <p style="text-align:center;"> __Dislikes:__ Getting nails trimmed </p>
 
 ---
 
