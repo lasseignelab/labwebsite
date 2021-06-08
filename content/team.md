@@ -146,6 +146,16 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/people/Victoria.jpeg" alt="Victoria" width="200px"/></p>
+
+### <p style="text-align:center;">Victoria Flanary</p>
+
+##### <p style="text-align:center;"> _Graduate Rotation Student_</p>
+
+<p style="text-align:center;">Victoria is an MD/PhD graduate trainee in the UAB Medical Scientist Training Program. She graduated from UAB in 2020 with a B.S. in Neuroscience, along with minors in Biology and Chemistry. Her background in conducting translational research for glioblastoma has inspired her to pursue a scientific career aimed toward maximizing clinical therapies for various malignancies, primarily via utilizing computational genomic data to advance precision medicine for cancer.</p>
+
+---
+
 <p style="text-align:center;"><img src="/about/people/Vishal.jpg" alt="Vishal" width="200px"/></p>
 
 ### <p style="text-align:center;">Vishal Oza, Ph.D.</p>
