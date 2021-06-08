@@ -218,7 +218,7 @@ linktitle: ""
 ### <p style="text-align:center;"> Bayou (black) and Lacy (white) McPherson-Adams </p>
 
 ##### <p style="text-align:center;"> __Owners:__ The McPherson-Adams Family </p>
-##### <p style="text-align:center;"> __Gotcha Days:__ Bayou - December 25th, 2018 | Lacy - December 10th, 2012 </p>
+##### <p style="text-align:center;"> __Gotcha Days:__ Bayou - Dec. 25th, 2018 | Lacy - Dec. 10th, 2012 </p>
 ##### <p style="text-align:center;"> __Likes:__ Bayou - Jumping over everything and annoying his sister | Lacy - Lounging in her plush bed by the window while watching TV </p>
 ##### <p style="text-align:center;"> __Fun Fact:__ Lacy's favorite movie is Men in Black II </p>
 
