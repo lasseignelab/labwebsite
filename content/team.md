@@ -277,6 +277,17 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/pets/sophie.jpg" alt="Sophie" width="200px"/></p>
+
+### <p style="text-align:center;"> Sophie Howton </p>
+
+##### <p style="text-align:center;"> __Owner:__ TC </p>
+##### <p style="text-align:center;"> __Birthday:__ April 12th 2010 </p>
+##### <p style="text-align:center;"> __Likes:__ Sleeping and treats</p>
+##### <p style="text-align:center;"> __Dislikes:__ Cardboard boxes </p>
+
+---
+
 <p style="text-align:center;"><img src="/about/pets/william.jpg" alt="William" width="200px"/></p>
 
 ### <p style="text-align:center;"> William Soelter-Patterson </p>
