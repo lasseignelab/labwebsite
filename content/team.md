@@ -255,6 +255,17 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/pets/partho.jpg" alt="Partho" width="200px"/></p>
+
+### <p style="text-align:center;"> Partho Oza </p>
+
+##### <p style="text-align:center;"> __Owner:__ Vishal </p>
+##### <p style="text-align:center;"> __Birthday:__ Jauary 19th, 2020 </p>
+##### <p style="text-align:center;"> __Likes:__ Playing fetch </p>
+##### <p style="text-align:center;"> __Dislikes:__ Sitting Idle </p>
+
+---
+
 <p style="text-align:center;"><img src="/about/pets/pj.jpg" alt="PJ" width="200px"/></p>
 
 ### <p style="text-align:center;"> Peanut Junior (PJ) Soelter </p>
@@ -263,6 +274,17 @@ linktitle: ""
 ##### <p style="text-align:center;"> __Birthday:__ August 4th, 2018 </p>
 ##### <p style="text-align:center;"> __Likes:__ Sleeping in the sun, treats, and attention</p>
 ##### <p style="text-align:center;"> __Dislikes:__ Closed doors </p>
+
+---
+
+<p style="text-align:center;"><img src="/about/pets/poirot.jpg" alt="Poirot" width="200px"/></p>
+
+### <p style="text-align:center;"> Poirot Oza </p>
+
+##### <p style="text-align:center;"> __Owner:__ Vishal </p>
+##### <p style="text-align:center;"> __Birthday:__ August 18th, 2015 </p>
+##### <p style="text-align:center;"> __Likes:__ Exploring </p>
+##### <p style="text-align:center;"> __Dislikes:__ Flies </p>
 
 ---
 
