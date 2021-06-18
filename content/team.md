@@ -78,6 +78,16 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/people/Hannah.JPG" alt="Hannah" width="200px"/></p>
+
+### <p style="text-align:center;"> Hannah Cleary </p>
+
+##### <p style="text-align:center;"> _Undergraduate Research Assistant / KURE Student_</p>
+
+<p style="text-align:center;">Hannah is an undergraduate research assistant participating in the University of Alabama at Birmingham’s <a href="https://www.uab.edu/medicine/nephrology/research/cardio-renal-physiology-and-medicine/kure" target="_blank">Kidney Undergraduate Research Experience (KURE)</a>. She is a current student at the University of Kentucky pursuing a degree in Agricultural and Medical Biotechnology and a minor in Biology. Her summer project is focused on evaluating a drug repurposing package for polycystic kidney disease utilizing a computational approach. In August, Hannah will return to the University of Kentucky for one more year before attending medical school in the Fall of 2022.</p>
+
+---
+
 <p style="text-align:center;"><img src="/about/people/Jen.JPEG" alt="Jen" width="200px"/></p>
 
 ### <p style="text-align:center;">Jen Fisher</p>
