@@ -72,7 +72,7 @@ linktitle: ""
 
 ### <p style="text-align:center;"> Emma Jones </p>
 
-##### <p style="text-align:center;"> _Graduate Rotation Student_</p>
+##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
 <p style="text-align:center;">Emma is a current Ph.D. student in the genetic, genomics, and bioinformatics theme within UAB’s GBS program. She graduated in 2019 with a B.A. in psychology and a minor in studio art from Humboldt State University in Arcata, California. Emma has a background in psychology, neuroscience, molecular biology, and genomics. Her research interests primarily focus on the incorporation of these methods to study psychiatric disorders.</p>
 
