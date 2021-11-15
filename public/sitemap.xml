@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -33,17 +33,12 @@
   </url>
   
   <url>
-    <loc>/categories/updates/</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/updates/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/website/</loc>
+    <loc>/categories/updates/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,48 +48,13 @@
   </url>
   
   <url>
+    <loc>/categories/website/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/new-website/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/education_resources/commandlineguide/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/education_resources/dnamethylationguide/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/education_resources/gtexguide/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/education_resources/reproducibleresearchguide/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/education_resources/rmasterguide/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/education_resources/rnaseqguide/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/education_resources/singlecellguide/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/education_resources/tcgaguide/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -103,6 +63,10 @@
   
   <url>
     <loc>/2018-06-04-biotraincompbioworkshop2018/</loc>
+  </url>
+  
+  <url>
+    <loc>/education_resources/guides/rmds/commandlineguide/</loc>
   </url>
   
   <url>
@@ -115,6 +79,10 @@
   
   <url>
     <loc>/projects/context/</loc>
+  </url>
+  
+  <url>
+    <loc>/education_resources/guides/rmds/dnamethylationguide/</loc>
   </url>
   
   <url>
@@ -134,6 +102,10 @@
   </url>
   
   <url>
+    <loc>/education_resources/guides/rmds/gtexguide/</loc>
+  </url>
+  
+  <url>
     <loc>/projects/multiomics/</loc>
   </url>
   
@@ -146,7 +118,35 @@
   </url>
   
   <url>
+    <loc>/education_resources/guides/rmds/rmasterguide/</loc>
+  </url>
+  
+  <url>
+    <loc>/education_resources/guides/rmds/reproducibleresearchguide/</loc>
+  </url>
+  
+  <url>
     <loc>/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/education_resources/guides/rmds/rnaseqguide/</loc>
+  </url>
+  
+  <url>
+    <loc>/education_resources/sasha_research_highlights/post1/</loc>
+  </url>
+  
+  <url>
+    <loc>/education_resources/guides/rmds/singlecellguide/</loc>
+  </url>
+  
+  <url>
+    <loc>/education_resources/guides/rmds/sopguide/</loc>
+  </url>
+  
+  <url>
+    <loc>/education_resources/guides/rmds/tcgaguide/</loc>
   </url>
   
   <url>

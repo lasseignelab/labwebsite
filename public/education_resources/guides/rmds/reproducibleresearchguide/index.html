@@ -1,0 +1,509 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+<title>Reproducible Research Data Science Guide - Lasseigne Lab</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png?v=1">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png?v=1">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png?v=1">
+  <link rel="manifest" href="/favicon/site.webmanifest?v=1">
+  
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg?v=1" color="#603cba">
+    <link rel="shortcut icon" href="/favicon/favicon.ico?v=1">
+    <meta name="msapplication-config" content="/favicon/browserconfig.xml?v=1">
+  
+  <meta name="msapplication-TileColor" content="#603cba">
+  <meta name="theme-color" content="#5bbad5">
+
+<meta name="generator" content="Hugo 0.80.0" /><meta itemprop="name" content="Reproducible Research Data Science Guide">
+<meta itemprop="description" content="Dry Lab Notebooks We generally follow, and encourage others to follow, Ten Simple Rules for a Computational Biologist’s Laboratory Notebook.
+Lab notebooks provide a complete record of procedures, reagents, data, and thoughts, as well as an explanation of why/how you are doing an experiment and its results. Our lab uses Evernote as an online lab notebook with scripts and projects managed in GitHub repositories attached inside.
+We recommend taking note of the following in your daily and/or dry lab experiment notebook:">
+
+<meta itemprop="wordCount" content="1496">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta property="og:title" content="Reproducible Research Data Science Guide" />
+<meta property="og:description" content="Dry Lab Notebooks We generally follow, and encourage others to follow, Ten Simple Rules for a Computational Biologist’s Laboratory Notebook.
+Lab notebooks provide a complete record of procedures, reagents, data, and thoughts, as well as an explanation of why/how you are doing an experiment and its results. Our lab uses Evernote as an online lab notebook with scripts and projects managed in GitHub repositories attached inside.
+We recommend taking note of the following in your daily and/or dry lab experiment notebook:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/education_resources/guides/rmds/reproducibleresearchguide/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Reproducible Research Data Science Guide"/>
+<meta name="twitter:description" content="Dry Lab Notebooks We generally follow, and encourage others to follow, Ten Simple Rules for a Computational Biologist’s Laboratory Notebook.
+Lab notebooks provide a complete record of procedures, reagents, data, and thoughts, as well as an explanation of why/how you are doing an experiment and its results. Our lab uses Evernote as an online lab notebook with scripts and projects managed in GitHub repositories attached inside.
+We recommend taking note of the following in your daily and/or dry lab experiment notebook:"/>
+<meta name="twitter:site" content="@bnlasse"/>
+<link rel="stylesheet" href="/css/bundle.min.a86839252b4aa4853111ceba45af5da1d6c3dc66a6a3b6854750bb2df61dfe37.css" integrity="sha256-qGg5JStKpIUxEc66Ra9dodbD3Gamo7aFR1C7LfYd/jc=">
+        <link rel="stylesheet" href="/css/add-on.css">
+</head>
+
+  <body>
+    
+<header id="site-header">
+  <nav id="site-nav">
+    <h1 class="nav-title">
+      <a href="/">
+        
+          
+            education_resources
+          
+        
+      </a>
+    </h1>
+    <menu id="site-nav-menu" class="flyout-menu">
+      
+        
+          
+          
+            <a href="/" class="link"><i class='fa fa-home'></i> Home</a>
+          
+        
+      
+        
+          
+          
+            <a href="/team/" class="link"><i class='far fa-id-card'></i> Team</a>
+          
+        
+      
+        
+          
+          
+            <a href="/research/" class="link"><i class='fas fa-microscope'></i> Research</a>
+          
+        
+      
+        
+          
+          
+            <a href="/education/" class="link"><i class='fas fa-chalkboard-teacher'></i> Education</a>
+          
+        
+      
+        
+          
+          
+            <a href="/publications/" class="link"><i class='far fa-file-alt'></i> Publications</a>
+          
+        
+      
+        
+          
+          
+            <a href="/funding/" class="link"><i class='fas fa-dollar-sign'></i> Funding</a>
+          
+        
+      
+        
+          
+          
+            <a href="/contact-us/" class="link"><i class='far fa-envelope'></i> Contact</a>
+          
+        
+      
+      
+      
+    </menu>
+    
+    
+    
+    <a href="#site-nav" class="nav-toggle"><i class="fas fa-bars fa-2x"></i></a>
+  </nav>
+  
+  
+</header>
+
+    <div id="wrapper">
+      <section id="site-intro" >
+  <a href="/"><img src="/img/main/lablogo.png" class="circle" width="200" alt="Lasseigne Lab" /></a>
+  <header>
+    <h1>Lasseigne Lab</h1>
+  </header>
+  <main>
+    <p>Because Science.</p>
+  </main>
+  
+    <footer>
+      <ul class="socnet-icons">
+        
+
+        <li><a href="//github.com/lasseignelab" target="_blank" rel="noopener" title="GitHub" class="fab fa-github"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="//linkedin.com/in/brittany-lasseigne-phd" target="_blank" rel="noopener" title="LinkedIn" class="fab fa-linkedin"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="//twitter.com/bnlasse" target="_blank" rel="noopener" title="Twitter" class="fab fa-twitter"></a></li>
+
+
+
+
+
+
+
+<li><a href="//researchgate.net/profile/Brittany_Lasseigne" target="_blank" rel="noopener" title="Research Gate"><i class="ai ai-researchgate"></i></a></li>
+
+
+<li><a href="mailto:bnp0001@uab.edu" target="_blank" title="Email" class="far fa-envelope"></a></li>
+
+      </ul>
+    </footer>
+  
+</section>
+
+      <main id="site-main">
+        <article class="post">
+  <header>
+  <div class="title">
+    
+      <h2><a href="/education_resources/guides/rmds/reproducibleresearchguide/">Reproducible Research Data Science Guide</a></h2>
+    
+    
+  </div>
+</header>
+
+  <section id="socnet-share">
+    
+
+
+
+
+
+  </section>
+  
+
+  <div class="content">
+    
+
+
+<div id="dry-lab-notebooks" class="section level1">
+<h1>Dry Lab Notebooks</h1>
+<p>We generally follow, and encourage others to follow, <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385" target="_blank">Ten Simple Rules for a Computational Biologist’s Laboratory Notebook</a>.</p>
+<p>Lab notebooks provide a complete record of procedures, reagents, data, and thoughts, as well as an explanation of why/how you are doing an experiment and its results. Our lab uses <a href="https://www.evernote.com" target="_blank">Evernote</a> as an online lab notebook with scripts and projects managed in GitHub repositories attached inside.</p>
+<p>We recommend taking note of the following in your daily and/or dry lab experiment notebook:</p>
+<ul>
+<li>The goal/purpose of the experiment and/or operations</li>
+<li>Systems where the operations were done
+<ul>
+<li>(e.g. personal laptop or Cheaha)</li>
+</ul></li>
+<li>Directory of operations</li>
+<li>Names and locations of scripts and when they were edited or used</li>
+<li>Information on and location of raw data</li>
+<li>A description of steps like a paragraph for a paper</li>
+<li>Any important screenshots, figures, or presentations related to a project</li>
+<li>Dates of operations</li>
+<li>Versions of programming languages, tools, and/or packages</li>
+</ul>
+<hr />
+</div>
+<div id="r-projects" class="section level1">
+<h1>R Projects</h1>
+<p>One can use R Projects that can be linked to version control programs such as Git (which is covered later in the guide) to create and manage reproducible data.</p>
+<div id="r-and-rstudio" class="section level2">
+<h2>R and RStudio</h2>
+<p>See <a href="https://www.lasseigne.org/education_resources/rmasterguide.html" target="_blank"> this R Master Guide</a> for a full introduction to R and RStudio.</p>
+</div>
+<div id="r-markdown" class="section level2">
+<h2>R Markdown</h2>
+<p><a href="https://rmarkdown.rstudio.com/" target="_blank">R Markdown</a>, a tool in RStudio, creates reproducible documents that can combine narrative text and code from languages such as R, Python, and SQL. See below for some helpful resources:</p>
+<ul>
+<li><a href="https://rmarkdown.rstudio.com/lesson-1.html" target="_blank">RStudio’s R Markdown Guide</a></li>
+<li><a href="https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf" target="_blank">RStudio’s R Markdown Cheat Sheet</a></li>
+<li><a href="https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md" target="_blank"> Cyril Chappellier’s Markdown Cheat Sheet</a></li>
+</ul>
+<p>It might be helpful to add a sessionInfo() function at the bottom of Rmarkdown files in order to help people know what version of R and its packages you are using. You can also use <a href="https://rstudio.github.io/packrat/" target="_blank">this</a> package, titled “packrat”, for R package version control, which allows versions of packages to be shared with others.</p>
+<div id="software-carpentry-tutorials" class="section level4">
+<h4>Software Carpentry Tutorials</h4>
+<p><a href="http://swcarpentry.github.io/r-novice-gapminder/" target="_blank">These lessons</a>, titled “R for Reproducible Scientific Analysis,” were covered in the aforementioned R Master Guide but are particularly helpful in learning how to code for data analysis and setting a good workflow. Take a look at the lesson plan to see what specific lessons fit your needs.</p>
+<hr />
+</div>
+</div>
+</div>
+<div id="git" class="section level1">
+<h1>Git</h1>
+<p><a href="https://git-scm.com/" target="_blank">Git</a> is a free, open source distributed version control system. It tracks changes, maintains history, and allows you to revert changes. Clones will mirror the full history of the original repository. For more information on this as well as an overview of different version control systems, check out <a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control#:~:text=Version%20control%20is%20a%20system,of%20file%20on%20a%20computer" target="_blank">this</a> chapter of the Git documentation book.</p>
+<p>For an overview of the different version control systems and a brief explanation of what makes git a distributed</p>
+<div id="github" class="section level2">
+<h2>GitHub</h2>
+<p><a href="https://github.com" target="_blank">Github</a> uses Git to allow software development version control to manage changes to scripts through a push/pull system. It is a very useful tool for both individual and team version control, with settings to allow others to view your code for collaboration and/or reproducibility. Below are some GitHub tutorials you can follow:</p>
+<ul>
+<li>Coding Club’s <a href="https://ourcodingclub.github.io/tutorials/git-for-labs/" target="_blank">Setting up a GitHub Repository For Your Lab - Version Control &amp; Code Management with GitHub</a></li>
+<li>Software Carpentry’s <a href="http://swcarpentry.github.io/git-novice/" target="_blank">Version Control with Git</a></li>
+<li>Jennifer Bryan’s <a href="https://happygitwithr.com/index.html" target="_blank">Happy Git and GitHub for the useR</a></li>
+</ul>
+</div>
+<div id="gitlab" class="section level2">
+<h2>GitLab</h2>
+<p><a href="https://about.gitlab.com/" target="_blank">GitLab</a> also uses Git and is a service that allows access to private pipelines for free. It has seamless migration to/from GitHub, and it has an RStudio integration. Below are some resources explaining GitLab, as well as some clarifying the differences between it and GitHub:</p>
+<ul>
+<li><a href="https://gitlab.rc.uab.edu/" target="_blank">UAB Research Computing’s GitLab</a>, which provides free unlimited private repos</li>
+<li><a href="https://gitlab.rc.uab.edu/lianov/gitlab_demo/-/blob/master/GitLab_presentation.pdf?expanded=true&viewer=rich" target="_blank">Dr. Lara Ianov’s presentation on GitLab</a></li>
+<li><a href="https://about.gitlab.com/devops-tools/github-vs-gitlab.html" target="_blank">About GitLab - GitHub vs GitLab</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="data-management" class="section level1">
+<h1>Data Management</h1>
+<p><em>This section provides steps you can follow for general data management and storage.</em></p>
+<div id="general-steps" class="section level2">
+<h2>General Steps</h2>
+<ul>
+<li>Back up your data. A general rule to follow is to have three different storage locations.
+<ul>
+<li>(e.g. on your computer, on Google Drive or a cloud-based location, and on an external hard drive or lab server)</li>
+</ul></li>
+<li>Make sure you have at least one cloud and one off-site storage space for your data and scripts.</li>
+<li>Keep data and scripts organized within a directory or workspace. There should be different directories for raw data, scripts, results, and/or documents, but this can vary by project.</li>
+<li>Include frequent comments in your code. This is important for keeping it clear for both yourself in the future and for others reviewing it.</li>
+<li>When creating a new directory, start with the date (in order to make them sortable by date), then a project title or description.
+<ul>
+<li>(e.g. 190811_projectname for a project started on 8/11/2019)</li>
+</ul></li>
+<li>When naming files, start with the date, then a title or short description of the script.
+<ul>
+<li>(e.g. 190811_rna_seq_analysis)</li>
+</ul></li>
+<li>In your scripts, it is important to include:
+<ul>
+<li>The person who wrote the script</li>
+<li>Date(s) of operations of the script</li>
+<li>A description of the purpose of the script</li>
+<li>Comments about operations done within the script</li>
+</ul></li>
+<li>Create an overview text document in your workspace describing the project, organization of the directory, and locations of data.
+<ul>
+<li>(e.g. a GitHub README.md)</li>
+</ul></li>
+<li>Create and check md5sum files to check if your data files have changed after computational operations (more on that <a href="https://www.tecmint.com/generate-verify-check-files-md5-checksum-linux/" target="_blank">here</a>).</li>
+<li>Use a method for version control or note what versions of tools were used for computational operations.</li>
+</ul>
+</div>
+<div id="storage-of-scripts" class="section level2">
+<h2>Storage of Scripts</h2>
+<p>RStudio projects, scripts, and some small files should be stored in a GitHub project/repository as well as a backup location.</p>
+</div>
+<div id="storage-of-large-data" class="section level2">
+<h2>Storage of Large Data</h2>
+<div id="cheaha" class="section level3">
+<h3>Cheaha</h3>
+<p><a href="https://docs.uabgrid.uab.edu/wiki/Cheaha" target="_blank">Cheaha</a> is UAB’s cluster computing environment. You can learn more about it in <a href="https://www.youtube.com/watch?v=6M-OPA9I8S8&list=PLfodFxaCrr0eyWHvZYJr1fdMJlSrECpxt" target="_blank">this</a> youtube video.</p>
+<ul>
+<li>This would be used for large data that needs a supercomputer.</li>
+<li><strong><em>Cheaha is not a backed up resource.</em></strong></li>
+</ul>
+<div id="tools-for-data-transfer" class="section level4">
+<h4>Tools for Data Transfer</h4>
+<ul>
+<li>The tool “rclone” can be used on Cheaha for copying/moving files to and from cloud storage in Google Drive, Box, and other cloud services. Here are some useful resources:
+<ul>
+<li><a href="https://docs.uabgrid.uab.edu/wiki/Box.com_bulk_transfer" target="_blank">UAB’s Wiki on transferring between Cheaha and Box with rclone</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=UbFJV9TO4KE&feature=youtu.be" target="_blank">Video demonstration</li>
+</ul></li>
+<li><a href="https://rclone.org/drive/" target="_blank">rclone for Google Drive</a></li>
+<li><a href="https://rclone.org/commands/" target="_blank">rclone commands</a></li>
+</ul></li>
+<li>The tool “Globus” can be used for secure data transfer and can be done between remote locations (e.g.: a collaborator’s computer to Cheaha and vice-versa). For more information on utilizing Globus with your UAB BlazerID, visit <a href="https://docs.uabgrid.uab.edu/wiki/Globus" target="_blank"> this link</a></li>
+</ul>
+</div>
+<div id="data-storage-locations-and-functions" class="section level4">
+<h4>Data Storage Locations and Functions</h4>
+<ul>
+<li>/data/project/lab_name/ (50TB)
+<ul>
+<li>storage of raw data, genome information files, and storage of results</li>
+<li>a lab must send a ticket to Research Computing requesting that project directory be created</li>
+</ul></li>
+<li>/scratch/username (shared storage - meant for short-term storage during analysis)
+<ul>
+<li>workspace: copy raw files here to work with, then copy results to the lab project folder or /data/user/username once you are done</li>
+</ul></li>
+<li>/data/user/username (5-10TB)
+<ul>
+<li>files for an individual, such as R libraries or individual projects</li>
+</ul></li>
+<li>/home/username (20-50GB)
+<ul>
+<li>limited space, but some important files for programs might need to be stored here
+(e.g. “.Renviron” for R and RStudio instructions in the cluster)</li>
+</ul></li>
+<li>More information about storage locations on the cluster can be found <a href="https://docs.uabgrid.uab.edu/wiki/Cheaha2_GettingStarted#Storage" target="_blank">here</a>.</li>
+</ul>
+</div>
+<div id="getting-started-with-cheaha" class="section level4">
+<h4>Getting Started with Cheaha</h4>
+<ol style="list-style-type: decimal">
+<li>Follow <a href="https://docs.uabgrid.uab.edu/wiki/Cheaha_GettingStarted" target="_blank">this link</a> for an in-depth guide on getting started on Cheaha.</li>
+<li>To request an account, send an email to <a href="mailto:support@listserv.uab.edu" target="_blank">support@listserv.uab.edu</a> with background on your intended use and your affiliations.</li>
+<li>Acknowledge the confirmation email to submit the account request.</li>
+<li>Follow <a href="https://docs.uabgrid.uab.edu/wiki/Cheaha2_GettingStarted#Example_Batch_Job_Script" target="_blank">this</a> Hello World example.</li>
+<li>Make RLibs and RStudioLibs folders for R packages in the /data/user/username folder to prevent packages from being stored in the home directory.</li>
+</ol>
+</div>
+<div id="pipeline-tools-and-virtual-environments" class="section level4">
+<h4>Pipeline Tools and Virtual Environments</h4>
+<p>These tools should be used for version control for tool and workflow management on Cheaha to ensure reproducibility and scalability.</p>
+<p><em>Anaconda</em>: an integrated tool used to build the environment the pipeline runs on. It installs programs into the working directory and allows you to view and change which versions programs are utilizing.</p>
+<ul>
+<li>Learn about using Anaconda for version control <a href="https://docs.uabgrid.uab.edu/wiki/anaconda" target="_blank">here</a>.</li>
+<li>To learn more about creating an Anaconda environment on Cheaha, watch <a href="https://www.youtube.com/watch?v=tfGJlO9AeXU" target="_blank">this</a> video.</li>
+</ul>
+<p><em>Snakemake</em>: built on a make system that ensures that files are produced for each appropriate step, ensuring every expected output is produced. You can rerun a step by deleting the output from that step and the pipeline will rerun from that point.</p>
+<ul>
+<li>Learn more about the tool Snakemake <a href="https://vincebuffalo.com/blog/2020/03/04/understanding-snakemake.html" target="_blank">here</a></li>
+</ul>
+</div>
+</div>
+<div id="lab-google-drive" class="section level3">
+<h3>Lab Google Drive</h3>
+<p>Our lab uses a <a href="https://www.google.com/drive/" target="_blank">Google Drive</a> folder, where data is organized into subfolders by project.</p>
+</div>
+<div id="box" class="section level3">
+<h3>Box</h3>
+<p><a href="https://www.box.com/home" target="_blank">Box</a> is a cloud storage service that is free to UAB staff. <a href="https://www.uab.edu/it/home/tech-solutions/file-storage/box/?utm_source=golink&utm_medium=golink" target="_blank"><strong>Though UAB previously announced discontinuing its use of box, it has been revealed that negotiations have allowed for UAB to continue its use as before.</strong></p>
+<ul>
+<li><a href="https://www.uab.edu/it/home/box" target="_blank">UAB’s Box Landing Page</a></li>
+<li><a href="https://support.box.com/hc/en-us/articles/360044196373-The-Basics-of-Box" target="_blank">The Basics of Box</a></li>
+</ul>
+</div>
+<div id="external-hard-drives" class="section level3">
+<h3>External Hard Drives</h3>
+<p>Our lab uses G-Drives, but one needs to be aware of how a given drive is formatted, as this will affect how well it works with different computing platforms. We label these drives with our initials as well as additional labels as needed and a description of what is in the hard drive. Other options are Seagate and other reputable brands with extensive reviews. As external drives are a physical storage device for data, it is important to choose a trustworthy brand and model that is compatible with your needs.</p>
+</div>
+</div>
+<div id="other-resources" class="section level2">
+<h2>Other Resources</h2>
+<ul>
+<li><a href="https://github.com/greenelab/onboarding/blob/master/onboarding.md#source-code-data-and-reproducibility" target="_blank">Greene Lab’s Data Management Policies</a></li>
+<li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525" target="_blank">Ten Simple Rules for Creating a Good Data Management Plan</a></li>
+<li><a href="https://library.ucsd.edu/research-and-collections/data-curation/plan-and-manage/data-management-best-practices.html" target="_blank">Data Management Best Practices</a></li>
+<li><a href="https://guides.ucsf.edu/c.php?g=101037&p=2704713" target="_blank">Reproducible Data Management</a></li>
+<li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510" target="_blank">Good Enough Practices in Scientific Computing</a></li>
+</ul>
+</div>
+</div>
+
+  </div>
+  <footer>
+    <ul class="stats">
+  
+    <li class="categories">
+      <ul>
+        <li>None</li>
+      </ul>
+    </li>
+  
+  
+    <li class="tags">
+      <ul>
+        <li>None</li>
+      </ul>
+    </li>
+  
+</ul>
+
+  </footer>
+</article>
+
+
+<div class="pagination">
+  
+    <a href="/education_resources/guides/rmds/rnaseqguide/" class="button"><div class="previous"><div>RNA-Seq Master Guide</div></div></a>
+  
+  
+    <a href="/education_resources/guides/rmds/rmasterguide/" class="button"><div class="next"><div>R Master Guide</div></div></a>
+  
+</div>
+
+
+      </main>
+      <section id="site-sidebar">
+  
+    <section id="recent-posts">
+      <header>
+        <h1>Recent posts</h1>
+      </header>
+      
+      <article class="mini-post">
+        <section>
+          
+
+        </section>
+        <header>
+          <h1><a href="/blog/first-update/">First Update</a></h1>
+          <time class="published" datetime="">November 2, 2020</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
+        <section>
+          
+
+        </section>
+        <header>
+          <h1><a href="/blog/new-website/">New Website!</a></h1>
+          <time class="published" datetime="">March 27, 2020</time>
+        </header>
+      </article>
+      
+      
+    </section>
+  
+
+  
+
+  
+</section>
+
+      <footer id="site-footer">
+  
+  <p class="copyright">
+    
+      &copy; 2020
+      
+        Lasseigne Lab
+      
+    . <br>
+    Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.80.0' target='_blank' rel='noopener'>Hugo</a>
+  </p>
+</footer>
+<a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
+
+      <script src="/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script><script src="/js/bundle.min.e0c399b948d3cf5c3a5e3badb94023d0b064a19ac39fd8cd79fb9f57fa4d1091.js" integrity="sha256-4MOZuUjTz1w6XjutuUAj0LBkoZrDn9jNefufV/pNEJE="></script>
+    <script src="/js/add-on.js"></script>
+    </div>
+  </body>
+</html>
