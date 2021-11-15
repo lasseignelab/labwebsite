@@ -58,16 +58,6 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Emily.jpg" alt="Emily" width="200px"/></p>
-
-### <p style="text-align:center;"> Emily Page</p>
-
-##### <p style="text-align:center;"> _Research Assistant / Grad PREP Scholar_</p>
-
-<p style="text-align:center;">Emily is in the Graduate PREP Scholars program at UAB, which is a one year training program for students who are seeking graduate degrees in the biomedical sciences. She earned her B.S. in Biology, majoring in Biomedical Sciences from University of Alabama at Birmingham.  Some of her favorite previous work included Corynebacterium Bacteriophage gene analysis and color Gene analysis of Glacier Bears.</p>
-
----
-
 <p style="text-align:center;"><img src="/about/people/Emma.jpeg" alt="Emma" width="200px"/></p>
 
 ### <p style="text-align:center;"> Emma Jones </p>
@@ -75,16 +65,6 @@ linktitle: ""
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
 <p style="text-align:center;">Emma is a current Ph.D. student in the genetic, genomics, and bioinformatics theme within UAB’s GBS program. She graduated in 2019 with a B.A. in psychology and a minor in studio art from Humboldt State University in Arcata, California. Emma has a background in psychology, neuroscience, molecular biology, and genomics. Her research interests primarily focus on the incorporation of these methods to study psychiatric disorders.</p>
-
----
-
-<p style="text-align:center;"><img src="/about/people/Hannah.JPG" alt="Hannah" width="200px"/></p>
-
-### <p style="text-align:center;"> Hannah Cleary </p>
-
-##### <p style="text-align:center;"> _Undergraduate Research Assistant / KURE Student_</p>
-
-<p style="text-align:center;">Hannah is an undergraduate research assistant participating in the University of Alabama at Birmingham’s <a href="https://www.uab.edu/medicine/nephrology/research/cardio-renal-physiology-and-medicine/kure" target="_blank">Kidney Undergraduate Research Experience (KURE)</a>. She is a current student at the University of Kentucky pursuing a degree in Agricultural and Medical Biotechnology and a minor in Biology. Her summer project is focused on evaluating a drug repurposing package for polycystic kidney disease utilizing a computational approach. In August, Hannah will return to the University of Kentucky for one more year before attending medical school in the Fall of 2022.</p>
 
 ---
 
@@ -105,15 +85,6 @@ linktitle: ""
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
 <p style="text-align:center;">Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Genetics and Genomic Sciences from UAB. Her projects and interests focus on developing and applying disease-agnostic computational approaches to understand the role of context dependency across and within disease. Jordan has a particular heart for rare diseases. She is currently investigating the role of cell-specificity in tissue-specific Mendelian disease manifestations. Using renal- and neurological-associated phenotypes as a test set, she is employing a combination of wet-lab and computational approaches involving expression and regulatory networks to identify the underlying drivers of Mendelian disease.</p>
-
----
-
-<p style="text-align:center;"><img src="/about/people/Kasi.jpg" alt="Kasi" width="200px"/></p>
-
-### <p style="text-align:center;">Kasi McPherson, Ph.D.</p>
-##### <p style="text-align:center;"> _Postdoctoral Fellow_</p>
-
-<p style="text-align:center;">Kasi is a Postdoctoral Fellow in the <a href="https://www.uab.edu/meritprogram/" target="_blank">IRACDA-MERIT Program</a> at the University of Alabama at Birmingham. She obtained her PhD in Medical Pharmacology from University of Mississippi Medical Center, Jackson MS where her research projected was focused on testing pharmacological agents as potential treatments of obesity related kidney disease using a novel genetic rat model of obesity. Her current research interest includes application of data science-based methods to identify therapeutic targets for cardiovascular diseases, particularly in high-risk population.</p>
 
 ---
 
@@ -192,11 +163,31 @@ linktitle: ""
 
 <br>
 
-### <p style="text-align:center;"> Drew Hardigan. Ph.D. </p>
+### <p style="text-align:center;"> Drew Hardigan, Ph.D. </p>
 
 ##### <p style="text-align:center;"> _Visiting Postdoctoral Fellow (2020)_ </p>
 
 <p style="text-align:center;"> Currently: Neurosurgery Resident, Duke University </p>
+
+<br>
+
+### <p style="text-align:center;"> Kasi McPherson, Ph.D. </p>
+
+##### <p style="text-align:center;"> _Postdoctoral Fellow (2020-2021)_ </p>
+
+<br>
+
+### <p style="text-align:center;"> Emily Page </p>
+
+##### <p style="text-align:center;"> _Research Assistant / Grad PREP Scholar (2020-2021)_ </p>
+
+<br>
+
+### <p style="text-align:center;"> Hannah Cleary </p>
+
+##### <p style="text-align:center;"> _Undergraduate Research Assistant / KURE Student (2021)_ </p>
+
+<br>
 
 ---
 
