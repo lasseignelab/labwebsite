@@ -98,6 +98,16 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/people/Nathan.png" alt="Nathan" width="200px"/></p>
+
+### <p style="text-align:center;">Nathaniel DeVoss</p>
+
+##### <p style="text-align:center;"> _Undergraduate Research Assistant_</p>
+
+<p style="text-align:center;">Nathaniel is a freshman undergraduate research assistant majoring in Bioinformatics and a part of the Science and Technology Honors Program. He is interested in using computer methods to understand large biological data sets. He hopes to use these methods to improve diagnosis and treatment of genetic diseases.</p>
+
+---
+
 <p style="text-align:center;"><img src="/about/people/Sasha.JPG" alt="Sasha" width="200px"/></p>
 
 ### <p style="text-align:center;">Sasha Thalluri</p>
