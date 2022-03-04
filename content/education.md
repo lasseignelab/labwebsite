@@ -42,3 +42,11 @@ When getting started with data analysis, we recommend:
 ---
 
 **Learn more about Brittany's teaching and outreach experience <a href="/brittany-education/index.html">here</a>**
+
+---
+
+### Research Highlights Within the Community
+
+<form action="/education_resources/sasha_research_highlights/post1.md">
+    <input type="submit" value="Sasha's Research Highlights" />
+</form>

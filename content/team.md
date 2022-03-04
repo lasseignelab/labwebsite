@@ -255,6 +255,18 @@ linktitle: ""
 
 ---
 
+
+<p style="text-align:center;"><img src="/about/pets/rocks.jpeg" alt="Methyl and Isla" width="200px"/></p>
+
+### <p style="text-align:center;"> Methyl and Isla </p>
+
+##### <p style="text-align:center;"> __Owner:__ Sasha </p>
+##### <p style="text-align:center;"> __Birthday:__ 3.8-billion years ago </p>
+##### <p style="text-align:center;"> __Likes:__ Outside </p>
+##### <p style="text-align:center;"> __Dislikes:__ Hard headed people </p>
+
+---
+
 <p style="text-align:center;"><img src="/about/pets/partho.jpg" alt="Partho" width="200px"/></p>
 
 ### <p style="text-align:center;"> Partho Oza </p>
@@ -262,7 +274,7 @@ linktitle: ""
 ##### <p style="text-align:center;"> __Owner:__ Vishal </p>
 ##### <p style="text-align:center;"> __Birthday:__ Jauary 19th, 2020 </p>
 ##### <p style="text-align:center;"> __Likes:__ Playing fetch </p>
-##### <p style="text-align:center;"> __Dislikes:__ Sitting Idle </p>
+##### <p style="text-align:center;"> __Dislikes:__ Sitting idle </p>
 
 ---
 
