@@ -258,7 +258,7 @@ linktitle: ""
 
 <p style="text-align:center;"><img src="/about/pets/rocks.jpeg" alt="Methyl and Isla" width="200px"/></p>
 
-### <p style="text-align:center;"> Methyl and Isla </p>
+### <p style="text-align:center;"> Methyl and Isla Thalluri </p>
 
 ##### <p style="text-align:center;"> __Owner:__ Sasha </p>
 ##### <p style="text-align:center;"> __Birthday:__ 3.8-billion years ago </p>
