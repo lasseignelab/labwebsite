@@ -25,7 +25,12 @@ _<p style="text-align:center;"> Click from the links below for our lab members' 
 
 ### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/1-sZliVlxrZ1vA/bibliography/public/" target="_blank">Jordan Whitlock</a></p>
 
+### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/1NKhX9mKdjooI5/bibliography/public/" target="_blank">Emma Jones</a></p>
+
+### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/avery.williams.1/bibliography/public/" target="_blank">Avery Williams</a></p>
+
 <br>
+
 ## <ins><p style="text-align:center;">Alumni</p></ins>
 
 ### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/1t5_UTn1jmBQb/bibliography/public/" target="_blank">Drew Hardigan</a></p>
