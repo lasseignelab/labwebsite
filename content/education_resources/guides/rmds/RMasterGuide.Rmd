@@ -1,9 +1,10 @@
 ---
 title: "R Master Guide"
+subtitle: "Version 1.1"
 author: 
   - name: "Sasha Thalluri Lasseigne Lab, CDIB, UAB"
     affiliation: For questions, email Dr. Lasseigne at bnp0001@uab.edu
-date: "3/18/2020"
+date: "3/18/2020 | Last Updated: 5/27/2022"
 output:
   html_document:
     theme: spacelab
@@ -92,23 +93,26 @@ The following sections are recommended if you are trying to get the basics of da
 * Best Practices for Writing R Code
 * Dynamic Reports with knitr
 
+## Software Development Resources for Data Scientists
 
+#### A guide to project structure, automatic testing, reproducible environments, and version control
 
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Click <a href="https://www.rstudio.com/blog/software-development-resources-for-data-scientists/" target="_blank">here</a> to view this resource.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<center>Version 1.1: Added Software Development Resources article.</center>
+<br>

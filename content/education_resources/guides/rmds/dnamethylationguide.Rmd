@@ -5,7 +5,7 @@ author:
   - name: "Sasha Thalluri, Lasseigne Lab, CDIB, UAB"
   - name: "Developed with assistance from the Lasseigne Lab and Dr. Lara Ianov, UAB"
     affiliation: For questions, email Dr. Lasseigne at bnp0001@uab.edu
-date: "9/15/20"
+date: "9/15/2020"
 output:
   html_document:
     theme: spacelab
