@@ -19,6 +19,8 @@ _<p style="text-align:center;"> Click from the links below for our lab members' 
 
 ### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/14YVgCfkorPI1O/bibliography/public/" target="_blank">TC Howton</a></p>
 
+### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/elizabeth.ramsey.1/bibliography/public/" target="_blank">Lizzy Wilk</a></p>
+
 ### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/1vKFBlj68org9A/bibliography/public/" target="_blank">Tabea Soelter</a></p>
 
 ### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/1XsJq6lUQqd5jm/bibliography/public/" target="_blank">Jen Fisher</a></p>

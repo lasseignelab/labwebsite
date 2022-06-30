@@ -90,7 +90,7 @@ linktitle: ""
 
 <p style="text-align:center;"><img src="/about/people/Lizzy.png" alt="Lizzy" width="200px"/></p>
 
-### <p style="text-align:center;">Lizzy Ramsey</p>
+### <p style="text-align:center;">Lizzy Wilk</p>
 
 ##### <p style="text-align:center;"> _Researcher III and Lab Manager_</p>
 

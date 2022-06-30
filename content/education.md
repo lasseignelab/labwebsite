@@ -9,6 +9,12 @@ images:
 linktitle: ""
 ---
 
+<form action="/brittany-education/index.html">
+    <input type="submit" value="Brittany's Teaching & Outreach" />
+</form>
+
+---
+
 #### <p style="text-align:center;">Welcome to our data science education page.</p>
 
 _<p style="text-align:center;">If you are UAB trainees, faculty, or staff and want to get started, please check out these resources:</p>_
@@ -40,13 +46,3 @@ When getting started with data analysis, we recommend:
 </ol>
 
 ---
-
-**Learn more about Brittany's teaching and outreach experience <a href="/brittany-education/index.html">here</a>**
-
----
-
-### Research Highlights Within the Community
-
-<form action="/education_resources/sasha_research_highlights/post1.md">
-    <input type="submit" value="Sasha's Research Highlights" />
-</form>
