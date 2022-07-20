@@ -104,18 +104,10 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant_</p>
 
-<p style="text-align:center;">Nathaniel is a freshman undergraduate research assistant majoring in Bioinformatics and a part of the Science and Technology Honors Program. He is interested in using computer methods to understand large biological data sets. He hopes to use these methods to improve diagnosis and treatment of genetic diseases.</p>
+<p style="text-align:center;">Nathaniel is an undergraduate research assistant majoring in Bioinformatics and a part of the Science and Technology Honors Program. He is interested in using computer methods to understand large biological data sets. He hopes to use these methods to improve diagnosis and treatment of genetic diseases.</p>
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Sasha.JPG" alt="Sasha" width="200px"/></p>
-
-### <p style="text-align:center;">Sasha Thalluri</p>
-##### <p style="text-align:center;"> _Undergraduate Research Assistant_</p>
-
-<p style="text-align:center;">Sasha is an honors undergraduate student majoring in Genetics and Genomic Sciences at UAB. She is a part of our genomic instabilities project, which is geared towards gathering and analyzing genomics data to create predictive models of human cancer. She is currently applying computational approaches to compare and contrast different types of chromosomal instability and DNA methylation instability metrics.</p>
-
----
 
 <p style="text-align:center;"><img src="/about/people/Tabea.png" alt="Tabea" width="200px"/></p>
 
@@ -131,7 +123,7 @@ linktitle: ""
 
 ### <p style="text-align:center;">TC Howton, Ph.D.</p>
 
-##### <p style="text-align:center;"> _Researcher IV and Lab Manager_</p>
+##### <p style="text-align:center;"> _Scientist I and Lab Manager_</p>
 
 <p style="text-align:center;">T.C. earned his PhD in Biology from the University of Alabama at Birmingham. During his doctoral studies, T.C. focused on using network-based approaches to elucidate the molecular interactions between plants and bacterial pathogens. T.C. is currently serving as a lab manager as well as research scientist within the Lasseigne lab.</p>
 
@@ -141,7 +133,7 @@ linktitle: ""
 
 ### <p style="text-align:center;">Victoria Flanary</p>
 
-##### <p style="text-align:center;"> _Graduate Rotation Student_</p>
+##### <p style="text-align:center;"> _Graduate Student_</p>
 
 <p style="text-align:center;">Victoria is an MD/PhD graduate trainee in the UAB Medical Scientist Training Program. She graduated from UAB in 2020 with a B.S. in Neuroscience, along with minors in Biology and Chemistry. Her background in conducting translational research for glioblastoma has inspired her to pursue a scientific career aimed toward maximizing clinical therapies for various malignancies, primarily via utilizing computational genomic data to advance precision medicine for cancer.</p>
 
@@ -159,17 +151,34 @@ linktitle: ""
 
 # <ins><p style="text-align:center;" id="alumni">Our Alumni</p></ins>
 
-### <p style="text-align:center;"> Roshan Darji </p>
+### <p style="text-align:center;">Sasha Thalluri</p>
+##### <p style="text-align:center;"> _Undergraduate Research Assistant (2019-2022)_</p>
 
-##### <p style="text-align:center;"> _Computational Biologist (2019)_ </p>
-
-<p style="text-align:center;">Currently: Department of Biostatistics, Rollins School of Public Health, Emory University</p>
+<p style="text-align:center;"> Currently: Medical Student, School of Medicine, University of Alabama at Birmingham </p>
 
 <br>
 
-### <p style="text-align:center;"> Randi Wood </p>
+### <p style="text-align:center;"> Hannah Cleary </p>
 
-##### <p style="text-align:center;"> _Researcher IV and Lab Manager (2019-2020)_ </p>
+##### <p style="text-align:center;"> _Undergraduate Research Assistant / KURE Student (2021)_ </p>
+
+<p style="text-align:center;"> Medical Student, University of Kentucky </p>
+
+<br>
+
+### <p style="text-align:center;"> Emily Page </p>
+
+##### <p style="text-align:center;"> _Research Assistant / Grad PREP Scholar (2020-2021)_ </p>
+
+<p style="text-align:center;"> Graduate Student, Genetics, Genomics, and Bioinformatics at UAB </p>
+
+<br>
+
+### <p style="text-align:center;"> Kasi McPherson, Ph.D. </p>
+
+##### <p style="text-align:center;"> _Postdoctoral Fellow (2020-2021)_ </p>
+
+<p style="text-align:center;"> Currently: Postdoctoral Fellow, UAB </p>
 
 <br>
 
@@ -181,21 +190,17 @@ linktitle: ""
 
 <br>
 
-### <p style="text-align:center;"> Kasi McPherson, Ph.D. </p>
+### <p style="text-align:center;"> Randi Wood </p>
 
-##### <p style="text-align:center;"> _Postdoctoral Fellow (2020-2021)_ </p>
-
-<br>
-
-### <p style="text-align:center;"> Emily Page </p>
-
-##### <p style="text-align:center;"> _Research Assistant / Grad PREP Scholar (2020-2021)_ </p>
+##### <p style="text-align:center;"> _Researcher IV and Lab Manager (2019-2020)_ </p>
 
 <br>
 
-### <p style="text-align:center;"> Hannah Cleary </p>
+### <p style="text-align:center;"> Roshan Darji </p>
 
-##### <p style="text-align:center;"> _Undergraduate Research Assistant / KURE Student (2021)_ </p>
+##### <p style="text-align:center;"> _Computational Biologist (2019)_ </p>
+
+<p style="text-align:center;"> Currently: Department of Biostatistics, Rollins School of Public Health, Emory University </p>
 
 <br>
 
