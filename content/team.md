@@ -48,23 +48,23 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Avery.JPG" alt="Avery" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Avery.png" alt="Avery" width="200px"/></p>
 
 ### <p style="text-align:center;">Avery Williams</p>
 
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant_ </p>
 
-<p style="text-align:center;">Avery is an undergraduate research assistant and <a href="https://www.uab.edu/cas/cancerbiology/images/documents/RACE_21_Application_Student_11-11-20_revision.pdf" target ="_blank">RACE21 Cancer Biology Scholar</a> majoring in Genetics and Genomic Sciences and a part of the Science and Technology honors program. She is responsible for the lab website and collaborates on multiple projects for the lab. Her current focus is working with comprehensive Glioblastoma RNA profiles to identify optimal research model systems and patient avatars, as well as understand Glioblastoma-associated blood and brain gene expression profiles.</p>
+<p style="text-align:center;">Avery is an undergraduate research assistant and <a href="https://www.uab.edu/cas/cancerbiology/images/documents/RACE_21_Application_Student_11-11-20_revision.pdf" target ="_blank">RACE21 Cancer Biology Scholar</a> majoring in Genetics and Genomic Sciences and a part of the Science and Technology honors program. They are responsible for the lab website and collaborates on multiple projects for the lab. Their current focus is working with comprehensive Glioblastoma RNA profiles to identify optimal research model systems and patient avatars, as well as understand Glioblastoma- and sex-associated brain gene expression profiles.</p>
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Emma.jpeg" alt="Emma" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Emma.png" alt="Emma" width="200px"/></p>
 
 ### <p style="text-align:center;"> Emma Jones </p>
 
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
-<p style="text-align:center;">Emma is a current Ph.D. student in the genetic, genomics, and bioinformatics theme within UAB’s GBS program. She graduated in 2019 with a B.A. in psychology and a minor in studio art from Humboldt State University in Arcata, California. Emma has a background in psychology, neuroscience, molecular biology, and genomics. Her research interests primarily focus on the incorporation of these methods to study psychiatric disorders.</p>
+<p style="text-align:center;">Emma is a current Ph.D. student in the Genomics, Genetics, and Bioinformatics theme within the UAB Graduate Biomedical Sciences program, and is also a UAB Neuroscience Roadmap Scholar. She graduated in 2019 with a B.A. in Psychology and a minor in Studio Art from California State Polytechnic University, Humboldt in Arcata, California. Emma has a research background in psychology, neuroscience, cellular and molecular biology, and genomics. She is currently building on those skills by working on the best way to study transcriptional diversity in the brain, and how changes in diversity at the isoform level can relate to disease.</p>
 
 ---
 
