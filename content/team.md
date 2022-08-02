@@ -26,7 +26,7 @@ linktitle: ""
 <p style="text-align:center;">
 <img src="/about/people/Brittany.jpg" alt="Brittany" width="200px"/></p>
 
-### <p style="text-align:center;">Brittany Lasseigne, Ph.D.</p>
+### <p style="text-align:center;">Brittany Lasseigne, PhD</p>
 
 ##### <p style="text-align:center;">_Principal Investigator and Assistant Professor_</p>
 
@@ -64,7 +64,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
-<p style="text-align:center;">Emma is a current Ph.D. student in the Genomics, Genetics, and Bioinformatics theme within the UAB Graduate Biomedical Sciences program, and is also a UAB Neuroscience Roadmap Scholar. She graduated in 2019 with a B.A. in Psychology and a minor in Studio Art from California State Polytechnic University, Humboldt in Arcata, California. Emma has a research background in psychology, neuroscience, cellular and molecular biology, and genomics. She is currently building on those skills by working on the best way to study transcriptional diversity in the brain, and how changes in diversity at the isoform level can relate to disease.</p>
+<p style="text-align:center;">Emma is a current PhD student in the Genomics, Genetics, and Bioinformatics theme within the UAB Graduate Biomedical Sciences program, and is also a UAB Neuroscience Roadmap Scholar. She graduated in 2019 with a B.A. in Psychology and a minor in Studio Art from California State Polytechnic University, Humboldt in Arcata, California. Emma has a research background in psychology, neuroscience, cellular and molecular biology, and genomics. She is currently building on those skills by working on the best way to study transcriptional diversity in the brain, and how changes in diversity at the isoform level can relate to disease.</p>
 
 ---
 
@@ -74,7 +74,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
-<p style="text-align:center;">Jen is a current Ph.D. student in the Genomics, Genetics, and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She is supported by UAB’s AMC21 Scholars program. In 2019, she earned a B.S. in Biological Engineering with a minor in Mathematics from Mississippi State University. Jen is currently developing machine learning and network approaches to improve drug repurposing candidate selection and avoiding side effects due to sex differences. She is applying her methods in two rare diseases: Friedreich’s Ataxia & Glioblastoma multiforme.</p>
+<p style="text-align:center;">Jen is a current PhD student in the Genomics, Genetics, and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She is supported by UAB’s AMC21 Scholars program. In 2019, she earned a B.S. in Biological Engineering with a minor in Mathematics from Mississippi State University. Jen is currently developing machine learning and network approaches to improve drug repurposing candidate selection and avoiding side effects due to sex differences. She is applying her methods in two rare diseases: Friedreich’s Ataxia & Glioblastoma multiforme.</p>
 
 ---
 
@@ -84,7 +84,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
-<p style="text-align:center;">Jordan is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Genetics and Genomic Sciences from UAB. Her projects and interests focus on developing and applying disease-agnostic computational approaches to understand the role of context dependency across and within disease. Jordan has a particular heart for rare diseases. She is currently investigating the role of cell-specificity in tissue-specific Mendelian disease manifestations. Using renal- and neurological-associated phenotypes as a test set, she is employing a combination of wet-lab and computational approaches involving expression and regulatory networks to identify the underlying drivers of Mendelian disease.</p>
+<p style="text-align:center;">Jordan is a current PhD student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Genetics and Genomic Sciences from UAB. Her projects and interests focus on developing and applying disease-agnostic computational approaches to understand the role of context dependency across and within disease. Jordan has a particular heart for rare diseases. She is currently investigating the role of cell-specificity in tissue-specific Mendelian disease manifestations. Using renal- and neurological-associated phenotypes as a test set, she is employing a combination of wet-lab and computational approaches involving expression and regulatory networks to identify the underlying drivers of Mendelian disease.</p>
 
 ---
 
@@ -115,13 +115,13 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
-<p style="text-align:center;">Tabea is a current Ph.D. student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Cell and Molecular Biology from Piedmont College (now Piedmont University). Tabea is currently investigating the cell-type-specific role of chromosomal instability and its effects on cell-cell interactions between neuronal and non-neuronal cell populations in Alzheimer's disease by employing a combination of wet-lab and computational approaches.</p>
+<p style="text-align:center;">Tabea is a current PhD student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Cell and Molecular Biology from Piedmont College (now Piedmont University). Tabea is currently investigating the cell-type-specific role of chromosomal instability and its effects on cell-cell interactions between neuronal and non-neuronal cell populations in Alzheimer's disease by employing a combination of wet-lab and computational approaches.</p>
 
 ---
 
 <p style="text-align:center;"><img src="/about/people/TC.jpg" alt="TC" width="200px"/></p>
 
-### <p style="text-align:center;">TC Howton, Ph.D.</p>
+### <p style="text-align:center;">TC Howton, PhD</p>
 
 ##### <p style="text-align:center;"> _Scientist I and Lab Manager_</p>
 
@@ -141,7 +141,7 @@ linktitle: ""
 
 <p style="text-align:center;"><img src="/about/people/Vishal.jpg" alt="Vishal" width="200px"/></p>
 
-### <p style="text-align:center;">Vishal Oza, Ph.D.</p>
+### <p style="text-align:center;">Vishal Oza, PhD</p>
 
 ##### <p style="text-align:center;"> _Scientist II_</p>
 
@@ -174,7 +174,7 @@ linktitle: ""
 
 <br>
 
-### <p style="text-align:center;"> Kasi McPherson, Ph.D. </p>
+### <p style="text-align:center;"> Kasi McPherson, PhD </p>
 
 ##### <p style="text-align:center;"> _Postdoctoral Fellow (2020-2021)_ </p>
 
@@ -182,7 +182,7 @@ linktitle: ""
 
 <br>
 
-### <p style="text-align:center;"> Drew Hardigan, Ph.D. </p>
+### <p style="text-align:center;"> Drew Hardigan, PhD </p>
 
 ##### <p style="text-align:center;"> _Visiting Postdoctoral Fellow (2020)_ </p>
 
