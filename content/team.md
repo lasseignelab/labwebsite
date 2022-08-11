@@ -133,7 +133,7 @@ linktitle: ""
 
 ### <p style="text-align:center;">Victoria Flanary</p>
 
-##### <p style="text-align:center;"> _Graduate Student_</p>
+##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
 <p style="text-align:center;">Victoria is an MD/PhD graduate trainee in the UAB Medical Scientist Training Program. She graduated from UAB in 2020 with a B.S. in Neuroscience, along with minors in Biology and Chemistry. Her background in conducting translational research for glioblastoma has inspired her to pursue a scientific career aimed toward maximizing clinical therapies for various malignancies, primarily via utilizing computational genomic data to advance precision medicine for cancer.</p>
 
