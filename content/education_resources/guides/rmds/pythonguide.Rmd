@@ -1,0 +1,198 @@
+---
+title: "Python Master Guide"
+subtitle: "Version 1.0"
+author: 
+  - name: "Sasha Thalluri, Lasseigne Lab, CDIB, UAB"
+  - name: "Developed with assistance from the Lasseigne Lab and Dr. Lara Ianov, UAB"
+    affiliation: For questions, email Dr. Lasseigne at bnp0001@uab.edu
+date: "3/17/2022"
+output:
+  html_document:
+    theme: spacelab
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_control: yes
+  pdf_document:
+    toc: yes
+---
+
+# Introduction into Python
+***
+#### This is an SOP on getting started with the programming language Python. Here, you can find courses and resources that can help you develop a foundation for using Python.
+<br>
+
+# Courses
+*** 
+These are courses that will give an overall introduction for using Python. They will be separated into different sections based on experience level: Beginner, Intermediate, Applied Data Science.
+<br>
+<br>
+
+### Beginner
+These are courses that have lessons we recommend for those who are beginning to learn the programming language Python. 
+
+**Software Carpentry: Plotting and Programming with Python**
+
+Software Carpentry is a website which provides introductory lessons for programming with Python,specifically these lessons teach users how to use and plot their data using the gapminder dataset. To access these lessons, click <a href="http://swcarpentry.github.io/python-novice-gapminder/">here.</a>
+
+1. Running and Quitting
+2. Variables and Assignment
+3. Data Types and Type Conversion
+4. Built-in Functions and Help
+5. Libraries
+6. Reading Tabular Data into DataFrames
+7. Pandas DataFrames
+8. Plotting
+9. Lists
+10. For Loops
+11. Conditionals
+12. Looping Over Data Sets
+13. Writing Functions
+14. Variable Scope
+15. Programming Style
+
+**Learn Python**
+
+Learn Python is a website with an interactive Python tutorial in which inexperienced and experienced programmers can learn how to program using Python. At the beginner level, we recommend starting with their first section "Learn the Basics". To access this website, click <a href="https://www.learnpython.org/" target="_blank">here.</a>
+
+1. Learn the Basics
+   * Hello, World!
+   * Variables and Types
+   * Lists
+   * Basic Operators
+   * String Formatting
+   * Basic String Operations
+   * Conditions
+   * Loops
+   * Functions
+   * Classes and Objects
+   * Dictionaries
+   * Modules and Packages
+   
+**UCSC CSE20: Beginning Programming in Python Course**
+
+This is a github page with the lecture notes for UC Santa Cruz's Beginning Programming in Python course. It is available <a href="https://github.com/benedictpaten/intro_python" target="_blank">here.</a>
+
+
+### Intermediate
+These are courses that have lessons we recommend for those who understand the basics of Python and want to know Python at the intermediate level.
+
+**Software Carpentry: Programming with Python**
+
+Software Carpentry also provides lessons that focus on using Python for data analysis. To access these lessons, click <a href="https://swcarpentry.github.io/python-novice-inflammation/">here.</a>
+
+1. Python Fundamentals
+2. Analyzing Patient Data
+3. Visualizing Tabular Data
+4. Storing Multiple Values in Lists
+5. Repeating Actions with Loops
+6. Analyzing Data from Multiple Files
+7. Making Choices
+8. Creating Functions
+9. Errors and Exceptions
+10. Defensive Programming
+11. Debugging 
+12. Command-Line Programs
+
+
+**Learn Python**
+
+At the intermediate level, we recommend working through their third section "Advanced Tutorials" section. To access this website, click <a href="https://www.learnpython.org/">here.</a>
+
+3. Advanced Tutorials
+    * Generators
+    * List Comprehensions
+    * Lambda functions
+    * Multiple Function Arguments
+    * Regular Expressions
+    * Exception Handling
+    * Sets
+    * Serialization
+    * Partial functions
+    * Code Introspection
+    * Closures
+    * Decorators
+    * Map, Filter, Reduce
+  
+**UAB Intro to Python for Data Analysis and Visualization**
+
+This repository provides information about using Python for data analysis and visualization. Specifically, this repository has lessons that provide introductory information for using Jupyter Notebooks, creating Python functions, and applying these concepts using example datasets. To access this repository, click <a href="https://github.com/bjoyce3/UAB_IntrotoPython_Analysis_Vis/tree/main/python-lessons">here.</a>
+
+
+### Applied Bioinformatics
+These are courses that have lessons we recommend for those who would like to obtain specific knowledge in using Python for data science and bioinformatic purposes.
+
+**Learn Python**
+
+For those wanting to learn Python for data science purposes, we recommend working through the second section on their website "Data Science Tutorials". To access this website, click <a href="https://www.learnpython.org/">here.</a>
+
+2. Data Science Tutorials
+    * Numpy Arrays
+    * Pandas Basics
+  
+**Python for Biologists**
+
+Python for Biologists is a programming course that allows beginners to learn how to use Python while applying that knowledge towards common biological and bioinformatics problems. To access the textbook version of this  course, click <a href="http://userpages.fu-berlin.de/digga/p4b.pdf">here.</a> To access the online course, click <a href="https://pythonforbiologists.com/tutorial.html">here.</a>
+  
+**Rosalind**
+
+Rosalind is a platform for learning bioinformatics and programming through problem solving. Specifically, it has lessons which provide the basics about the Python programming language and algorithms underlying a variety of bioinformatics topics. Additionally, Rosalind provides 'ready-to-use' software tools and several exercises one can use to apply the knowledge gained from their lessons. To access this platform, click <a href="https://rosalind.info/problems/locations/">here.</a>
+
+
+
+
+<br>
+
+
+# Resources
+*** 
+Here are resources that can be used to assist with learning Python. 
+<br>
+<br>
+
+**Think Python**
+
+Think Python is a textbook that provides an introduction to Python programming for beginners. In this textbook, one can learn the basic concepts of programming using Python. Additionally, this textbook defines all terms when they are first used and develops each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters. To access this textbook, click <a href="https://greenteapress.com/wp/think-python-2e/">here.</a>
+
+**Python for Everybody**
+
+Python for Everybody is a book that is designed to introduce students to programming and software development through the lens of exploring data. In this book, one can find an Informatics-oriented introduction to programming. To access this book, click <a href="https://www.py4e.com/book.php">here.</a>
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<center> Version 1.1
+Edits: UCSC Beginning Python course added by Avery Williams
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

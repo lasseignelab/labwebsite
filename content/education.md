@@ -31,11 +31,9 @@ _<p style="text-align:center;">If you are UAB trainees, faculty, or staff and wa
 <li><p><a href="/education_resources/guides/tcgaguide.html" target="_blank">The Cancer Genome Atlas (TCGA)</a></p></li>
 <li><p><a href="/education_resources/guides/gtexguide.html" target="_blank">The Genotype-Tissue Expression (GTEx) Project</a></p></li>
 <li><p><a href="/education_resources/guides/dnamethylationguide.html" target="_blank">DNA Methylation</a></p></li>
-</ul>
- <li><p><a href="/education_resources/guides/pythonguide.html" target="_blank">Python</a></p></li>
-</ul>
+<li><p><a href="/education_resources/guides/pythonguide.html" target="_blank">Python</a></p></li>
 <li><p><a href="/education_resources/guides/reproducibleresearchguide.html" target="_blank">Reproducible Research</a></p></li>
-
+</ul>
 ---
 
 When getting started with data analysis, we recommend:
