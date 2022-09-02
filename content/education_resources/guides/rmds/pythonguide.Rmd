@@ -18,7 +18,7 @@ output:
 ---
 
 # Introduction into Python
-***
+
 #### This is an SOP on getting started with the programming language Python. Here, you can find courses and resources that can help you develop a foundation for using Python.
 <br>
 
