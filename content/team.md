@@ -54,7 +54,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant_ </p>
 
-<p style="text-align:center;">Anisha is an undergraduate research assistant majoring in Immunology and is part of the Personalized Honors Program and the <a href="https://www.uab.edu/students/academics/emsap" target="_blank>Early Medical School Acceptance Program</a> at UAB. She has previously contributed to projects relating to wound healing, the impact of hormonal therapy on the microbiome, and transcription activation and repression in neuron development. In the Lasseigne Lab, Anisha is contributing to cross-species and network genomics analyses.</p>
+<p style="text-align:center;">Anisha is an undergraduate research assistant majoring in Immunology and is part of the Personalized Honors Program and the <a href="https://www.uab.edu/students/academics/emsap" target="_blank">Early Medical School Acceptance Program</a> at UAB. She has previously contributed to projects relating to wound healing, the impact of hormonal therapy on the microbiome, and transcription activation and repression in neuron development. In the Lasseigne Lab, Anisha is contributing to cross-species and network genomics analyses.</p>
 
 ---
 
