@@ -172,7 +172,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant / KURE Student (2021)_ </p>
 
-<p style="text-align:center;"> Medical Student, University of Kentucky </p>
+<p style="text-align:center;"> Currently: Medical Student, University of Kentucky </p>
 
 <br>
 
@@ -180,7 +180,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Research Assistant / Grad PREP Scholar (2020-2021)_ </p>
 
-<p style="text-align:center;"> Graduate Student, Genetics, Genomics, and Bioinformatics at UAB </p>
+<p style="text-align:center;"> Currently: Graduate Student, Genetics, Genomics, and Bioinformatics at UAB </p>
 
 <br>
 
