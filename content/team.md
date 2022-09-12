@@ -44,7 +44,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Postdoctoral Fellow_ </p>
 
-<p style="text-align:center;">Amanda is an <a href="https://www.uab.edu/meritprogram/" target="_blank">IRACDA-MERIT</a> Postdoctoral Fellow at the University of Alabama at Birmingham. She completed a B.S. in Molecular Biology at UAB and a Ph.D. in Biology at Auburn University.  Amanda is passionate about integrating computational thinking and data science into undergraduate biology education, the evolutionary dynamics of complex systems, and comparative multi-omics for human disease modeling.</p>
+<p style="text-align:center;">Amanda is an <a href="https://www.uab.edu/meritprogram/" target="_blank">IRACDA-MERIT</a> Postdoctoral Fellow at the University of Alabama at Birmingham. She completed a B.S. in Molecular Biology at UAB and a PhD in Biology at Auburn University. Amanda is passionate about integrating computational thinking and data science into undergraduate biology education, the evolutionary dynamics of complex systems, and comparative multi-omics for human disease modeling.</p>
 
 ---
 
