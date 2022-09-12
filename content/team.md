@@ -38,13 +38,23 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/people/Amanda.jpg" alt="Amanda" width="200px"/></p>
+
+### <p style="text-align:center;">Amanda Clark</p>
+
+##### <p style="text-align:center;"> _Postdoctoral Fellow_ </p>
+
+<p style="text-align:center;">Amanda is an <a href="https://www.uab.edu/meritprogram/" target="_blank">IRACDA-MERIT</a> Postdoctoral Fellow at the University of Alabama at Birmingham. She completed a B.S. in Molecular Biology at UAB and a Ph.D. in Biology at Auburn University.  Amanda is passionate about integrating computational thinking and data science into undergraduate biology education, the evolutionary dynamics of complex systems, and comparative multi-omics for human disease modeling.</p>
+
+---
+
 <p style="text-align:center;"><img src="/about/people/Anisha.jpg" alt="Anisha" width="200px"/></p>
 
 ### <p style="text-align:center;">Anisha Haldar</p>
 
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant_ </p>
 
-<p style="text-align:center;">Anisha is an undergraduate research assistant majoring in Immunology and is part of the Personalized Honors Program and the Early Medical School Acceptance Program at UAB. She has previously contributed to projects relating to wound healing, the impact of hormonal therapy on the microbiome, and transcription activation and repression in neuron development. In the Lasseigne Lab, Anisha is contributing to cross-species and network genomics analyses.</p>
+<p style="text-align:center;">Anisha is an undergraduate research assistant majoring in Immunology and is part of the Personalized Honors Program and the <a href="https://www.uab.edu/students/academics/emsap" target="_blank>Early Medical School Acceptance Program</a> at UAB. She has previously contributed to projects relating to wound healing, the impact of hormonal therapy on the microbiome, and transcription activation and repression in neuron development. In the Lasseigne Lab, Anisha is contributing to cross-species and network genomics analyses.</p>
 
 ---
 
