@@ -64,7 +64,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant_ </p>
 
-<p style="text-align:center;">Avery is an undergraduate research assistant and <a href="https://www.uab.edu/cas/cancerbiology/images/documents/RACE_21_Application_Student_11-11-20_revision.pdf" target ="_blank">RACE21 Cancer Biology Scholar</a> majoring in Genetics and Genomic Sciences and a part of the Science and Technology honors program. They are responsible for the lab website and collaborates on multiple projects for the lab. Their current focus is working with comprehensive Glioblastoma RNA profiles to identify optimal research model systems and patient avatars, as well as understand Glioblastoma- and sex-associated brain gene expression profiles.</p>
+<p style="text-align:center;">Avery is an undergraduate research assistant and <a href="https://www.uab.edu/cas/cancerbiology/images/documents/RACE_21_Application_Student_11-11-20_revision.pdf" target ="_blank">RACE21 Cancer Biology Scholar</a> majoring in Genetics and Genomic Sciences and a part of the <a href = "https://www.uab.edu/honorscollege/home/curriculum-and-programs#scienceandtechnology" target="_blank" >Science and Technology</a> honors program. They are responsible for the lab website and collaborates on multiple projects for the lab. Their current focus is working with comprehensive Glioblastoma RNA profiles to identify optimal research model systems and patient avatars, as well as understand Glioblastoma- and sex-associated brain gene expression profiles.</p>
 
 ---
 
@@ -114,7 +114,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant_</p>
 
-<p style="text-align:center;">Nathaniel is an undergraduate research assistant majoring in Bioinformatics and a part of the Science and Technology Honors Program. He is interested in using computer methods to understand large biological data sets. He hopes to use these methods to improve diagnosis and treatment of genetic diseases.</p>
+<p style="text-align:center;">Nathaniel is an undergraduate research assistant majoring in Bioinformatics and a part of the <a href = "https://www.uab.edu/honorscollege/home/curriculum-and-programs#scienceandtechnology" target="_blank" >Science and Technology</a> honors program. He is interested in using computer methods to understand large biological data sets. He hopes to use these methods to improve diagnosis and treatment of genetic diseases.</p>
 
 ---
 
