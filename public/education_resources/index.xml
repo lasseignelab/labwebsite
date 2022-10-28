@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="/education_resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Command Line Master Guide</title>
+      <title>Command Line Guide</title>
       <link>/education_resources/guides/rmds/commandlineguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -39,11 +39,21 @@ It was originally created to study the relationship between genetic variants and
     </item>
     
     <item>
-      <title>R Master Guide</title>
-      <link>/education_resources/guides/rmds/rmasterguide/</link>
+      <title>Python Guide</title>
+      <link>/education_resources/guides/rmds/pythonguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/rmasterguide/</guid>
+      <guid>/education_resources/guides/rmds/pythonguide/</guid>
+      <description>Introduction into Python This is an SOP on getting started with the programming language Python. Here, you can find courses and resources that can help you develop a foundation for using Python. 
+  Courses These are courses that will give an overall introduction for using Python. They will be separated into different sections based on experience level: Beginner, Intermediate, Applied Data Science. Beginner These are courses that have lessons we recommend for those who are beginning to learn the programming language Python.</description>
+    </item>
+    
+    <item>
+      <title>R Guide</title>
+      <link>/education_resources/guides/rmds/rguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/education_resources/guides/rmds/rguide/</guid>
       <description>Introduction into R This is an SOP on getting started with R and RStudio. There are three main courses that should be taken to understand the basics.  Swirl Software Carpentry ‘R for Reproducible Scientific Analysis’ Software Carpentry ‘Programming with R’   Downloading R and RStudio Here is the quick start guide for installing R, RStudio, and R packages.
 The latest version of R can be downloaded here.</description>
     </item>
@@ -60,7 +70,7 @@ We recommend taking note of the following in your daily and/or dry lab experimen
     </item>
     
     <item>
-      <title>RNA-Seq Master Guide</title>
+      <title>RNA-Seq Guide</title>
       <link>/education_resources/guides/rmds/rnaseqguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -68,15 +78,6 @@ We recommend taking note of the following in your daily and/or dry lab experimen
       <description>Introduction into RNA-Seq This is an SOP on getting started with RNA-seq. Here you can find information on resources, aligners, DESeq2, and pathway analysis tools. 
   Resources This is a list of links to resources that have essential information on RNA-seq and the recommended R packages for RNA-seq analysis.
  Introduction to RNA Sequencing  Background lecture for RNA-seq Here are the slides used in the lecture  RNA Sequencing and Analysis  Paper giving an overall introduction to RNA-seq  RNA sequencing data: hitchhiker’s guide to expression analysis  Paper stating the developments in RNA-seq data analysis Focuses on quantification of gene expression and statistical approaches for differential expression  RNA sequencing: the teenage years  Paper stating the different RNA-seq methods, while naming certain RNA technologies and good computational tools for data analysis    About Aligners Contributed by Dr.</description>
-    </item>
-    
-    <item>
-      <title>Seminar Name</title>
-      <link>/education_resources/sasha_research_highlights/post1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/education_resources/sasha_research_highlights/post1/</guid>
-      <description></description>
     </item>
     
     <item>

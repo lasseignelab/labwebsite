@@ -6,7 +6,17 @@
     <description>Recent content on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Update</title>
+      <link>/blog/second-update/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/second-update/</guid>
+      <description>We are back with another update! Thank you for taking the time to check in on how our lab is evolving and growing! It has been almost two years since our last update, so a lot has happened!
+To begin, here&amp;rsquo;s a little &amp;ldquo;lab space update&amp;rdquo; on how we&amp;rsquo;ve made ourselves at home in our dry lab space: We are so thankful for this space to hold our ever-growing lab! Next, we&amp;rsquo;d like to introduce you to our newer members and summer students that we have had since the last update:</description>
+    </item>
+    
     <item>
       <title>First Update</title>
       <link>/blog/first-update/</link>
@@ -37,7 +47,7 @@ We&amp;rsquo;ve been fortunate to recruit such a strong, interdisciplinary team.
     </item>
     
     <item>
-      <title>Command Line Master Guide</title>
+      <title>Command Line Guide</title>
       <link>/education_resources/guides/rmds/commandlineguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -90,9 +100,9 @@ Usually, people work with programs that use Graphical User Interfaces (GUIs). GU
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/education/</guid>
-      <description>Welcome to our data science education page. If you are UAB trainees, faculty, or staff and want to get started, please check out these resources:
- Data Science Guides  When getting started with data analysis, we recommend:
- Learn more about Brittany&amp;rsquo;s teaching and outreach experience here</description>
+      <description> Welcome to our data science education page. If you are UAB trainees, faculty, or staff and want to get started, please check out these resources:
+ Data Science Guides When getting started with data analysis, we recommend:
+ </description>
     </item>
     
     <item>
@@ -135,16 +145,26 @@ It was originally created to study the relationship between genetic variants and
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Click from the links below for our lab members&#39; publications:
-Current Brittany Lasseigne Vishal Oza TC Howton Tabea Soelter Jen Fisher Jordan Whitlock Drew Hardigan Kasi McPherson </description>
+      <description>Click from the links below for our lab members&amp;rsquo; publications:
+Current Brittany Lasseigne Vishal Oza TC Howton Lizzy Wilk Tabea Soelter Jen Fisher Jordan Whitlock Emma Jones Victoria Flanary Avery Williams Alumni Drew Hardigan Kasi McPherson </description>
     </item>
     
     <item>
-      <title>R Master Guide</title>
-      <link>/education_resources/guides/rmds/rmasterguide/</link>
+      <title>Python Guide</title>
+      <link>/education_resources/guides/rmds/pythonguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/rmasterguide/</guid>
+      <guid>/education_resources/guides/rmds/pythonguide/</guid>
+      <description>Introduction into Python This is an SOP on getting started with the programming language Python. Here, you can find courses and resources that can help you develop a foundation for using Python. 
+  Courses These are courses that will give an overall introduction for using Python. They will be separated into different sections based on experience level: Beginner, Intermediate, Applied Data Science. Beginner These are courses that have lessons we recommend for those who are beginning to learn the programming language Python.</description>
+    </item>
+    
+    <item>
+      <title>R Guide</title>
+      <link>/education_resources/guides/rmds/rguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/education_resources/guides/rmds/rguide/</guid>
       <description>Introduction into R This is an SOP on getting started with R and RStudio. There are three main courses that should be taken to understand the basics.  Swirl Software Carpentry ‘R for Reproducible Scientific Analysis’ Software Carpentry ‘Programming with R’   Downloading R and RStudio Here is the quick start guide for installing R, RStudio, and R packages.
 The latest version of R can be downloaded here.</description>
     </item>
@@ -167,11 +187,11 @@ We recommend taking note of the following in your daily and/or dry lab experimen
       
       <guid>/research/</guid>
       <description>The Lasseigne Lab uses genomic strategies and data to study complex and rare diseases with the goal of discovering biological signatures that might be used to improve patient care and provide insight into molecular processes contributing to disease. We currently have active collaborations in cancer, neurodegeneration, kidney, and rare disease projects.
-  </description>
+ </description>
     </item>
     
     <item>
-      <title>RNA-Seq Master Guide</title>
+      <title>RNA-Seq Guide</title>
       <link>/education_resources/guides/rmds/rnaseqguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -179,15 +199,6 @@ We recommend taking note of the following in your daily and/or dry lab experimen
       <description>Introduction into RNA-Seq This is an SOP on getting started with RNA-seq. Here you can find information on resources, aligners, DESeq2, and pathway analysis tools. 
   Resources This is a list of links to resources that have essential information on RNA-seq and the recommended R packages for RNA-seq analysis.
  Introduction to RNA Sequencing  Background lecture for RNA-seq Here are the slides used in the lecture  RNA Sequencing and Analysis  Paper giving an overall introduction to RNA-seq  RNA sequencing data: hitchhiker’s guide to expression analysis  Paper stating the developments in RNA-seq data analysis Focuses on quantification of gene expression and statistical approaches for differential expression  RNA sequencing: the teenage years  Paper stating the different RNA-seq methods, while naming certain RNA technologies and good computational tools for data analysis    About Aligners Contributed by Dr.</description>
-    </item>
-    
-    <item>
-      <title>Seminar Name</title>
-      <link>/education_resources/sasha_research_highlights/post1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/education_resources/sasha_research_highlights/post1/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -228,7 +239,7 @@ We recommend taking note of the following in your daily and/or dry lab experimen
       
       <guid>/team/</guid>
       <description>Our research focuses on developing approaches for assaying and integrating omics data, functional annotations, and patient information to discover novel mechanisms in disease etiology and progression, therapeutic targets, and circulating biomarkers.
-  Current Members Brittany Lasseigne, Ph.D. Principal Investigator and Assistant Professor  Anisha Haldar Undergraduate Research Assistant   Avery Williams Undergraduate Research Assistant   Emma Jones  Graduate Research Assistant  Jen Fisher Graduate Research Assistant  Jordan Whitlock Graduate Research Assistant  Lizzy Ramsey Researcher III and Lab Manager  Sasha Thalluri Undergraduate Research Assistant  Tabea Soelter Graduate Research Assistant  TC Howton, Ph.</description>
+  Current Members Brittany Lasseigne, PhD Principal Investigator and Assistant Professor  Amanda Clark Postdoctoral Fellow   Anisha Haldar Undergraduate Research Assistant   Avery Williams Undergraduate Research Assistant   Emma Jones  Graduate Research Assistant  Jen Fisher Graduate Research Assistant  Jordan Whitlock Graduate Research Assistant  Lizzy Wilk Researcher III and Lab Manager  Nathaniel DeVoss Undergraduate Research Assistant  Tabea Soelter Graduate Research Assistant  TC Howton, PhD Scientist I and Lab Manager  Victoria Flanary Graduate Research Assistant  Vishal Oza, PhD Scientist II  Our Alumni Sasha Thalluri Undergraduate Research Assistant (2019-2022) Hannah Cleary  Undergraduate Research Assistant / KURE Student (2021)  Emily Page  Research Assistant / Grad PREP Scholar (2020-2021)  Kasi McPherson, PhD  Postdoctoral Fellow (2020-2021)  Drew Hardigan, PhD  Visiting Postdoctoral Fellow (2020)  Randi Wood  Researcher IV and Lab Manager (2019-2020)  Roshan Darji  Computational Biologist (2019)   Past Rotation Students Jack Hoover (2020) Shaurita Hutchins (2020)  Furry Friends April Jones  Owner: Emma  Gotcha Day: April 10, 2018  Likes: Warm laps, cuddles, and routines  Dislikes: Strangers and closed doors  Fun Fact: Only has 3 legs!</description>
     </item>
     
   </channel>
