@@ -1,5 +1,5 @@
 ---
-title: "RNA-Seq Master Guide"
+title: "RNA-Seq Guide"
 subtitle: "Version 1.1"
 author: 
   - name: "Sasha Thalluri, Lasseigne Lab, CDIB, UAB"

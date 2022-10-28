@@ -1,5 +1,5 @@
 ---
-title: "R Master Guide"
+title: "R Guide"
 subtitle: "Version 1.1"
 author: 
   - name: "Sasha Thalluri Lasseigne Lab, CDIB, UAB"

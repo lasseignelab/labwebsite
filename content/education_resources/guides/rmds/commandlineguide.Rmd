@@ -1,5 +1,5 @@
 ---
-title: "Command Line Master Guide"
+title: "Command Line Guide"
 subtitle: "Version 1.0"
 author: 
   - name: "Sasha Thalluri Lasseigne Lab, CDIB, UAB"
