@@ -158,10 +158,6 @@ Think Python is a textbook that provides an introduction to Python programming f
 
 Python for Everybody is a book that is designed to introduce students to programming and software development through the lens of exploring data. In this book, one can find an Informatics-oriented introduction to programming. To access this book, click <a href="https://www.py4e.com/book.php">here.</a>
 
-
-
-
-
 <br>
 <br>
 <br>
@@ -178,21 +174,5 @@ Python for Everybody is a book that is designed to introduce students to program
 <br>
 <br>
 <br>
-<center> Version 1.1
-Edits: UCSC Beginning Python course added by Avery Williams
+<center> Version 1.1: UCSC Beginning Python course added by Avery Williams </center>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

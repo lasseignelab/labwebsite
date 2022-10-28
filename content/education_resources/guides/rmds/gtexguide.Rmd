@@ -121,14 +121,3 @@ Here are GTEx tutorials in R. This will help you in selecting samples, loading e
 **recountWorkflow**
 
 Here is a workflow for recount. It explains in detail how to use the recount package and how to integrate it with other Bioconductor packages for several analyses that can be carried out with the recount2 resource. To access the workflow, click <a href="https://bioconductor.org/packages/devel/workflows/vignettes/recountWorkflow/inst/doc/recount-workflow.html" target="_blank">here.</a>
-
-
-
-
-
-
-
-
-
-
-
