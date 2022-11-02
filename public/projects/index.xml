@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Lasseigne Lab</title>
-    <link>/projects/</link>
+    <link>lasseigne.org/projects/</link>
     <description>Recent content in Projects on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="lasseigne.org/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Context of Disease Manifestations</title>
-      <link>/projects/context/</link>
+      <link>lasseigne.org/projects/context/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/context/</guid>
+      <guid>lasseigne.org/projects/context/</guid>
       <description>We interrogate disease context dependency and the impact of gene regulation, environment, and genetic background on disease manifestations. This includes the role of cell- and tissue-specific gene expression, candidate cis-regulatory elements and transcription factor occupancy, chromatin confirmation and 3D interactions, genomic instabilities, ligand-target pair prediction, and age-associated molecular changes.</description>
     </item>
     
     <item>
       <title>Drug Target and Repurposing Prioritization</title>
-      <link>/projects/drugs/</link>
+      <link>lasseigne.org/projects/drugs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/drugs/</guid>
+      <guid>lasseigne.org/projects/drugs/</guid>
       <description>We develop and apply machine and transfer learning approaches to identify and prioritize genome-driven therapeutic targets and repurposing candidates for patient and cellular phenotypes, including disease and tissue-agnostic or -aware biomarkers. Through collaboration, we test hypotheses generated from these approaches in pre-clinical models (i.e., iPSCs, PDXs, etc.). Additionally, through data science approaches we optimize selection and interpretation of preclinical models for modeling human diseases.</description>
     </item>
     
     <item>
       <title>Multiomics Assay and Analytical Approaches</title>
-      <link>/projects/multiomics/</link>
+      <link>lasseigne.org/projects/multiomics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/multiomics/</guid>
+      <guid>lasseigne.org/projects/multiomics/</guid>
       <description>We develop and apply ‘wet’ molecular biology and ‘dry’ computational approaches with the goal of extracting the most information possible from the smallest sample input at the lowest cost and then turn that information into actionable knowledge. To achieve this, we implement multiplexed sequencing approaches to assay circulating DNA and RNA from biofluid samples (i.e., ‘liquid biopsies’), as well as statistical methods (including network approaches) for integrating omics data, functional annotations, and patient information to improve disease state prediction, particularly for small (including n=1) and heterogeneous cohorts.</description>
     </item>
     

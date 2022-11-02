@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>updates on Lasseigne Lab</title>
-    <link>/tags/updates/</link>
+    <link>lasseigne.org/tags/updates/</link>
     <description>Recent content in updates on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="lasseigne.org/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Update</title>
-      <link>/blog/second-update/</link>
+      <link>lasseigne.org/blog/second-update/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/second-update/</guid>
+      <guid>lasseigne.org/blog/second-update/</guid>
       <description>We are back with another update! Thank you for taking the time to check in on how our lab is evolving and growing! It has been almost two years since our last update, so a lot has happened!
 To begin, here&amp;rsquo;s a little &amp;ldquo;lab space update&amp;rdquo; on how we&amp;rsquo;ve made ourselves at home in our dry lab space: We are so thankful for this space to hold our ever-growing lab! Next, we&amp;rsquo;d like to introduce you to our newer members and summer students that we have had since the last update:</description>
     </item>
     
     <item>
       <title>First Update</title>
-      <link>/blog/first-update/</link>
+      <link>lasseigne.org/blog/first-update/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/first-update/</guid>
+      <guid>lasseigne.org/blog/first-update/</guid>
       <description>It has been an eventful eight months. Our first and most recent entry was posted in March of this year, and much has happened since then! While COVID-19 has had a tragic negative effect on the world around us, we have been very fortunate to have had plenty of positive events as well.
 Since our last update, Drew has moved on to a neurosurgery residency at Duke University. Randi has also moved on to opportunities elsewhere.</description>
     </item>

@@ -1,4 +1,4 @@
-baseurl                 = "/"
+baseurl                 = "https://lasseigne.org"
 DefaultContentLanguage  = "en"
 title                   = "Lasseigne Lab"
 theme = "hugo-future-imperfect-slim"
@@ -210,3 +210,8 @@ ignoreFiles             = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$
   mastodon              = ""
   # Email
   email                 = "bnp0001@uab.edu"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

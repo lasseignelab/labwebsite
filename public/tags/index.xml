@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lasseigne Lab</title>
-    <link>/tags/</link>
+    <link>lasseigne.org/tags/</link>
     <description>Recent content in Tags on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="lasseigne.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ISCB</title>
-      <link>/tags/iscb/</link>
+      <link>lasseigne.org/tags/iscb/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/iscb/</guid>
+      <guid>lasseigne.org/tags/iscb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lab</title>
-      <link>/tags/lab/</link>
+      <link>lasseigne.org/tags/lab/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lab/</guid>
+      <guid>lasseigne.org/tags/lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>updates</title>
-      <link>/tags/updates/</link>
+      <link>lasseigne.org/tags/updates/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/updates/</guid>
+      <guid>lasseigne.org/tags/updates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>website</title>
-      <link>/tags/website/</link>
+      <link>lasseigne.org/tags/website/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/website/</guid>
+      <guid>lasseigne.org/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BioTrain</title>
-      <link>/tags/biotrain/</link>
+      <link>lasseigne.org/tags/biotrain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/biotrain/</guid>
+      <guid>lasseigne.org/tags/biotrain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Biology</title>
-      <link>/tags/computational-biology/</link>
+      <link>lasseigne.org/tags/computational-biology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/computational-biology/</guid>
+      <guid>lasseigne.org/tags/computational-biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshop</title>
-      <link>/tags/workshop/</link>
+      <link>lasseigne.org/tags/workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/workshop/</guid>
+      <guid>lasseigne.org/tags/workshop/</guid>
       <description></description>
     </item>
     

@@ -2,84 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lasseigne Lab</title>
-    <link>/</link>
+    <link>lasseigne.org/</link>
     <description>Recent content on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="lasseigne.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Update</title>
-      <link>/blog/second-update/</link>
+      <link>lasseigne.org/blog/second-update/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/second-update/</guid>
+      <guid>lasseigne.org/blog/second-update/</guid>
       <description>We are back with another update! Thank you for taking the time to check in on how our lab is evolving and growing! It has been almost two years since our last update, so a lot has happened!
 To begin, here&amp;rsquo;s a little &amp;ldquo;lab space update&amp;rdquo; on how we&amp;rsquo;ve made ourselves at home in our dry lab space: We are so thankful for this space to hold our ever-growing lab! Next, we&amp;rsquo;d like to introduce you to our newer members and summer students that we have had since the last update:</description>
     </item>
     
     <item>
       <title>First Update</title>
-      <link>/blog/first-update/</link>
+      <link>lasseigne.org/blog/first-update/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/first-update/</guid>
+      <guid>lasseigne.org/blog/first-update/</guid>
       <description>It has been an eventful eight months. Our first and most recent entry was posted in March of this year, and much has happened since then! While COVID-19 has had a tragic negative effect on the world around us, we have been very fortunate to have had plenty of positive events as well.
 Since our last update, Drew has moved on to a neurosurgery residency at Duke University. Randi has also moved on to opportunities elsewhere.</description>
     </item>
     
     <item>
       <title>New Website!</title>
-      <link>/blog/new-website/</link>
+      <link>lasseigne.org/blog/new-website/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/new-website/</guid>
+      <guid>lasseigne.org/blog/new-website/</guid>
       <description>Welcome to the new Lasseigne Lab website! While still under construction, we wanted to share a first post about our new team!
-We&amp;rsquo;ve been fortunate to recruit such a strong, interdisciplinary team. This past summer we welcomed Sasha Thalluri and Avery Williams, two undergraduate genetics research assistants enthusiastic to learn more about science and the lab environment. Shortly after, Randi Wood joined as a staff scientist and our lab manager. Randi has been as been working hard to build the wet side of the lab.</description>
+**(left to right) Tabea Soelter, Jen Fisher, and Jordan Whitlock** We&amp;rsquo;ve been fortunate to recruit such a strong, interdisciplinary team. This past summer we welcomed Sasha Thalluri and Avery Williams, two undergraduate genetics research assistants enthusiastic to learn more about science and the lab environment. Shortly after, Randi Wood joined as a staff scientist and our lab manager.</description>
     </item>
     
     <item>
       <title>BioTrain Computational Biology Workshop 2018</title>
-      <link>/2018-06-04-biotraincompbioworkshop2018/</link>
+      <link>lasseigne.org/2018-06-04-biotraincompbioworkshop2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/2018-06-04-biotraincompbioworkshop2018/</guid>
-      <description>Objective/Rationale:This one day workshop is intended to provide HudsonAlpha undergraduate student BioTrain interns and graduate rotation students an introduction to computational biology through a discussion on why computers are necessary in genomics, short unix shell and R tutorials followed by hands-on exercises (The Carpentries lessons), and tips on how to ask for help, keeping a computational lab notebook, and finding additional learning resources. Pre-requisites:Curiosity about computational biology and a basic understanding of the concepts of files and directories.</description>
+      <guid>lasseigne.org/2018-06-04-biotraincompbioworkshop2018/</guid>
+      <description>Objective/Rationale: This one day workshop is intended to provide HudsonAlpha undergraduate student BioTrain interns and graduate rotation students an introduction to computational biology through a discussion on why computers are necessary in genomics, short unix shell and R tutorials followed by hands-on exercises (The Carpentries lessons), and tips on how to ask for help, keeping a computational lab notebook, and finding additional learning resources. Pre-requisites: Curiosity about computational biology and a basic understanding of the concepts of files and directories.</description>
     </item>
     
     <item>
       <title>Command Line Guide</title>
-      <link>/education_resources/guides/rmds/commandlineguide/</link>
+      <link>lasseigne.org/education_resources/guides/rmds/commandlineguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/commandlineguide/</guid>
+      <guid>lasseigne.org/education_resources/guides/rmds/commandlineguide/</guid>
       <description>Introduction into Command Line This is an SOP on getting started with the Command Line Interface. Here, we provide fundamental information about Command Line and helpful resources to help you get started with the Command Line Interface.  Command Line Command Line is a text-based application that allows for viewing, handling, and manipulating files on your computer.
 Usually, people work with programs that use Graphical User Interfaces (GUIs). GUIs use buttons and icons to complete certain tasks on the computer.</description>
     </item>
     
     <item>
       <title>Contact Us</title>
-      <link>/contact-us/</link>
+      <link>lasseigne.org/contact-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact-us/</guid>
-      <description>Contact PI Dr. Brittany Lasseigne at bnp0001[@]uab.edu </description>
+      <guid>lasseigne.org/contact-us/</guid>
+      <description>The Lasseigne Lab is in the Cell, Developmental and Integrative Biology Department at The University of Alabama at Birmingham School of Medicine. Our lab is located on the 9th floor of Tinsley Harrison Tower in rooms 960 and 966.
+Contact PI Dr. Brittany Lasseigne at bnp0001[@]uab.edu</description>
     </item>
     
     <item>
       <title>Context of Disease Manifestations</title>
-      <link>/projects/context/</link>
+      <link>lasseigne.org/projects/context/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/context/</guid>
+      <guid>lasseigne.org/projects/context/</guid>
       <description>We interrogate disease context dependency and the impact of gene regulation, environment, and genetic background on disease manifestations. This includes the role of cell- and tissue-specific gene expression, candidate cis-regulatory elements and transcription factor occupancy, chromatin confirmation and 3D interactions, genomic instabilities, ligand-target pair prediction, and age-associated molecular changes.</description>
     </item>
     
     <item>
       <title>DNA Methylation Guide</title>
-      <link>/education_resources/guides/rmds/dnamethylationguide/</link>
+      <link>lasseigne.org/education_resources/guides/rmds/dnamethylationguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/dnamethylationguide/</guid>
+      <guid>lasseigne.org/education_resources/guides/rmds/dnamethylationguide/</guid>
       <description>Introduction into DNA Methylation This is an SOP on getting started with DNA Methylation. Here you can find papers, courses, databases, and tools. 
   Papers This is a list of links to papers that have essential information on DNA Methylation. Principles of DNA methylation and their implications for biology and medicine.
  Discusses that methylation patterns are established in a programmed process that continues throughout development, thus setting up stable gene expression profiles  DNA methylation in human diseases</description>
@@ -87,30 +88,38 @@ Usually, people work with programs that use Graphical User Interfaces (GUIs). GU
     
     <item>
       <title>Drug Target and Repurposing Prioritization</title>
-      <link>/projects/drugs/</link>
+      <link>lasseigne.org/projects/drugs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/drugs/</guid>
+      <guid>lasseigne.org/projects/drugs/</guid>
       <description>We develop and apply machine and transfer learning approaches to identify and prioritize genome-driven therapeutic targets and repurposing candidates for patient and cellular phenotypes, including disease and tissue-agnostic or -aware biomarkers. Through collaboration, we test hypotheses generated from these approaches in pre-clinical models (i.e., iPSCs, PDXs, etc.). Additionally, through data science approaches we optimize selection and interpretation of preclinical models for modeling human diseases.</description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>/education/</link>
+      <link>lasseigne.org/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education/</guid>
-      <description> Welcome to our data science education page. If you are UAB trainees, faculty, or staff and want to get started, please check out these resources:
- Data Science Guides When getting started with data analysis, we recommend:
- </description>
+      <guid>lasseigne.org/education/</guid>
+      <description>Welcome to our data science education page.
+ If you are UAB trainees, faculty, or staff and want to get started, please check out these resources:
+
+ Data Science Guides  Lasseigne Lab-hosted &#39;Data Science Office Hours&#39; R and RStudio
+ RNA-Seq Analysis
+ Single-Cell Transcriptomics
+ Command Line Interface
+ The Cancer Genome Atlas (TCGA)
+ The Genotype-Tissue Expression (GTEx) Project
+ DNA Methylation
+ Python</description>
     </item>
     
     <item>
       <title>Funding</title>
-      <link>/funding/</link>
+      <link>lasseigne.org/funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/funding/</guid>
+      <guid>lasseigne.org/funding/</guid>
       <description>Primary Lab Funding:   NIH U54 (NIDCR): Yoder &amp;amp; Might (multi-PIs), Lasseigne (co-I and co-Director, Bioinformatics Section) 2020-2025
   UAB Pilot Center for Precision Animal Modeling (C-PAM)
   NIH R03 (NIDCR): Lasseigne (PI), 2020-2021
@@ -121,10 +130,10 @@ Usually, people work with programs that use Graphical User Interfaces (GUIs). GU
     
     <item>
       <title>GTEx Guide</title>
-      <link>/education_resources/guides/rmds/gtexguide/</link>
+      <link>lasseigne.org/education_resources/guides/rmds/gtexguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/gtexguide/</guid>
+      <guid>lasseigne.org/education_resources/guides/rmds/gtexguide/</guid>
       <description>Introduction into GTEx This is an SOP on getting started with Genotype-Tissue Expression (GTEx). Here you can find resources, tools, and workflows that will help get you started with GTEx. 
 GTEx is a data resource and tissue bank established to study the relationships between variants and gene expression across several tissue types and different people.
 It was originally created to study the relationship between genetic variants and gene expression in multiple human samples across tissues.</description>
@@ -132,49 +141,64 @@ It was originally created to study the relationship between genetic variants and
     
     <item>
       <title>Multiomics Assay and Analytical Approaches</title>
-      <link>/projects/multiomics/</link>
+      <link>lasseigne.org/projects/multiomics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/multiomics/</guid>
+      <guid>lasseigne.org/projects/multiomics/</guid>
       <description>We develop and apply ‘wet’ molecular biology and ‘dry’ computational approaches with the goal of extracting the most information possible from the smallest sample input at the lowest cost and then turn that information into actionable knowledge. To achieve this, we implement multiplexed sequencing approaches to assay circulating DNA and RNA from biofluid samples (i.e., ‘liquid biopsies’), as well as statistical methods (including network approaches) for integrating omics data, functional annotations, and patient information to improve disease state prediction, particularly for small (including n=1) and heterogeneous cohorts.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publications/</link>
+      <link>lasseigne.org/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publications/</guid>
+      <guid>lasseigne.org/publications/</guid>
       <description>Click from the links below for our lab members&amp;rsquo; publications:
-Current Brittany Lasseigne Vishal Oza TC Howton Lizzy Wilk Tabea Soelter Jen Fisher Jordan Whitlock Emma Jones Victoria Flanary Avery Williams Alumni Drew Hardigan Kasi McPherson </description>
+
+Current
+ Brittany Lasseigne
+ Vishal Oza
+ TC Howton
+ Lizzy Wilk
+ Tabea Soelter
+ Jen Fisher
+ Jordan Whitlock
+ Emma Jones
+ Victoria Flanary
+ Avery Williams
+ Alumni
+ Drew Hardigan
+ Kasi McPherson
+ </description>
     </item>
     
     <item>
       <title>Python Guide</title>
-      <link>/education_resources/guides/rmds/pythonguide/</link>
+      <link>lasseigne.org/education_resources/guides/rmds/pythonguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/pythonguide/</guid>
+      <guid>lasseigne.org/education_resources/guides/rmds/pythonguide/</guid>
       <description>Introduction into Python This is an SOP on getting started with the programming language Python. Here, you can find courses and resources that can help you develop a foundation for using Python. 
   Courses These are courses that will give an overall introduction for using Python. They will be separated into different sections based on experience level: Beginner, Intermediate, Applied Data Science. Beginner These are courses that have lessons we recommend for those who are beginning to learn the programming language Python.</description>
     </item>
     
     <item>
       <title>R Guide</title>
-      <link>/education_resources/guides/rmds/rguide/</link>
+      <link>lasseigne.org/education_resources/guides/rmds/rguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/rguide/</guid>
+      <guid>lasseigne.org/education_resources/guides/rmds/rguide/</guid>
       <description>Introduction into R This is an SOP on getting started with R and RStudio. There are three main courses that should be taken to understand the basics.  Swirl Software Carpentry ‘R for Reproducible Scientific Analysis’ Software Carpentry ‘Programming with R’   Downloading R and RStudio Here is the quick start guide for installing R, RStudio, and R packages.
 The latest version of R can be downloaded here.</description>
     </item>
     
     <item>
       <title>Reproducible Research Data Science Guide</title>
-      <link>/education_resources/guides/rmds/reproducibleresearchguide/</link>
+      <link>lasseigne.org/education_resources/guides/rmds/reproducibleresearchguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/reproducibleresearchguide/</guid>
+      <guid>lasseigne.org/education_resources/guides/rmds/reproducibleresearchguide/</guid>
       <description>Dry Lab Notebooks We generally follow, and encourage others to follow, Ten Simple Rules for a Computational Biologist’s Laboratory Notebook.
 Lab notebooks provide a complete record of procedures, reagents, data, and thoughts, as well as an explanation of why/how you are doing an experiment and its results. Our lab uses Evernote as an online lab notebook with scripts and projects managed in GitHub repositories attached inside.
 We recommend taking note of the following in your daily and/or dry lab experiment notebook:</description>
@@ -182,20 +206,22 @@ We recommend taking note of the following in your daily and/or dry lab experimen
     
     <item>
       <title>Research</title>
-      <link>/research/</link>
+      <link>lasseigne.org/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/</guid>
+      <guid>lasseigne.org/research/</guid>
       <description>The Lasseigne Lab uses genomic strategies and data to study complex and rare diseases with the goal of discovering biological signatures that might be used to improve patient care and provide insight into molecular processes contributing to disease. We currently have active collaborations in cancer, neurodegeneration, kidney, and rare disease projects.
- </description>
+
+  Context of disease manifestations
+ Identification of causal variants and genes in cancer, neurodegenerative, and rare diseases</description>
     </item>
     
     <item>
       <title>RNA-Seq Guide</title>
-      <link>/education_resources/guides/rmds/rnaseqguide/</link>
+      <link>lasseigne.org/education_resources/guides/rmds/rnaseqguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/rnaseqguide/</guid>
+      <guid>lasseigne.org/education_resources/guides/rmds/rnaseqguide/</guid>
       <description>Introduction into RNA-Seq This is an SOP on getting started with RNA-seq. Here you can find information on resources, aligners, DESeq2, and pathway analysis tools. 
   Resources This is a list of links to resources that have essential information on RNA-seq and the recommended R packages for RNA-seq analysis.
  Introduction to RNA Sequencing  Background lecture for RNA-seq Here are the slides used in the lecture  RNA Sequencing and Analysis  Paper giving an overall introduction to RNA-seq  RNA sequencing data: hitchhiker’s guide to expression analysis  Paper stating the developments in RNA-seq data analysis Focuses on quantification of gene expression and statistical approaches for differential expression  RNA sequencing: the teenage years  Paper stating the different RNA-seq methods, while naming certain RNA technologies and good computational tools for data analysis    About Aligners Contributed by Dr.</description>
@@ -203,10 +229,10 @@ We recommend taking note of the following in your daily and/or dry lab experimen
     
     <item>
       <title>Single-Cell Transcriptomics Guide</title>
-      <link>/education_resources/guides/rmds/singlecellguide/</link>
+      <link>lasseigne.org/education_resources/guides/rmds/singlecellguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/singlecellguide/</guid>
+      <guid>lasseigne.org/education_resources/guides/rmds/singlecellguide/</guid>
       <description>Introduction into Single-Cell This is an SOP on getting started with Single-Cell Transcriptomics. Here you can find papers, courses, databases, and tools. 
   Papers This is a list of links to papers that have essential information on single-cell transcriptomics. A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications
  Review paper that presents a practical guide to help researchers design their first scRNA-seq studies Includes introductory information on  Experimental hardware Protocol choice Quality control Data analysis Biological interpretation   Guidelines for reporting single-cell RNA-seq experiments</description>
@@ -214,32 +240,35 @@ We recommend taking note of the following in your daily and/or dry lab experimen
     
     <item>
       <title>SOP for Guides</title>
-      <link>/education_resources/guides/rmds/sopguide/</link>
+      <link>lasseigne.org/education_resources/guides/rmds/sopguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/sopguide/</guid>
+      <guid>lasseigne.org/education_resources/guides/rmds/sopguide/</guid>
       <description>Introduction into Name of Guide This is where you write that this is an SOP for whatever guide you are trying to make. Here you would write the types of resources you’ll include in this SOP (e.g. papers, tools, workshops, etc). 
   Papers This is the section where you’ll include papers. Here, write a blurb this section will include “a list of links to papers that have essential information” on the topic of the guide you’re creating.</description>
     </item>
     
     <item>
       <title>TCGA Guide</title>
-      <link>/education_resources/guides/rmds/tcgaguide/</link>
+      <link>lasseigne.org/education_resources/guides/rmds/tcgaguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/education_resources/guides/rmds/tcgaguide/</guid>
+      <guid>lasseigne.org/education_resources/guides/rmds/tcgaguide/</guid>
       <description>Introduction to TCGA The Cancer Genome Atlas (TCGA) is a resource with omics data for over 20,000 cancer patient tissue profiles spanning 33 cancer types. It is a joint effort between the National Cancer Institute and the National Human Genome Research Institute and is publicly available. See the links below for more information:
  Click here for the NIH’s introduction to TCGA. You can also visit TCGA’s Wikipedia page here.</description>
     </item>
     
     <item>
       <title>Team</title>
-      <link>/team/</link>
+      <link>lasseigne.org/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/</guid>
+      <guid>lasseigne.org/team/</guid>
       <description>Our research focuses on developing approaches for assaying and integrating omics data, functional annotations, and patient information to discover novel mechanisms in disease etiology and progression, therapeutic targets, and circulating biomarkers.
-  Current Members Brittany Lasseigne, PhD Principal Investigator and Assistant Professor  Amanda Clark Postdoctoral Fellow   Anisha Haldar Undergraduate Research Assistant   Avery Williams Undergraduate Research Assistant   Emma Jones  Graduate Research Assistant  Jen Fisher Graduate Research Assistant  Jordan Whitlock Graduate Research Assistant  Lizzy Wilk Researcher III and Lab Manager  Nathaniel DeVoss Undergraduate Research Assistant  Tabea Soelter Graduate Research Assistant  TC Howton, PhD Scientist I and Lab Manager  Victoria Flanary Graduate Research Assistant  Vishal Oza, PhD Scientist II  Our Alumni Sasha Thalluri Undergraduate Research Assistant (2019-2022) Hannah Cleary  Undergraduate Research Assistant / KURE Student (2021)  Emily Page  Research Assistant / Grad PREP Scholar (2020-2021)  Kasi McPherson, PhD  Postdoctoral Fellow (2020-2021)  Drew Hardigan, PhD  Visiting Postdoctoral Fellow (2020)  Randi Wood  Researcher IV and Lab Manager (2019-2020)  Roshan Darji  Computational Biologist (2019)   Past Rotation Students Jack Hoover (2020) Shaurita Hutchins (2020)  Furry Friends April Jones  Owner: Emma  Gotcha Day: April 10, 2018  Likes: Warm laps, cuddles, and routines  Dislikes: Strangers and closed doors  Fun Fact: Only has 3 legs!</description>
+ Current Members Alumni Furry Friends  Current Members
+ Brittany Lasseigne, PhD
+ Principal Investigator and Assistant Professor
+ Dr. Lasseigne is an Assistant Professor in the Department of Cell, Developmental and Integrative Biology, an Associate Scientist in both the O’Neal Comprehensive Cancer Center Experimental Therapeutics Program and the Center for Clinical and Translational Science, and a Scientist in both the Informatics Institute and the Hugh Kaul Precision Medicine Institute at the University of Alabama at Birmingham.</description>
     </item>
     
   </channel>

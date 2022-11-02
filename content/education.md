@@ -36,7 +36,7 @@ _<p style="text-align:center;">If you are UAB trainees, faculty, or staff and wa
 </ul>
 ---
 
-When getting started with data analysis, we recommend:
+_When getting started with data analysis, we recommend:_
 <ol>
 <li><p>Check the data science guides listed above for general information on your topic</p></li>
 <li><p>Google any errors you might encounter and first read and try solutions</p></li>

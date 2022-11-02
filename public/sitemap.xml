@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
+    <loc>lasseigne.org/blog/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>lasseigne.org/categories/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/iscb/</loc>
+    <loc>lasseigne.org/tags/iscb/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/lab/</loc>
+    <loc>lasseigne.org/tags/lab/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>lasseigne.org/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/second-update/</loc>
+    <loc>lasseigne.org/blog/second-update/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>lasseigne.org/tags/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/updates/</loc>
+    <loc>lasseigne.org/tags/updates/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/updates/</loc>
+    <loc>lasseigne.org/categories/updates/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/website/</loc>
+    <loc>lasseigne.org/tags/website/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/website/</loc>
+    <loc>lasseigne.org/categories/website/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/first-update/</loc>
+    <loc>lasseigne.org/blog/first-update/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/new-website/</loc>
+    <loc>lasseigne.org/blog/new-website/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/biotrain/</loc>
+    <loc>lasseigne.org/tags/biotrain/</loc>
   </url><url>
-    <loc>/2018-06-04-biotraincompbioworkshop2018/</loc>
+    <loc>lasseigne.org/2018-06-04-biotraincompbioworkshop2018/</loc>
   </url><url>
-    <loc>/education_resources/guides/rmds/commandlineguide/</loc>
+    <loc>lasseigne.org/education_resources/guides/rmds/commandlineguide/</loc>
   </url><url>
-    <loc>/tags/computational-biology/</loc>
+    <loc>lasseigne.org/tags/computational-biology/</loc>
   </url><url>
-    <loc>/contact-us/</loc>
+    <loc>lasseigne.org/contact-us/</loc>
   </url><url>
-    <loc>/projects/context/</loc>
+    <loc>lasseigne.org/projects/context/</loc>
   </url><url>
-    <loc>/education_resources/guides/rmds/dnamethylationguide/</loc>
+    <loc>lasseigne.org/education_resources/guides/rmds/dnamethylationguide/</loc>
   </url><url>
-    <loc>/projects/drugs/</loc>
+    <loc>lasseigne.org/projects/drugs/</loc>
   </url><url>
-    <loc>/education/</loc>
+    <loc>lasseigne.org/education/</loc>
   </url><url>
-    <loc>/education_resources/</loc>
+    <loc>lasseigne.org/education_resources/</loc>
   </url><url>
-    <loc>/funding/</loc>
+    <loc>lasseigne.org/funding/</loc>
   </url><url>
-    <loc>/education_resources/guides/rmds/gtexguide/</loc>
+    <loc>lasseigne.org/education_resources/guides/rmds/gtexguide/</loc>
   </url><url>
-    <loc>/projects/multiomics/</loc>
+    <loc>lasseigne.org/projects/multiomics/</loc>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>lasseigne.org/projects/</loc>
   </url><url>
-    <loc>/publications/</loc>
+    <loc>lasseigne.org/publications/</loc>
   </url><url>
-    <loc>/education_resources/guides/rmds/pythonguide/</loc>
+    <loc>lasseigne.org/education_resources/guides/rmds/pythonguide/</loc>
   </url><url>
-    <loc>/education_resources/guides/rmds/rguide/</loc>
+    <loc>lasseigne.org/education_resources/guides/rmds/rguide/</loc>
   </url><url>
-    <loc>/education_resources/guides/rmds/reproducibleresearchguide/</loc>
+    <loc>lasseigne.org/education_resources/guides/rmds/reproducibleresearchguide/</loc>
   </url><url>
-    <loc>/research/</loc>
+    <loc>lasseigne.org/research/</loc>
   </url><url>
-    <loc>/education_resources/guides/rmds/rnaseqguide/</loc>
+    <loc>lasseigne.org/education_resources/guides/rmds/rnaseqguide/</loc>
   </url><url>
-    <loc>/education_resources/guides/rmds/singlecellguide/</loc>
+    <loc>lasseigne.org/education_resources/guides/rmds/singlecellguide/</loc>
   </url><url>
-    <loc>/education_resources/guides/rmds/sopguide/</loc>
+    <loc>lasseigne.org/education_resources/guides/rmds/sopguide/</loc>
   </url><url>
-    <loc>/education_resources/guides/rmds/tcgaguide/</loc>
+    <loc>lasseigne.org/education_resources/guides/rmds/tcgaguide/</loc>
   </url><url>
-    <loc>/team/</loc>
+    <loc>lasseigne.org/team/</loc>
   </url><url>
-    <loc>/tags/workshop/</loc>
+    <loc>lasseigne.org/tags/workshop/</loc>
   </url>
 </urlset>
