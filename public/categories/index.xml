@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lasseigne Lab</title>
-    <link>lasseigne.org/categories/</link>
+    <link>https://lasseigne.org/categories/</link>
     <description>Recent content in Categories on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="lasseigne.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lasseigne.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>updates</title>
-      <link>lasseigne.org/categories/updates/</link>
+      <link>https://lasseigne.org/categories/updates/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>lasseigne.org/categories/updates/</guid>
+      <guid>https://lasseigne.org/categories/updates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>website</title>
-      <link>lasseigne.org/categories/website/</link>
+      <link>https://lasseigne.org/categories/website/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>lasseigne.org/categories/website/</guid>
+      <guid>https://lasseigne.org/categories/website/</guid>
       <description></description>
     </item>
     

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BioTrain on Lasseigne Lab</title>
-    <link>lasseigne.org/tags/biotrain/</link>
+    <link>https://lasseigne.org/tags/biotrain/</link>
     <description>Recent content in BioTrain on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="lasseigne.org/tags/biotrain/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://lasseigne.org/tags/biotrain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BioTrain Computational Biology Workshop 2018</title>
-      <link>lasseigne.org/2018-06-04-biotraincompbioworkshop2018/</link>
+      <link>https://lasseigne.org/2018-06-04-biotraincompbioworkshop2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>lasseigne.org/2018-06-04-biotraincompbioworkshop2018/</guid>
+      <guid>https://lasseigne.org/2018-06-04-biotraincompbioworkshop2018/</guid>
       <description>Objective/Rationale: This one day workshop is intended to provide HudsonAlpha undergraduate student BioTrain interns and graduate rotation students an introduction to computational biology through a discussion on why computers are necessary in genomics, short unix shell and R tutorials followed by hands-on exercises (The Carpentries lessons), and tips on how to ask for help, keeping a computational lab notebook, and finding additional learning resources. Pre-requisites: Curiosity about computational biology and a basic understanding of the concepts of files and directories.</description>
     </item>
     

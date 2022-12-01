@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>lasseigne.org/blog/</loc>
+    <loc>https://lasseigne.org/blog/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/categories/</loc>
+    <loc>https://lasseigne.org/categories/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/tags/iscb/</loc>
+    <loc>https://lasseigne.org/tags/iscb/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/tags/lab/</loc>
+    <loc>https://lasseigne.org/tags/lab/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/</loc>
+    <loc>https://lasseigne.org/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/blog/second-update/</loc>
+    <loc>https://lasseigne.org/blog/second-update/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/tags/</loc>
+    <loc>https://lasseigne.org/tags/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/tags/updates/</loc>
+    <loc>https://lasseigne.org/tags/updates/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/categories/updates/</loc>
+    <loc>https://lasseigne.org/categories/updates/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/tags/website/</loc>
+    <loc>https://lasseigne.org/tags/website/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/categories/website/</loc>
+    <loc>https://lasseigne.org/categories/website/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/blog/first-update/</loc>
+    <loc>https://lasseigne.org/blog/first-update/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/blog/new-website/</loc>
+    <loc>https://lasseigne.org/blog/new-website/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>lasseigne.org/tags/biotrain/</loc>
+    <loc>https://lasseigne.org/tags/biotrain/</loc>
   </url><url>
-    <loc>lasseigne.org/2018-06-04-biotraincompbioworkshop2018/</loc>
+    <loc>https://lasseigne.org/2018-06-04-biotraincompbioworkshop2018/</loc>
   </url><url>
-    <loc>lasseigne.org/education_resources/guides/rmds/commandlineguide/</loc>
+    <loc>https://lasseigne.org/education_resources/guides/rmds/commandlineguide/</loc>
   </url><url>
-    <loc>lasseigne.org/tags/computational-biology/</loc>
+    <loc>https://lasseigne.org/tags/computational-biology/</loc>
   </url><url>
-    <loc>lasseigne.org/contact-us/</loc>
+    <loc>https://lasseigne.org/contact-us/</loc>
   </url><url>
-    <loc>lasseigne.org/projects/context/</loc>
+    <loc>https://lasseigne.org/projects/context/</loc>
   </url><url>
-    <loc>lasseigne.org/education_resources/guides/rmds/dnamethylationguide/</loc>
+    <loc>https://lasseigne.org/education_resources/guides/rmds/dnamethylationguide/</loc>
   </url><url>
-    <loc>lasseigne.org/projects/drugs/</loc>
+    <loc>https://lasseigne.org/projects/drugs/</loc>
   </url><url>
-    <loc>lasseigne.org/education/</loc>
+    <loc>https://lasseigne.org/education/</loc>
   </url><url>
-    <loc>lasseigne.org/education_resources/</loc>
+    <loc>https://lasseigne.org/education_resources/</loc>
   </url><url>
-    <loc>lasseigne.org/funding/</loc>
+    <loc>https://lasseigne.org/funding/</loc>
   </url><url>
-    <loc>lasseigne.org/education_resources/guides/rmds/gtexguide/</loc>
+    <loc>https://lasseigne.org/education_resources/guides/rmds/gtexguide/</loc>
   </url><url>
-    <loc>lasseigne.org/projects/multiomics/</loc>
+    <loc>https://lasseigne.org/projects/multiomics/</loc>
   </url><url>
-    <loc>lasseigne.org/projects/</loc>
+    <loc>https://lasseigne.org/projects/</loc>
   </url><url>
-    <loc>lasseigne.org/publications/</loc>
+    <loc>https://lasseigne.org/publications/</loc>
   </url><url>
-    <loc>lasseigne.org/education_resources/guides/rmds/pythonguide/</loc>
+    <loc>https://lasseigne.org/education_resources/guides/rmds/pythonguide/</loc>
   </url><url>
-    <loc>lasseigne.org/education_resources/guides/rmds/rguide/</loc>
+    <loc>https://lasseigne.org/education_resources/guides/rmds/rguide/</loc>
   </url><url>
-    <loc>lasseigne.org/education_resources/guides/rmds/reproducibleresearchguide/</loc>
+    <loc>https://lasseigne.org/education_resources/guides/rmds/reproducibleresearchguide/</loc>
   </url><url>
-    <loc>lasseigne.org/research/</loc>
+    <loc>https://lasseigne.org/research/</loc>
   </url><url>
-    <loc>lasseigne.org/education_resources/guides/rmds/rnaseqguide/</loc>
+    <loc>https://lasseigne.org/education_resources/guides/rmds/rnaseqguide/</loc>
   </url><url>
-    <loc>lasseigne.org/education_resources/guides/rmds/singlecellguide/</loc>
+    <loc>https://lasseigne.org/education_resources/guides/rmds/singlecellguide/</loc>
   </url><url>
-    <loc>lasseigne.org/education_resources/guides/rmds/sopguide/</loc>
+    <loc>https://lasseigne.org/education_resources/guides/rmds/sopguide/</loc>
   </url><url>
-    <loc>lasseigne.org/education_resources/guides/rmds/tcgaguide/</loc>
+    <loc>https://lasseigne.org/education_resources/guides/rmds/tcgaguide/</loc>
   </url><url>
-    <loc>lasseigne.org/team/</loc>
+    <loc>https://lasseigne.org/team/</loc>
   </url><url>
-    <loc>lasseigne.org/tags/workshop/</loc>
+    <loc>https://lasseigne.org/tags/workshop/</loc>
   </url>
 </urlset>

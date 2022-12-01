@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ISCB on Lasseigne Lab</title>
-    <link>lasseigne.org/tags/iscb/</link>
+    <link>https://lasseigne.org/tags/iscb/</link>
     <description>Recent content in ISCB on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="lasseigne.org/tags/iscb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lasseigne.org/tags/iscb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Update</title>
-      <link>lasseigne.org/blog/second-update/</link>
+      <link>https://lasseigne.org/blog/second-update/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>lasseigne.org/blog/second-update/</guid>
+      <guid>https://lasseigne.org/blog/second-update/</guid>
       <description>We are back with another update! Thank you for taking the time to check in on how our lab is evolving and growing! It has been almost two years since our last update, so a lot has happened!
 To begin, here&amp;rsquo;s a little &amp;ldquo;lab space update&amp;rdquo; on how we&amp;rsquo;ve made ourselves at home in our dry lab space: We are so thankful for this space to hold our ever-growing lab! Next, we&amp;rsquo;d like to introduce you to our newer members and summer students that we have had since the last update:</description>
     </item>

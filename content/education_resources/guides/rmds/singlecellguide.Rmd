@@ -93,6 +93,19 @@ This is a list of links to papers that have essential information on single-cell
 
 <br>
 
+# Online Books
+***
+These are online-accessible books related to single cell analysis.
+
+<br>
+
+<a href="https://www.sc-best-practices.org/preamble.html" target="_blank">Multimodal single-cell analysis</a>
+
+* A work-in-progress book by Lukas Heumos and Anna Schaar
+* Meant to inform both newcomers and experienced individuals on best practices for single cell analysis 
+
+<br>
+
 # Courses
 *** 
 These are courses and other resources that will give an overall introduction to single cell analysis and provide opportunities to learn about computational biology strategies using scRNA-seq
