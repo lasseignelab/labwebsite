@@ -40,7 +40,7 @@ linktitle: ""
 
 <p style="text-align:center;"><img src="/about/people/Amanda.jpg" alt="Amanda" width="200px"/></p>
 
-### <p style="text-align:center;">Amanda Clark</p>
+### <p style="text-align:center;">Amanda Clark, PhD</p>
 
 ##### <p style="text-align:center;"> _Postdoctoral Fellow_ </p>
 
@@ -102,9 +102,9 @@ linktitle: ""
 
 ### <p style="text-align:center;">Lizzy Wilk</p>
 
-##### <p style="text-align:center;"> _Researcher III and Lab Manager_</p>
+##### <p style="text-align:center;"> _Researcher III_</p>
 
-<p style="text-align:center;">Lizzy earned her B.S. in Biology with a minor in Chemistry from the University of Alabama at Huntsville. Prior to working at the University of Alabama at Birmingham, she applied genomics technologies such as RNA-Seq for understanding cancer and chemotherapy resistance as a research assistant. Lizzy currently works as a staff scientist, applying transfer learning and drug repurposing methods to gene expression data.</p>
+<p style="text-align:center;">Lizzy earned her B.S. in Biology with a minor in Chemistry from the University of Alabama at Huntsville and M.S. in Biotechnology with a specialization in Bioinformatics from University of Maryland Global Campus. Prior to working at the University of Alabama at Birmingham, she applied genomics technologies such as RNA-Seq for understanding cancer and chemotherapy resistance as a research assistant. Lizzy currently works as a staff scientist, applying transfer learning and drug repurposing methods to gene expression data.</p>
 
 ---
 
@@ -125,7 +125,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
 
-<p style="text-align:center;">Tabea is a current PhD student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Cell and Molecular Biology from Piedmont College (now Piedmont University). Tabea is currently investigating the cell-type-specific role of chromosomal instability and its effects on cell-cell interactions between neuronal and non-neuronal cell populations in Alzheimer's disease by employing a combination of wet-lab and computational approaches.</p>
+<p style="text-align:center;">Tabea is a current PhD student and Alzheimer’s of Central Alabama (ACA) Lindy Harrell Predoctoral Scholar in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Cell and Molecular Biology from Piedmont University. Tabea is currently investigating the cell-type-specific role of cell-cell communication between neuronal and non-neuronal cell populations in Alzheimer's disease using public human data. She is also interested in the effects of aging on the Alzheimer’s disease brain and therefore employs wet-lab and computational approaches to understand age-associated changes in cell-cell communication using her own mouse sequencing data across multiple timepoints.</p>
 
 ---
 
@@ -160,6 +160,14 @@ linktitle: ""
 ---
 
 # <ins><p style="text-align:center;" id="alumni">Our Alumni</p></ins>
+
+### <p style="text-align:center;"> Ryan Brownlee </p>
+
+##### <p style="text-align:center;"> _Undergraduate Research Assistant / KURE Student (2022)_ </p>
+
+<p style="text-align:center;"> Currently: Undergraduate Student, Mercer University </p>
+
+<br>
 
 ### <p style="text-align:center;">Sasha Thalluri</p>
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant (2019-2022)_</p>
