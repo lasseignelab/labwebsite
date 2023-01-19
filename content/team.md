@@ -246,6 +246,17 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/pets/mango.jpeg" alt="Mango" width="200px"/></p>
+
+### <p style="text-align:center;"> Mango Flanary </p>
+
+##### <p style="text-align:center;"> __Owner:__ Victoria </p>
+##### <p style="text-align:center;"> __Birthday:__ May 10, 2021 </p>
+##### <p style="text-align:center;"> __Likes:__ Bathrooms, cheek scratches, cat tv</p>
+##### <p style="text-align:center;"> __Dislikes:__ Long car rides </p>
+
+---
+
 <p style="text-align:center;"><img src="/about/pets/bagley.jpg" alt="Bagley" width="200px"/></p>
 
 ### <p style="text-align:center;"> Bagley (Bag-boo) Florence Fisher </p>
