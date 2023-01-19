@@ -20,7 +20,7 @@ output:
 # Dry Lab Notebooks
 We generally follow, and encourage others to follow, <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385" target="_blank">Ten Simple Rules for a Computational Biologist's Laboratory Notebook</a>.
 
-Lab notebooks provide a complete record of procedures, reagents, data, and thoughts, as well as an explanation of why/how you are doing an experiment and its results. Our lab uses <a href="https://www.evernote.com" target="_blank">Evernote</a> as an online lab notebook with scripts and projects managed in GitHub repositories attached inside.
+Lab notebooks provide a complete record of procedures, reagents, data, and thoughts, as well as an explanation of why/how you are doing an experiment and its results.
 
 We recommend taking note of the following in your daily and/or dry lab experiment notebook:
 
