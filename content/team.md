@@ -172,7 +172,7 @@ linktitle: ""
 ### <p style="text-align:center;">Sasha Thalluri</p>
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant (2019-2022)_</p>
 
-<p style="text-align:center;"> Currently: Medical Student, School of Medicine, University of Alabama at Birmingham </p>
+<p style="text-align:center;"> Currently: Medical Student, Heersink School of Medicine, University of Alabama at Birmingham </p>
 
 <br>
 
@@ -342,6 +342,18 @@ linktitle: ""
 ##### <p style="text-align:center;"> __Gotcha Day:__ September 15th, 2019 </p>
 ##### <p style="text-align:center;"> __Likes:__ Playing fetch, butt rubs, and smelly shoes</p>
 ##### <p style="text-align:center;"> __Dislikes:__ Getting nails trimmed </p>
+
+---
+
+<p style="text-align:center;"><img src="/about/pets/basil.jpg" alt="Basil" width="200px"/></p>
+
+### <p style="text-align:center;"> Basil Jones </p>
+
+##### <p style="text-align:center;"> __Owner:__ Emma </p>
+##### <p style="text-align:center;"> __Gotcha Day:__ November 14, 2022 </p>
+##### <p style="text-align:center;"> __Likes:__ COMFY COUCHES AND GOING TO BED EARLY</p>
+##### <p style="text-align:center;"> __Dislikes:__ CENTRAL HEATING TURNING ON</p>
+##### <p style="text-align:center;"> __Fun Fact:__ Dances when she is happy</p>
 
 ---
 
