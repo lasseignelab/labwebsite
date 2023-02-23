@@ -1,6 +1,6 @@
 ---
 title: "Single-Cell Transcriptomics Guide"
-subtitle: "Version 1.1.1"
+subtitle: "Version 1.1.2"
 author: 
   - name: "Sasha Thalluri, Lasseigne Lab, CDIB, UAB"
   - name: "Developed with assistance from the Lasseigne Lab and Dr. Lara Ianov, UAB"
@@ -92,8 +92,8 @@ This is a list of links to papers that have essential information on single-cell
 
 <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009935" target="_blank">Urgent need for consistent standards in functional enrichment analysis</a>
 
-*Identifies common flaws found in studies that implement gene set enrichment tests
-*<a href="https://twitter.com/mdziemann/status/1626407797939384320?t=Y9rLCPnENn02-KeJb4dtNA&s=31" target="_blank">Twitter Thread</a>
+* Identifies common flaws found in studies that implement gene set enrichment tests
+* <a href="https://twitter.com/mdziemann/status/1626407797939384320?t=Y9rLCPnENn02-KeJb4dtNA&s=31" target="_blank">Twitter Thread</a>
 
 <br>
 
