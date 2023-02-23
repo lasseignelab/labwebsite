@@ -38,7 +38,8 @@ _<center>Note: not all co-I grants included above.</center>_
 
 * __<a href="https://www.uab.edu/medicine/cdib/research/opportunities" target="_blank"> T32 Training Program in Cell, Molecular, and Developmental Biology Training Grant (CMB TG), Jordan Whitlock (Graduate Student), 2022-2023</a>__
 
-* __<a href=https://www.uab.edu/medicine/cnet/training/aca-scholar" target="_blank"> Alzheimer’s of Central Alabama Lindy Harrell Predoctoral Scholar Program, Tabea Soelter (Graduate Student), 2023</a>__
+* __<a href="https://www.uab.edu/medicine/cnet/training/aca-scholar" target="_blank"> Alzheimer’s of Central Alabama Lindy Harrell Predoctoral Scholar Program, Tabea Soelter (Graduate Student), 2023</a>__
+<br>
 
 ---
 
