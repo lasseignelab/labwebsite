@@ -90,6 +90,10 @@ This is a list of links to papers that have essential information on single-cell
   * How to use UMAP effectively
   * How UMAP compares with t-SNE (a widely used technique for visualizing)
 
+<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009935" target="_blank">Urgent need for consistent standards in functional enrichment analysis</a>
+
+*Identifies common flaws found in studies that implement gene set enrichment tests
+*<a href="https://twitter.com/mdziemann/status/1626407797939384320?t=Y9rLCPnENn02-KeJb4dtNA&s=31" target="_blank">Twitter Thread</a>
 
 <br>
 
@@ -226,7 +230,7 @@ It allows for comparison of independent datasets across species as well as diffe
 <br>
 <center> Version 1.1.1: Added Füllgrabe, *et.al*, <a href="https://www.nature.com/articles/s41587-020-00744-z">https://www.nature.com/articles/s41587-020-00744-z</a> and 'Identifying Cell Populations' to the Analysis of Single Cell RNA-Seq Data course
 <br>
-
+<center> Version 1.1.2: Added Twitter thread https://twitter.com/mdziemann/status/1626407797939384320?t=Y9rLCPnENn02-KeJb4dtNA&s=31
 
 
 

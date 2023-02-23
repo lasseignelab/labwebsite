@@ -6,7 +6,54 @@
     <description>Recent content in updates on Lasseigne Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lasseigne.org/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lasseigne.org/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Simple Rules</title>
+      <link>https://lasseigne.org/blog/10-simple-rules/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lasseigne.org/blog/10-simple-rules/</guid>
+      <description>Ten simple rules for using public biological data for your research
+Journal: PLoS Computational Biology
+Authors: Vishal H. Oza, Jordan H. Whitlock, Elizabeth J. Wilk, Angelina Uno-Antonison, Brandon Wilk, Manavalan Gajapathy, Timothy C. Howton, Austyn Trull, Lara Ianov, Elizabeth A. Worthey, and Brittany N. Lasseigne
+With an increasing amount of biological data available publicly, there is a need for a guide on how to successfully download and use this data. The 10 simple rules for using public biological data are: (1) use public data purposefully in your research; (2) evaluate data for your use case; (3) check data reuse requirements and embargoes; (4) be aware of ethics for data reuse; (5) plan for data storage and compute requirements; (6) know what you are downloading; (7) download programmatically and verify integrity; (8) properly cite data; (9) make reprocessed data and models Findable, Accessible, Interoperable, and Reusable (FAIR) and share; and (10) make pipelines and code FAIR and share.</description>
+    </item>
+    
+    <item>
+      <title>2022 Preprints</title>
+      <link>https://lasseigne.org/blog/2022-preprints/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lasseigne.org/blog/2022-preprints/</guid>
+      <description>CINmetrics: An R package for chromosomal instability analysis
+Authors: Vishal H. Orza, Jennifer L. Fisher, Roshan Darjoi, Brittany N. Lasseigne
+Genomic instability is an important hallmark of cancer and more recently has been identified in others like neurodegenrative diseases. Chromosomal instability, as a measure of genomic instability, has been used to characterize clinical and biological phenotypes associated with these diseases by measuring structural and numerical chromosomal alterations. There have been multiple chromosomal instability scores developed across many studies in the literature; however, these scores have not been compared because of the lack of a single tool available to calculate and facilitate these various metrics.</description>
+    </item>
+    
+    <item>
+      <title>2022 Publications</title>
+      <link>https://lasseigne.org/blog/2022-publications/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lasseigne.org/blog/2022-publications/</guid>
+      <description>Liquid biopsies in epilepsy: biomarkers for etiology, diagnosis, prognosis, and therapeutics
+Journal: Human Cell
+Authors: Jordan H. Whitlock, Tabea M. Soelter, Avery S. Williams, Andrew A. Hardigan, and Brittany N. Lasseigne
+Epilepsy is one of the most common diseases of the central nervous system, impacting nearly 50 million people around the world. Heterogeneous in nature, epilepsy presents in children and adults alike. Currently, surgery is one treatment approach that can completely cure epilepsy.</description>
+    </item>
+    
+    <item>
+      <title>2021 Publications</title>
+      <link>https://lasseigne.org/blog/2021-publications/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lasseigne.org/blog/2021-publications/</guid>
+      <description>A role for GLUT3 in glioblastoma cell invasion that is not recapitulated by GLUT1
+Journal: Cell Adhesion &amp;amp; Migration
+Authors: Catherine J Libby, Sajina Gc, Gloria A. Benavides, Jennifer L. Fisher, Sarah E. Williford, Sixue Zhang, Anh Nhat Tran, Emily R. Gordon, Amber B. Jones, Kaysaw Tuy, William Flavahan, Juan Gordillo, Ashlee Long, Sara J. Cooper, Brittany N. Lasseigne, Corinne E. Augelli-Szafran, Victor Darley-Usmar, and Anita B. Hjelmeland
+The multifaceted roles of metabolism in invasion have been investigated across many cancers.</description>
+    </item>
+    
     <item>
       <title>Second Update</title>
       <link>https://lasseigne.org/blog/second-update/</link>
