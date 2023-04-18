@@ -151,11 +151,11 @@ linktitle: ""
 
 <p style="text-align:center;"><img src="/about/people/Vishal.jpg" alt="Vishal" width="200px"/></p>
 
-### <p style="text-align:center;">Vishal Oza, PhD</p>
+### <p style="text-align:center;">Vishal H. Oza, PhD</p>
 
 ##### <p style="text-align:center;"> _Scientist II_</p>
 
-<p style="text-align:center;">Vishal is a Scientist II at the University of Alabama at Birmingham. He got his PhD from University of Alabama, Tuscaloosa where he developed methods for constructing network models of Drosophila melanogaster metabolome from untargeted metabolomics data. His research interests include analyzing high dimensional biological data using machine learning and network theory. His current research involves multiomics data integration in cancer and developing network based approaches to compare n=1 patient profiles.</p>
+<p style="text-align:center;">Vishal is a Scientist II in the Department of Cell, Developmental and Integrative Biology at the University of Alabama at Birmingham Heersink School of Medicine. He got his PhD from University of Alabama, Tuscaloosa where he developed methods for constructing network models of Drosophila melanogaster metabolome from untargeted metabolomics data and integrating with genome and proteome, thus building a multilayered network model. His research interests include developing mathematical models using machine learning and network science to understand biological complexity.</p>
 
 ---
 
