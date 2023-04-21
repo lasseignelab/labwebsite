@@ -48,26 +48,6 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Anisha.jpg" alt="Anisha" width="200px"/></p>
-
-### <p style="text-align:center;">Anisha Haldar</p>
-
-##### <p style="text-align:center;"> _Undergraduate Research Assistant_ </p>
-
-<p style="text-align:center;">Anisha is an undergraduate research assistant majoring in Immunology and is part of the Personalized Honors Program and the <a href="https://www.uab.edu/students/academics/emsap" target="_blank">Early Medical School Acceptance Program</a> at UAB. She has previously contributed to projects relating to wound healing, the impact of hormonal therapy on the microbiome, and transcription activation and repression in neuron development. In the Lasseigne Lab, Anisha is contributing to cross-species and network genomics analyses.</p>
-
----
-
-<p style="text-align:center;"><img src="/about/people/Avery.png" alt="Avery" width="200px"/></p>
-
-### <p style="text-align:center;">Avery Williams</p>
-
-##### <p style="text-align:center;"> _Undergraduate Research Assistant_ </p>
-
-<p style="text-align:center;">Avery is an undergraduate research assistant and <a href="https://www.uab.edu/cas/cancerbiology/images/documents/RACE_21_Application_Student_11-11-20_revision.pdf" target ="_blank">RACE21 Cancer Biology Scholar</a> majoring in Genetics and Genomic Sciences and a part of the <a href = "https://www.uab.edu/honorscollege/home/curriculum-and-programs#scienceandtechnology" target="_blank" >Science and Technology</a> honors program. They are responsible for the lab website and collaborates on multiple projects for the lab. Their current focus is working with comprehensive Glioblastoma RNA profiles to identify optimal research model systems and patient avatars, as well as understand Glioblastoma- and sex-associated brain gene expression profiles.</p>
-
----
-
 <p style="text-align:center;"><img src="/about/people/Emma.png" alt="Emma" width="200px"/></p>
 
 ### <p style="text-align:center;"> Emma Jones </p>
@@ -107,17 +87,6 @@ linktitle: ""
 <p style="text-align:center;">Lizzy earned her B.S. in Biology with a minor in Chemistry from the University of Alabama at Huntsville and M.S. in Biotechnology with a specialization in Bioinformatics from University of Maryland Global Campus. Prior to working at the University of Alabama at Birmingham, she applied genomics technologies such as RNA-Seq for understanding cancer and chemotherapy resistance as a research assistant. Lizzy currently works as a staff scientist, applying transfer learning and drug repurposing methods to gene expression data.</p>
 
 ---
-
-<p style="text-align:center;"><img src="/about/people/Nathan.png" alt="Nathan" width="200px"/></p>
-
-### <p style="text-align:center;">Nathaniel DeVoss</p>
-
-##### <p style="text-align:center;"> _Undergraduate Research Assistant_</p>
-
-<p style="text-align:center;">Nathaniel is an undergraduate research assistant majoring in Bioinformatics and a part of the <a href = "https://www.uab.edu/honorscollege/home/curriculum-and-programs#scienceandtechnology" target="_blank" >Science and Technology</a> honors program. He is interested in using computer methods to understand large biological data sets. He hopes to use these methods to improve diagnosis and treatment of genetic diseases.</p>
-
----
-
 
 <p style="text-align:center;"><img src="/about/people/Tabea.png" alt="Tabea" width="200px"/></p>
 
@@ -161,6 +130,30 @@ linktitle: ""
 
 # <ins><p style="text-align:center;" id="alumni">Our Alumni</p></ins>
 
+### <p style="text-align:center;"> Nathaniel DeVoss </p>
+
+##### <p style="text-align:center;"> _Undergraduate Research Assistant (2022-2023)_ </p>
+
+<p style="text-align:center;"> Currently: Undergraduate Student, University of Alabama at Birmingham </p>
+
+<br>
+
+### <p style="text-align:center;"> Anisha Haldar </p>
+
+##### <p style="text-align:center;"> _Undergraduate Research Assistant (2021-2023)_ </p>
+
+<p style="text-align:center;"> Currently: Undergraduate Student, University of Alabama at Birmingham </p>
+
+<br>
+
+### <p style="text-align:center;"> Avery Williams </p>
+
+##### <p style="text-align:center;"> _Undergraduate Research Assistant (2019-2023)_ </p>
+
+<p style="text-align:center;"> Currently: Graduate Student, Biomedical Sciences PhD Program, University of California, San Diego </p>
+
+<br>
+
 ### <p style="text-align:center;"> Ryan Brownlee </p>
 
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant / KURE Student (2022)_ </p>
@@ -188,7 +181,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Research Assistant / Grad PREP Scholar (2020-2021)_ </p>
 
-<p style="text-align:center;"> Currently: Graduate Student, Genetics, Genomics, and Bioinformatics at UAB </p>
+<p style="text-align:center;"> Currently: Graduate Student, Genetics, Genomics, and Bioinformatics, University of Alabama at Birmingham </p>
 
 <br>
 
@@ -196,7 +189,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Postdoctoral Fellow (2020-2021)_ </p>
 
-<p style="text-align:center;"> Currently: Postdoctoral Fellow, UAB </p>
+<p style="text-align:center;"> Currently: Postdoctoral Fellow, University of Alabama at Birmingham </p>
 
 <br>
 
@@ -272,7 +265,7 @@ linktitle: ""
 
 ### <p style="text-align:center;"> Lily (Lily Lou) Williams </p>
 
-##### <p style="text-align:center;"> __Owner:__ Avery </p>
+##### <p style="text-align:center;"> __Owner:__ Avery (Alum) </p>
 ##### <p style="text-align:center;"> __Gotcha Day:__ sometime in 2006 </p>
 ##### <p style="text-align:center;"> __Likes:__ Licking windows, attention, and her catnip banana</p>
 ##### <p style="text-align:center;"> __Dislikes:__ Getting wet and vacuums </p>
@@ -294,7 +287,7 @@ linktitle: ""
 
 ### <p style="text-align:center;"> Methyl and Isla Thalluri </p>
 
-##### <p style="text-align:center;"> __Owner:__ Sasha </p>
+##### <p style="text-align:center;"> __Owner:__ Sasha (Alum) </p>
 ##### <p style="text-align:center;"> __Birthday:__ 3.8-billion years ago </p>
 ##### <p style="text-align:center;"> __Likes:__ Outside </p>
 ##### <p style="text-align:center;"> __Dislikes:__ Hard headed people </p>

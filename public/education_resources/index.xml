@@ -8,20 +8,20 @@
     <language>en</language><atom:link href="https://lasseigne.org/education_resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Command Line Guide</title>
-      <link>https://lasseigne.org/education_resources/guides/rmds/commandlineguide/</link>
+      <link>https://lasseigne.org/education_resources/guides/commandlineguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lasseigne.org/education_resources/guides/rmds/commandlineguide/</guid>
+      <guid>https://lasseigne.org/education_resources/guides/commandlineguide/</guid>
       <description>Introduction into Command Line This is an SOP on getting started with the Command Line Interface. Here, we provide fundamental information about Command Line and helpful resources to help you get started with the Command Line Interface.  Command Line Command Line is a text-based application that allows for viewing, handling, and manipulating files on your computer.
 Usually, people work with programs that use Graphical User Interfaces (GUIs). GUIs use buttons and icons to complete certain tasks on the computer.</description>
     </item>
     
     <item>
       <title>DNA Methylation Guide</title>
-      <link>https://lasseigne.org/education_resources/guides/rmds/dnamethylationguide/</link>
+      <link>https://lasseigne.org/education_resources/guides/dnamethylationguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lasseigne.org/education_resources/guides/rmds/dnamethylationguide/</guid>
+      <guid>https://lasseigne.org/education_resources/guides/dnamethylationguide/</guid>
       <description>Introduction into DNA Methylation This is an SOP on getting started with DNA Methylation. Here you can find papers, courses, databases, and tools. 
   Papers This is a list of links to papers that have essential information on DNA Methylation. Principles of DNA methylation and their implications for biology and medicine.
  Discusses that methylation patterns are established in a programmed process that continues throughout development, thus setting up stable gene expression profiles  DNA methylation in human diseases</description>
@@ -29,10 +29,10 @@ Usually, people work with programs that use Graphical User Interfaces (GUIs). GU
     
     <item>
       <title>GTEx Guide</title>
-      <link>https://lasseigne.org/education_resources/guides/rmds/gtexguide/</link>
+      <link>https://lasseigne.org/education_resources/guides/gtexguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lasseigne.org/education_resources/guides/rmds/gtexguide/</guid>
+      <guid>https://lasseigne.org/education_resources/guides/gtexguide/</guid>
       <description>Introduction into GTEx This is an SOP on getting started with Genotype-Tissue Expression (GTEx). Here you can find resources, tools, and workflows that will help get you started with GTEx. 
 GTEx is a data resource and tissue bank established to study the relationships between variants and gene expression across several tissue types and different people.
 It was originally created to study the relationship between genetic variants and gene expression in multiple human samples across tissues.</description>
@@ -40,30 +40,30 @@ It was originally created to study the relationship between genetic variants and
     
     <item>
       <title>Python Guide</title>
-      <link>https://lasseigne.org/education_resources/guides/rmds/pythonguide/</link>
+      <link>https://lasseigne.org/education_resources/guides/pythonguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lasseigne.org/education_resources/guides/rmds/pythonguide/</guid>
+      <guid>https://lasseigne.org/education_resources/guides/pythonguide/</guid>
       <description>Introduction into Python This is an SOP on getting started with the programming language Python. Here, you can find courses and resources that can help you develop a foundation for using Python. 
   Courses These are courses that will give an overall introduction for using Python. They will be separated into different sections based on experience level: Beginner, Intermediate, Applied Data Science. Beginner These are courses that have lessons we recommend for those who are beginning to learn the programming language Python.</description>
     </item>
     
     <item>
       <title>R Guide</title>
-      <link>https://lasseigne.org/education_resources/guides/rmds/rguide/</link>
+      <link>https://lasseigne.org/education_resources/guides/rguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lasseigne.org/education_resources/guides/rmds/rguide/</guid>
+      <guid>https://lasseigne.org/education_resources/guides/rguide/</guid>
       <description>Introduction into R This is an SOP on getting started with R and RStudio. There are three main courses that should be taken to understand the basics.  Swirl Software Carpentry ‘R for Reproducible Scientific Analysis’ Software Carpentry ‘Programming with R’   Downloading R and RStudio Here is the quick start guide for installing R, RStudio, and R packages.
 The latest version of R can be downloaded here.</description>
     </item>
     
     <item>
       <title>Reproducible Research Data Science Guide</title>
-      <link>https://lasseigne.org/education_resources/guides/rmds/reproducibleresearchguide/</link>
+      <link>https://lasseigne.org/education_resources/guides/reproducibleresearchguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lasseigne.org/education_resources/guides/rmds/reproducibleresearchguide/</guid>
+      <guid>https://lasseigne.org/education_resources/guides/reproducibleresearchguide/</guid>
       <description>Dry Lab Notebooks We generally follow, and encourage others to follow, Ten Simple Rules for a Computational Biologist’s Laboratory Notebook.
 Lab notebooks provide a complete record of procedures, reagents, data, and thoughts, as well as an explanation of why/how you are doing an experiment and its results. Our lab uses Evernote as an online lab notebook with scripts and projects managed in GitHub repositories attached inside.
 We recommend taking note of the following in your daily and/or dry lab experiment notebook:</description>
@@ -71,42 +71,31 @@ We recommend taking note of the following in your daily and/or dry lab experimen
     
     <item>
       <title>RNA-Seq Guide</title>
-      <link>https://lasseigne.org/education_resources/guides/rmds/rnaseqguide/</link>
+      <link>https://lasseigne.org/education_resources/guides/rnaseqguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lasseigne.org/education_resources/guides/rmds/rnaseqguide/</guid>
+      <guid>https://lasseigne.org/education_resources/guides/rnaseqguide/</guid>
       <description>Introduction into RNA-Seq This is an SOP on getting started with RNA-seq. Here you can find information on resources, aligners, DESeq2, and pathway analysis tools. 
   Resources This is a list of links to resources that have essential information on RNA-seq and the recommended R packages for RNA-seq analysis.
  Introduction to RNA Sequencing  Background lecture for RNA-seq Here are the slides used in the lecture  RNA Sequencing and Analysis  Paper giving an overall introduction to RNA-seq  RNA sequencing data: hitchhiker’s guide to expression analysis  Paper stating the developments in RNA-seq data analysis Focuses on quantification of gene expression and statistical approaches for differential expression  RNA sequencing: the teenage years  Paper stating the different RNA-seq methods, while naming certain RNA technologies and good computational tools for data analysis    About Aligners Contributed by Dr.</description>
     </item>
     
     <item>
-      <title>Single-Cell Transcriptomics Guide</title>
-      <link>https://lasseigne.org/education_resources/guides/rmds/singlecellguide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lasseigne.org/education_resources/guides/rmds/singlecellguide/</guid>
-      <description>Introduction into Single-Cell This is an SOP on getting started with Single-Cell Transcriptomics. Here you can find papers, courses, databases, and tools. 
-  Papers This is a list of links to papers that have essential information on single-cell transcriptomics. A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications
- Review paper that presents a practical guide to help researchers design their first scRNA-seq studies Includes introductory information on  Experimental hardware Protocol choice Quality control Data analysis Biological interpretation   Guidelines for reporting single-cell RNA-seq experiments</description>
-    </item>
-    
-    <item>
       <title>SOP for Guides</title>
-      <link>https://lasseigne.org/education_resources/guides/rmds/sopguide/</link>
+      <link>https://lasseigne.org/education_resources/guides/sopguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lasseigne.org/education_resources/guides/rmds/sopguide/</guid>
+      <guid>https://lasseigne.org/education_resources/guides/sopguide/</guid>
       <description>Introduction into Name of Guide This is where you write that this is an SOP for whatever guide you are trying to make. Here you would write the types of resources you’ll include in this SOP (e.g. papers, tools, workshops, etc). 
   Papers This is the section where you’ll include papers. Here, write a blurb this section will include “a list of links to papers that have essential information” on the topic of the guide you’re creating.</description>
     </item>
     
     <item>
       <title>TCGA Guide</title>
-      <link>https://lasseigne.org/education_resources/guides/rmds/tcgaguide/</link>
+      <link>https://lasseigne.org/education_resources/guides/tcgaguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lasseigne.org/education_resources/guides/rmds/tcgaguide/</guid>
+      <guid>https://lasseigne.org/education_resources/guides/tcgaguide/</guid>
       <description>Introduction to TCGA The Cancer Genome Atlas (TCGA) is a resource with omics data for over 20,000 cancer patient tissue profiles spanning 33 cancer types. It is a joint effort between the National Cancer Institute and the National Human Genome Research Institute and is publicly available. See the links below for more information:
  Click here for the NIH’s introduction to TCGA. You can also visit TCGA’s Wikipedia page here.</description>
     </item>

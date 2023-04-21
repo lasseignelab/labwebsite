@@ -41,7 +41,7 @@ Bash (**B**ourne **A**gain **SH**ell) is the default shell for many Unix systems
 
 ## Helpful Resources 
 
-**Software Carpentry 'The Unix Shell'** is a course that will help you get started with learning how to use the CLI in shell. The course can be accessed [here](http://swcarpentry.github.io/shell-novice/).
+**Software Carpentry 'The Unix Shell'** is a course that will help you get started with learning how to use the CLI in shell. The course can be accessed <a href="http://swcarpentry.github.io/shell-novice/" target = "_blank">here</a>.
 
 For a quick start into shell, focus on the lessons below.
 

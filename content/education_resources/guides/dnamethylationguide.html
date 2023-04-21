@@ -11,7 +11,7 @@
 
 
 
-<title>Single-Cell Transcriptomics Guide</title>
+<title>DNA Methylation Guide</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -1538,302 +1538,148 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Single-Cell Transcriptomics Guide</h1>
-<h3 class="subtitle">Version 1.1.2</h3>
+<h1 class="title toc-ignore">DNA Methylation Guide</h1>
+<h3 class="subtitle">Version 1.0</h3>
 <h4 class="author">Sasha Thalluri, Lasseigne Lab, CDIB, UAB</h4>
 <h4 class="author">Developed with assistance from the Lasseigne Lab and
 Dr. Lara Ianov, UAB</h4>
 <address class="author_afil">
-For questions, email Dr. Lasseigne at <a href="mailto:bnp0001@uab.edu" class="email">bnp0001@uab.edu</a><br><h4 class="date">5/5/2020</h4>
+For questions, email Dr. Lasseigne at <a href="mailto:bnp0001@uab.edu" class="email">bnp0001@uab.edu</a><br><h4 class="date">9/15/2020</h4>
 
 </div>
 
 
-<div id="introduction-into-single-cell" class="section level1">
-<h1>Introduction into Single-Cell</h1>
+<div id="introduction-into-dna-methylation" class="section level1">
+<h1>Introduction into DNA Methylation</h1>
 <hr />
-<div id="this-is-an-sop-on-getting-started-with-single-cell-transcriptomics.-here-you-can-find-papers-courses-databases-and-tools." class="section level4">
-<h4>This is an SOP on getting started with Single-Cell Transcriptomics.
-Here you can find papers, courses, databases, and tools.</h4>
-<p><br></p>
+<div id="this-is-an-sop-on-getting-started-with-dna-methylation.-here-you-can-find-papers-courses-databases-and-tools." class="section level4">
+<h4>This is an SOP on getting started with DNA Methylation. Here you can
+find papers, courses, databases, and tools.</h4>
+<p><br> <br></p>
 </div>
 </div>
 <div id="papers" class="section level1">
 <h1>Papers</h1>
 <hr />
 <p>This is a list of links to papers that have essential information on
-single-cell transcriptomics. <br></p>
-<p><a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4" target="_blank">A
-practical guide to single-cell RNA-sequencing for biomedical research
-and clinical applications</a></p>
+DNA Methylation. <br> <br></p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pubmed/30100054">Principles of
+DNA methylation and their implications for biology and medicine.</a></p>
 <ul>
-<li>Review paper that presents a practical guide to help researchers
-design their first scRNA-seq studies</li>
-<li>Includes introductory information on
-<ul>
-<li>Experimental hardware</li>
-<li>Protocol choice</li>
-<li>Quality control</li>
-<li>Data analysis</li>
-<li>Biological interpretation</li>
-</ul></li>
+<li>Discusses that methylation patterns are established in a programmed
+process that continues throughout development, thus setting up stable
+gene expression profiles</li>
 </ul>
-<p><a href="https://www.nature.com/articles/s41587-020-00744-z" target="_blank">Guidelines
-for reporting single-cell RNA-seq experiments</a></p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147084/">DNA
+methylation in human diseases</a></p>
 <ul>
-<li>Article that provides guidelines for the minimum set of metadata
-needed for robust comparative analyses of scRNA-seq</li>
+<li>Discusses findings on DNA methylation in common diseases</li>
+<li>Describes promises and unique challenges of epigenetic
+epidemiological studies and proposes some potential solutions</li>
 </ul>
-<p><a href="https://www.nature.com/articles/s41576-019-0118-2" target="_blank">Optimizing
-biological inferences from single-cell data</a></p>
+<p><a href="https://academic.oup.com/bfg/article/15/6/432/2453166">Methods
+for genome-wide DNA methylation analysis in human cancer</a></p>
 <ul>
-<li>Article that discusses the exciting opportunities of single-cell
-omic studies</li>
-<li>Highlights the importance of appropriate data analysis
-strategies</li>
+<li>Presents the current key technologies used to detect high-throughput
+genome-wide DNA methylation, and the available cancer-associated
+methylation databases</li>
+<li>Focuses on the computational methods for preprocessing, analyzing
+and interpreting the cancer methylome data</li>
+<li>Summarizes emerging challenges in the computational analysis of
+cancer methylome data</li>
 </ul>
-<p><a href="https://www.nature.com/articles/s41587-020-0469-4" target="_blank">Single-cell
-RNA-sequencing protocols for cell atlas projects</a></p>
+<p><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0408-0">Whole
+Genome Bisulfite Sequencing</a></p>
 <ul>
-<li>Paper that reveals the differences between different scRNA-seq and
-single-nucleus RNA-seq protocols</li>
-<li>States that the differing protocols impact the predictive value and
-suitability for integration into reference cell atlases</li>
-<li>Results are particularly helpful for individual researchers and
-consortium projects</li>
+<li>Presents an integrated analysis of whole-genome bisulfite sequencing
+and RNA sequencing data from human samples and cell lines</li>
+<li>Their results suggest that DNA methylation outside promoters also
+plays critical roles in gene regulation</li>
 </ul>
-<p><a href="https://www.nature.com/articles/s41576-020-0229-9" target="_blank">Transcriptional
-profiling of physically interacting cells</a></p>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/19151715/">The human colon
+cancer methylome shows similar hypo- and hypermethylation at conserved
+tissue-specific CpG island shores</a></p>
 <ul>
-<li>Paper highlighting the use of PIC-seq</li>
-<li>PIC-seq combines cell sorting of physically interacting cells (PICs)
-with scRNA-seq and computational modeling to profile cellular
-interactions and their impact on gene expression</li>
+<li>Shows that most methylation alterations in colon cancer do not occur
+in promoters nor CpG islands, but in sequences up to 2 kb distant, which
+we term ‘CpG island shores’</li>
+<li>Discusses that methylation changes in cancer are at sites that vary
+normally in tissue differentiation, consistent with the epigenetic
+progenitor model of cancer, which proposes that epigenetic alterations
+affecting tissue-speciﬁc differentiation are the predominant mechanism
+by which epigenetic changes cause cancer</li>
 </ul>
-<p><a href="https://www.nature.com/articles/s41587-020-0470-y" target="_blank">Combinatorial
-single-cell CRISPR screens by direct guide RNA capture and targeted
-sequencing</a></p>
+<p><a href="https://cancerres.aacrjournals.org/content/73/19/5858">The
+CpG Island Methylator Phenotype: What’s in a Name?</a></p>
 <ul>
-<li>Paper demonstrating how Pertub-seq allows for pooled single-cell
-CRISPR screens to be easily paired with combinatorial perturbation
-libraries</li>
+<li>Discusses the use of the term CIMP in cancer, its significance in
+clinical practice, and future directions that may aid in identifying the
+true cause and definition of CIMP in different forms of human
+neoplasia.</li>
 </ul>
-<p><a href="https://www.nature.com/articles/s41576-019-0093-7" target="_blank">Integrative
-single-cell analysis</a></p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pubmed/29672679">Disease
+prediction by cell-free DNA methylation</a></p>
 <ul>
-<li>Review paper that discuses the recent advances in the collection and
-integration of different data types at single-cell resolution</li>
-<li>Focuses on the integration of gene expression data with other types
-of single-cell measurement</li>
+<li>Provides thorough reviews and discussions on the statistical method
+developments and data analysis strategies for using cell-free DNA
+methylation profiles to construct disease diagnostic models</li>
+<li>Focuses on two important aspects: marker selection and prediction
+model construction</li>
 </ul>
-<p><a href="https://www.nature.com/articles/s41467-019-12266-7" target="_blank">A
-systematic evaluation of single cell RNA-seq analysis pipelines</a></p>
+<p><a href="https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-014-0235-x">DNA
+methylation profiling reveals novel diagnostic biomarkers in renal cell
+carcinoma</a></p>
 <ul>
-<li>Paper that assesses interactions among pipeline steps</li>
+<li>Identifies a single panel of DNA methylation biomarkers that
+reliably distinguishes tumor from benign adjacent tissue in all of the
+most common kidney cancer histologic subtypes and a second panel does
+the same specifically for clear cell renal cell carcinoma tumors</li>
 </ul>
-<p><a href="https://www.cell.com/cell/fulltext/S0092-8674(20)30346-9" target="_blank">The
-Human Tumor Atlas Network</a></p>
-<ul>
-<li>Paper for single-cell analysis in tumors</li>
-<li>Focuses on current challenges and future directions</li>
-</ul>
-<p><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1603-1" target="_blank">Cell
-Hashing with barcoded antibodies enables multiplexing and doublet
-detection for single cell genomics</a></p>
-<ul>
-<li>Paper that demonstrates how hashing can generalize the benefits of
-single cell multiplexing to diverse samples and experimental
-designs</li>
-</ul>
-<p><a href="https://pair-code.github.io/understanding-umap/" target="_blank">Understanding
-UMAP</a></p>
-<ul>
-<li>Review that focuses on dimensionality reduction using a new
-technique called UMAP</li>
-<li>Includes information on
-<ul>
-<li>How the UMAP algorithm works</li>
-<li>How to use UMAP effectively</li>
-<li>How UMAP compares with t-SNE (a widely used technique for
-visualizing)</li>
-</ul></li>
-</ul>
-<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009935" target="_blank">Urgent
-need for consistent standards in functional enrichment analysis</a></p>
-<ul>
-<li>Identifies common flaws found in studies that implement gene set
-enrichment tests</li>
-<li><a href="https://twitter.com/mdziemann/status/1626407797939384320?t=Y9rLCPnENn02-KeJb4dtNA&amp;s=31" target="_blank">Twitter
-Thread</a></li>
-</ul>
-<p><br></p>
-</div>
-<div id="online-books" class="section level1">
-<h1>Online Books</h1>
-<hr />
-<p>These are online-accessible books related to single cell
-analysis.</p>
-<p><br></p>
-<p><a href="https://www.sc-best-practices.org/preamble.html" target="_blank">Multimodal
-single-cell analysis</a></p>
-<ul>
-<li>A work-in-progress book by Lukas Heumos and Anna Schaar</li>
-<li>Meant to inform both newcomers and experienced individuals on best
-practices for single cell analysis</li>
-</ul>
-<p><br></p>
-</div>
-<div id="courses" class="section level1">
-<h1>Courses</h1>
-<hr />
-<p>These are courses and other resources that will give an overall
-introduction to single cell analysis and provide opportunities to learn
-about computational biology strategies using scRNA-seq <br> <br>
-<strong>Introduction to Single-Cell RNA-Seq Technologies</strong></p>
-<p>Here are slides from a class that focuses on the computational
-biology of single-cell RNA-seq analysis. To access the slides, click
-<a href="https://liorpachter.wordpress.com/2019/02/19/introduction-to-single-cell-rna-seq-technologies/" target="_blank">here.</a></p>
-<p><strong>Analysis of Single Cell RNA-Seq Data</strong></p>
-<p>A course that covers all of the steps of scRNA-seq processing. It
-includes common analysis strategies and discusses central biological
-questions that can be addressed using scRNA-seq. To access this course,
-click
-<a href="https://broadinstitute.github.io/2019_scWorkshop/index.html" target="_blank">here.</a>
-Be sure to look at the section titled ‘Identifying Cell Populations’. It
-provides essential information about cell types. To access that section,
-click
-<a href="https://broadinstitute.github.io/2019_scWorkshop/identifying-cell-populations.html" target="_blank">here.</a></p>
-<p><strong>Analysis of Single Cell RNA-Seq Data (University of
-Cambridge)</strong></p>
-<p>A course that discusses questions that can be addressed using
-scRNA-seq and the current computational and statistical methods
-available. It was designed for those who are interested in learning
-about computational analysis of scRNA-seq data. To access this course,
-click
-<a href="https://scrnaseq-course.cog.sanger.ac.uk/website/index.html" target="_blank">here.</a></p>
-<p><strong>Overview Talk of Single Cell Genomics Day 2020</strong></p>
-<p>Here is an overview of the new computational analysis strategies and
-experimental technologies presented at Single Cell Genomics Day 2020. To
-access this video, click
-<a href="https://www.youtube.com/watch?v=b9bqKulMLp8" target="_blank">here.</a>
-To access the slides used in the video, click
-<a href="https://satijalab.org/scgd/" target="_blank">here.</a></p>
-<p><strong>Machine Learning for Single Cell Analysis
-Workshop</strong></p>
-<p>A course that helps its participants receive an introduction to
-emerging trends in single cell analysis, learn how to analyze single
-cell data sets, and develop an understanding of machine learning
-foundations. To access this workshop, click
-<a href="https://www.krishnaswamylab.org/workshop" target="_blank">here.</a></p>
-<p><br></p>
-</div>
-<div id="databases" class="section level1">
-<h1>Databases</h1>
-<hr />
-<p>Here are databases/portals/atlases that can be helpful for
-single-cell analysis. <br> <br></p>
-<p><strong>Broad Institute Single Cell Portal</strong></p>
-<p>Single-Cell Portal was developed to facilitate sharing scientific
-results and disseminating data generated from single cell technologies.
-To access it, click
-<a href="https://singlecell.broadinstitute.org/single_cell" target="_blank">here.</a></p>
-<p><strong>Mouse Brain Cell Atlas</strong></p>
-<p>Mouse Brain Cell Atlas uses the interactive online software (DropViz)
-to serve as a reference for development, disease, and evolution. To
-access it, click
-<a href="http://dropviz.org/" target="_blank">here.</a></p>
-<p><strong>CancerSEA</strong> CancerSEA is a database that aims to
-comprehensively decode distinct functional states of cancer cells at
-single-cell resolution. To access it, click
-<a href="http://biocc.hrbmu.edu.cn/CancerSEA/home.jsp" target="_blank">here.</a></p>
-<p><br></p>
 </div>
 <div id="tools" class="section level1">
 <h1>Tools</h1>
 <hr />
-<p>Here are some R packages and tools that can be used for single-cell
-analysis. <br> <br></p>
-<p><strong>Bioconductor Single-Cell R-Packages</strong> This is a link
-to a list of R packages for sc-RNA analysis accessible through
-Bioconductor. To access the list, click
-<a href="https://bioconductor.org/packages/release/BiocViews.html#___SingleCellData" target="_blank">here.</a></p>
-<p><strong>Orchestrating Single-Cell Analysis with
-Bioconductor</strong></p>
-<p>This is a website that teaches some common workflows for scRNA-seq
-data. It focuses on how to make use of cutting-edge Bioconductor tools
-to process, analyze, visualize, and explore scRNA-seq data. To access
-this book, click
-<a href="https://bioconductor.org/books/release/OSCA/" target="_blank">here.</a></p>
-<p><strong>Bioconductor workflow for single-cell RNA sequencing:
-Normalization, dimensionality reduction, clustering, and lineage
-inference</strong></p>
-<p>This is an integrated workflow that provides a step-by-step tutorial
-to the methodology and associated software for dimensionality reduction,
-cell clustering, inference of cell lineages and pseudo-times, and
-differential expression analysis along lineages. To access this
-workflow, click
-<a href="https://www.bioconductor.org/help/course-materials/2017/BioC2017/Day2/Workshops/singleCell/doc/workshop.html" target="_blank">here.</a></p>
-<p><strong>Introduction to singleCellTK</strong></p>
-<p>This is an R package used for interactive scRNA-seq analysis, which
-allows users to upload raw scRNA-seq count matrices and perform
-downstream scRNA-seq analysis interactively through a web interface or
-through R functions using the command line interface. To access this
+<p>Here are some R packages and tools that can be used for DNA
+methylation analysis. <br> <br></p>
+<p><strong>methylKit</strong> This is an R package for analysis and
+annotation of DNA methylation information obtained by high-throughput
+bisulfite sequencing.The package is designed to deal with sequencing
+data from RRBS and its variants. But, it can potentially handle
+whole-genome bisulfite sequencing data if proper input format is
+provided. To access the R package, click
+<a href="https://www.bioconductor.org/packages/release/bioc/html/methylKit.html">here.</a>
+To access the vignette, click
+<a href="https://bioconductor.org/packages/release/bioc/vignettes/methylKit/inst/doc/methylKit.html">here.</a></p>
+<p><strong>IlluminaHumanMethylation450kmanifest</strong></p>
+<p>This is an R package used for annotation for Illumina’s 450k
+methylation arrays. To access the R package, click
+<a href="https://bioconductor.org/packages/release/data/annotation/html/IlluminaHumanMethylation450kmanifest.html">here.</a></p>
+<p><strong>minfi</strong></p>
+<p>This is an R package used to analyze Illumina’s Methylation arrays,
+specifically the 450k and EPIC (also known as the 850k) arrays. This
+package includes preprocessing, QC assessments, identification of
+interesting methylation loci and plotting functionality. To access the R
 package, click
-<a href="https://www.bioconductor.org/packages/release/bioc/html/singleCellTK.html" target="_blank">here.</a></p>
-<p><strong>Stephanie Hicks Lab Projects</strong></p>
-<p>This is a list of projects and references from the Stephanie Hicks
-lab. Here you can find a lot of single-cell work with various goals to
-understand the depth of single-cell analysis. To access the list of
-projects, click
-<a href="https://www.stephaniehicks.com/projects/" target="_blank">here.</a></p>
-<p><strong>Multiplexing Cost Calculator</strong></p>
-<p>This is a handy single-cell price calculator. To access it, click
-<a href="https://satijalab.org/costpercell" target="_blank">here.</a></p>
-<p><strong>10X Genomics Cell Ranger Pipeline</strong></p>
-<p>This a set of analysis pipelines that processes Chromium single-cell
-RNA-seq output to align reads, generate feature-barcode matrices and
-perform clustering and gene expression analysis. It utilizes the STAR
-aligner. To access the pipelines, click
-<a href="https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger" target="_blank">here.</a></p>
-<p><strong>Drop-Seq Alignment Guide</strong></p>
-<p>This has Java tools for analyzing Drop-Seq data. This software
-pipeline performs many analyses including massive de-multiplexing of the
-data, alignment of reads to a reference genome, and processing of
-cellular and molecular barcodes. To access this guide, click
-<a href="https://github.com/broadinstitute/Drop-seq" target="_blank">here.</a></p>
-<p><strong>Seurat R toolkit for single cell genomics</strong></p>
-<p>This is an R package designed for quality control, analysis, and
-exploration of single-cell RNA-seq data. It enables users to identify
-and interpret sources of heterogeneity from single-cell transcriptomic
-measurements and to integrate diverse types of single-cell data. To
-access this package, click
-<a href="https://satijalab.org/seurat/" target="_blank">here.</a></p>
-<p><strong>Alevin</strong></p>
-<p>This is a tool used for a quasi-mapping approach. One may consider
-using Alevin for 10X Genomics or Drop-seq. To access the tool, click
-<a href="https://salmon.readthedocs.io/en/latest/alevin.html" target="_blank">here.</a></p>
-<p><strong>Spatial Alevin</strong></p>
-<p>This is a tutorial that will show how to generate the
-spatially-resolved gene-count matrix for each spot using
-<strong>Alevin</strong> and visualize it using <strong>Seurat</strong>.
-To access the tutorial, click
-<a href="https://combine-lab.github.io/alevin-tutorial/2020/alevin-spatial/" target="_blank">here.</a></p>
-<p><strong>ReactomeGSA</strong></p>
-<p>This package allows for Gene Set Enrichment Analysis using the
-Reactome database. It allows for comparison of independent datasets
-across species as well as different omics including single-cell RNA-seq
-analysis. It also has inbuilt plotting tools. To access the paper that
-introduces this package, click
-<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.044958v1.full.pdf" target="_blank">here.</a></p>
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
-<br> <br>
-<center>
-Version 1.1.1: Added Füllgrabe, <em>et.al</em>,
-<a href="https://www.nature.com/articles/s41587-020-00744-z">https://www.nature.com/articles/s41587-020-00744-z</a>
-and ‘Identifying Cell Populations’ to the Analysis of Single Cell
-RNA-Seq Data course <br>
-<center>
-<p>Version 1.1.2: Added Twitter thread <a href="https://twitter.com/mdziemann/status/1626407797939384320?t=Y9rLCPnENn02-KeJb4dtNA&amp;s=31" class="uri">https://twitter.com/mdziemann/status/1626407797939384320?t=Y9rLCPnENn02-KeJb4dtNA&amp;s=31</a></p>
+<a href="http://bioconductor.org/packages/release/bioc/html/minfi.html">here.</a>
+To access the vignette, click
+<a href="http://bioconductor.org/packages/release/bioc/vignettes/minfi/inst/doc/minfi.html">here.</a></p>
+<p><strong>methyAnalysis</strong></p>
+<p>This is an R package that was developed for chromosome location based
+DNA methylation analysis and visualization. The package also includes
+functions of estimating the methylation levels from Methy-Seq data. To
+access the R package, click
+<a href="http://bioconductor.org/packages/release/bioc/html/methyAnalysis.html">here.</a>
+To access the vignette, click
+<a href="https://bioconductor.org/packages/release/bioc/vignettes/methyAnalysis/inst/doc/methyAnalysis.pdf">here.</a></p>
+<p><strong>A cross-package Bioconductor workflow for analysing
+methylation array data</strong></p>
+<p>This is a Bioconductor workflow that uses multiple packages for the
+analysis of methylation array data. This workflow demonstrates steps
+involved in a typical differential methylation analysis pipeline
+including: quality control, filtering, normalization, data exploration
+and statistical testing for probe-wise differential methylation. To
+access the vignette, click
+<a href="https://bioconductor.org/packages/release/workflows/vignettes/methylationArrayAnalysis/inst/doc/methylationArrayAnalysis.html">here.</a></p>
 </div>
 
 

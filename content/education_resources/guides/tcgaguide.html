@@ -11,7 +11,7 @@
 
 
 
-<title>Single-Cell Transcriptomics Guide</title>
+<title>TCGA Guide</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -1538,302 +1538,201 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Single-Cell Transcriptomics Guide</h1>
-<h3 class="subtitle">Version 1.1.2</h3>
-<h4 class="author">Sasha Thalluri, Lasseigne Lab, CDIB, UAB</h4>
+<h1 class="title toc-ignore">TCGA Guide</h1>
+<h3 class="subtitle">Version 1.0</h3>
+<h4 class="author">Avery Williams, Lasseigne Lab, CDIB, UAB</h4>
 <h4 class="author">Developed with assistance from the Lasseigne Lab and
 Dr. Lara Ianov, UAB</h4>
 <address class="author_afil">
-For questions, email Dr. Lasseigne at <a href="mailto:bnp0001@uab.edu" class="email">bnp0001@uab.edu</a><br><h4 class="date">5/5/2020</h4>
+For questions, email Dr. Lasseigne at
+<a href="mailto:bnp0001@uab.edu" target="_blank">bnp0001@uab.edu</a><br><h4 class="date">5/29/2020</h4>
 
 </div>
 
 
-<div id="introduction-into-single-cell" class="section level1">
-<h1>Introduction into Single-Cell</h1>
-<hr />
-<div id="this-is-an-sop-on-getting-started-with-single-cell-transcriptomics.-here-you-can-find-papers-courses-databases-and-tools." class="section level4">
-<h4>This is an SOP on getting started with Single-Cell Transcriptomics.
-Here you can find papers, courses, databases, and tools.</h4>
-<p><br></p>
-</div>
-</div>
-<div id="papers" class="section level1">
-<h1>Papers</h1>
-<hr />
-<p>This is a list of links to papers that have essential information on
-single-cell transcriptomics. <br></p>
-<p><a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4" target="_blank">A
-practical guide to single-cell RNA-sequencing for biomedical research
-and clinical applications</a></p>
+<div id="introduction-to-tcga" class="section level1">
+<h1>Introduction to TCGA</h1>
+<p>The Cancer Genome Atlas (TCGA) is a resource with omics data for over
+20,000 cancer patient tissue profiles spanning 33 cancer types. It is a
+joint effort between the National Cancer Institute and the National
+Human Genome Research Institute and is publicly available. See the links
+below for more information:</p>
 <ul>
-<li>Review paper that presents a practical guide to help researchers
-design their first scRNA-seq studies</li>
-<li>Includes introductory information on
+<li>Click
+<a href="https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga" target="_blank">here</a>
+for the NIH’s introduction to TCGA. You can also visit TCGA’s Wikipedia
+page
+<a href="https://en.wikipedia.org/wiki/The_Cancer_Genome_Atlas" target="_blank">here</a>.</li>
+<li><a href="https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga/studied-cancers" target="_blank">This</a>
+page describes cancers studied by the consortium.</li>
+<li><a href="https://portal.gdc.cancer.gov/" target="_blank">This</a> is
+the NIH’s Genomic Data Commons data portal where you can access their
+data.</li>
+<li><a href="https://gdc.cancer.gov/resources-tcga-users/tcga-code-tables/data-types" target="_blank">Here</a>
+is a list of the data types available in TCGA.</li>
+</ul>
+</div>
+<div id="literature" class="section level1">
+<h1>Literature</h1>
+<p>Below are some papers you can read for a better understanding of
+TCGA:</p>
 <ul>
-<li>Experimental hardware</li>
-<li>Protocol choice</li>
-<li>Quality control</li>
-<li>Data analysis</li>
-<li>Biological interpretation</li>
+<li><a href="https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga/publications" target="_blank">TCGA
+Research Network Publications</a>
+<ul>
+<li>a comprehensive list of publications by the TCGA program</li>
+</ul></li>
+<li><a href="https://www.nature.com/collections/ffebghgeba/" target="_blank">TCGA
+Pan-Cancer Analysis (2013)</a>
+<ul>
+<li>a collection on the Pan-Cancer initiative’s effort to find
+similarities and differences among the genomic and cellular alterations
+found in the first dozen tumor types profiled by TCGA. For example:
+<ul>
+<li><a href="https://www.nature.com/articles/ng.2764" target="_blank">The
+Cancer Genome Atlas Pan-Cancer analysis project</a>
+<ul>
+<li>a commentary article providing further detail to the Pan-Cancer
+analysis project touched on in the collection summary</li>
+</ul></li>
+<li><a href="https://www.nature.com/articles/ng.2760" target="_blank">Pan-cancer
+patterns of somatic copy number alteration</a>
+<ul>
+<li>a paper analyzing somatic copy number alterations’ roles in
+promoting cancer</li>
+</ul></li>
+<li><a href="https://www.nature.com/articles/ng.2762" target="_blank">Emerging
+landscape of oncogenic signatures across human cancers</a>
+<ul>
+<li>a paper on classifying tumors hierarchically based on genetic and
+epigenetic alterations to show functional event patterns</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><a href="https://www.cell.com/pb-assets/consortium/pancanceratlas/pancani3/index.html" target="_blank">The
+Pan-Cancer Atlas Collection (2018)</a>
+<ul>
+<li>a collection of papers aiming to reclassify human tumor types based
+on molecular similarity. For example:
+<ul>
+<li><a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(18)30436-4?utm_campaign=STMJ_1522958526_SC&amp;utm_channel=WEB&amp;utm_source=WEB&amp;dgcid=STMJ_1522958526_SC" target="_blank">The
+Cancer Genome Atlas Comprehensive Molecular Characterization of Renal
+Cell Carcinoma</a>
+<ul>
+<li>a paper on finding genomic and phenotypic differences associated
+with different histologic subtypes in the interest of developing
+subtype-specific therapeutics</li>
+</ul></li>
+<li><a href="https://www.cell.com/cell/fulltext/S0092-8674(18)30313-1?utm_campaign=STMJ_1522958526_SC&amp;utm_channel=WEB&amp;utm_source=WEB&amp;dgcid=STMJ_1522958526_SC" target="_blank">Perspective
+on Oncogenic Processes at the End of the Beginning of Cancer
+Genomics</a>
+<ul>
+<li>a paper on the current state of findings on the molecular processes
+governing oncogenesis provided in the TCGA PanCancer Atlas</li>
+</ul></li>
+<li><a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(18)30111-9?utm_campaign=STMJ_1522958526_SC&amp;utm_channel=WEB&amp;utm_source=WEB&amp;dgcid=STMJ_1522958526_SC" target="_blank">Genomic
+and Functional Approaches to Understanding Cancer Aneuploidy</a>
+<ul>
+<li>a paper that defines genomic and phenotypic correlates of cancer
+aneuploidy and provides an experimental approach to study chromosome arm
+aneuploidy</li>
+</ul></li>
+<li><a href="https://www.cell.com/cell/fulltext/S0092-8674(18)30229-0?utm_campaign=STMJ_1522958526_SC&amp;utm_channel=WEB&amp;utm_source=WEB&amp;dgcid=STMJ_1522958526_SC&amp;code=cell-site" target="_blank">An
+Integrated TCGA Pan-Cancer Clinical Data Resource to Drive High-Quality
+Survival Outcome Analytics</a>
+<ul>
+<li>a paper detailing the TCGA Pan-Cancer Clinical Data Resource, a
+standardized dataset developed to ensure proper use of TCGA clinical
+data</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><a href="https://www.nature.com/collections/afdejfafdb" target="_blank">Pan-Cancer
+Analysis of Whole Genomes (2020) </a>
+<ul>
+<li>a collection describing a PCAWG Project that performed whole-genome
+sequencing and integrative analysis on over 2,600 cancers and their
+matching tissues across 38 tumor types from Nature</li>
+</ul></li>
+<li><a href="https://ascopubs.org/doi/pdfdirect/10.1200/CCI.19.00119" target="_blank">Multiomic
+Integration of Public Oncology Databases in Bioconductor</a>
+<ul>
+<li>a paper on utilizing TCGA along with cBioPortal to create packages
+to aid in making fully integrated representations of multiomic
+pan-cancer databases</li>
 </ul></li>
 </ul>
-<p><a href="https://www.nature.com/articles/s41587-020-00744-z" target="_blank">Guidelines
-for reporting single-cell RNA-seq experiments</a></p>
+</div>
+<div id="data-analysis" class="section level1">
+<h1>Data Analysis</h1>
+<p>See
+<a href="https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga/using-tcga/tools" target="_blank">this</a>
+page for a list of computational tools developed by researchers using
+TCGA data.</p>
+<p>See
+<a href="https://docs.gdc.cancer.gov/Data_Portal/Users_Guide/Getting_Started/" target="_blank">this</a>
+page for a user’s guide for accessing the GDC data portal.</p>
+<div id="tcgabiolinks" class="section level3">
+<h3>TCGAbiolinks</h3>
+<p>TCGAbiolinks is an R package that can be used for integrative
+analysis with Genomic Data Commons data. This package facilitates data
+retrieval and analysis. You can learn more about its aim and install it
+<a href="https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html" target="_blank">here</a>.</p>
+<p>After installation, feel free to go through
+<a href="https://bioconductor.org/packages/release/bioc/vignettes/TCGAbiolinks/inst/doc/index.html" target="_blank">this</a>
+webpage for a better understanding. There are case studies and workshops
+available through the page that might also be helpful.</p>
+<p><a href="http://bioconductor.org/packages/release/workflows/vignettes/TCGAWorkflow/inst/doc/TCGAWorkflow.html" target="_blank">This</a>
+vignette is another walkthrough option for learning the TCGA
+Workflow.</p>
+<p>You can also reference these YouTube videos from the creators of the
+package:</p>
 <ul>
-<li>Article that provides guidelines for the minimum set of metadata
-needed for robust comparative analyses of scRNA-seq</li>
+<li><a href="https://youtu.be/eP9C3kKA8eo" target="_blank">TCGAbiolinks:
+data, analyses &amp; applications by Antonio Colaprico</a></li>
+<li><a href="https://youtu.be/YAtikGUR36c" target="_blank">TCGAbiolinks:
+data, analyses &amp; applications (Network Stability) by Catharina
+Olsen</a></li>
 </ul>
-<p><a href="https://www.nature.com/articles/s41576-019-0118-2" target="_blank">Optimizing
-biological inferences from single-cell data</a></p>
+</div>
+<div id="recount2" class="section level3">
+<h3>recount2</h3>
+<p>recount2 is a resource that allows access to thousands of RNA-seq
+samples from TCGA, GTEx, and the Sequence Read Archive. It can be
+accessed through the recount2 website and the recount Bioconductor
+package. See below for some helpful resources:</p>
 <ul>
-<li>Article that discusses the exciting opportunities of single-cell
-omic studies</li>
-<li>Highlights the importance of appropriate data analysis
-strategies</li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41587-020-0469-4" target="_blank">Single-cell
-RNA-sequencing protocols for cell atlas projects</a></p>
+<li><a href="https://bioconductor.org/packages/release/bioc/html/recount.html" target="_blank">Bioconductor
+page for recount r package</a>
 <ul>
-<li>Paper that reveals the differences between different scRNA-seq and
-single-nucleus RNA-seq protocols</li>
-<li>States that the differing protocols impact the predictive value and
-suitability for integration into reference cell atlases</li>
-<li>Results are particularly helpful for individual researchers and
-consortium projects</li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41576-020-0229-9" target="_blank">Transcriptional
-profiling of physically interacting cells</a></p>
+<li>This includes a quick start guide to recount2 that can help you get
+a general idea of the package.</li>
+</ul></li>
+<li><a href="https://www.bioconductor.org/packages/devel/workflows/vignettes/recountWorkflow/inst/doc/recount-workflow.html" target="_blank">recount
+workflow: accessing over 70,000 human RNA-seq samples with
+Bioconductor</a>
 <ul>
-<li>Paper highlighting the use of PIC-seq</li>
-<li>PIC-seq combines cell sorting of physically interacting cells (PICs)
-with scRNA-seq and computational modeling to profile cellular
-interactions and their impact on gene expression</li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41587-020-0470-y" target="_blank">Combinatorial
-single-cell CRISPR screens by direct guide RNA capture and targeted
-sequencing</a></p>
+<li>This is a more in-depth workflow you can follow.</li>
+</ul></li>
+<li><a href="https://jhubiostatistics.shinyapps.io/recount/" target="_blank">recount2:
+a multi-experiment resource of analysis-ready RNA-seq gene and exon
+count datasets</a>
 <ul>
-<li>Paper demonstrating how Pertub-seq allows for pooled single-cell
-CRISPR screens to be easily paired with combinatorial perturbation
-libraries</li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41576-019-0093-7" target="_blank">Integrative
-single-cell analysis</a></p>
+<li>This is a resource to download the recount2 datasets. It has a user
+friendly GUI to interact with these datasets, and allows you to choose
+from popular datasets, GTEx, TCGA, or all of the above.</li>
+</ul></li>
+<li><a href="https://www.nature.com/articles/nbt.3838" target="_blank">
+Reproducible RNA-seq analysis using <em>recount2</em></a>
 <ul>
-<li>Review paper that discuses the recent advances in the collection and
-integration of different data types at single-cell resolution</li>
-<li>Focuses on the integration of gene expression data with other types
-of single-cell measurement</li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-019-12266-7" target="_blank">A
-systematic evaluation of single cell RNA-seq analysis pipelines</a></p>
-<ul>
-<li>Paper that assesses interactions among pipeline steps</li>
-</ul>
-<p><a href="https://www.cell.com/cell/fulltext/S0092-8674(20)30346-9" target="_blank">The
-Human Tumor Atlas Network</a></p>
-<ul>
-<li>Paper for single-cell analysis in tumors</li>
-<li>Focuses on current challenges and future directions</li>
-</ul>
-<p><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1603-1" target="_blank">Cell
-Hashing with barcoded antibodies enables multiplexing and doublet
-detection for single cell genomics</a></p>
-<ul>
-<li>Paper that demonstrates how hashing can generalize the benefits of
-single cell multiplexing to diverse samples and experimental
-designs</li>
-</ul>
-<p><a href="https://pair-code.github.io/understanding-umap/" target="_blank">Understanding
-UMAP</a></p>
-<ul>
-<li>Review that focuses on dimensionality reduction using a new
-technique called UMAP</li>
-<li>Includes information on
-<ul>
-<li>How the UMAP algorithm works</li>
-<li>How to use UMAP effectively</li>
-<li>How UMAP compares with t-SNE (a widely used technique for
-visualizing)</li>
+<li>This is a Nature Biotechnology paper detailing the development and
+utilization of recount2.</li>
 </ul></li>
 </ul>
-<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009935" target="_blank">Urgent
-need for consistent standards in functional enrichment analysis</a></p>
-<ul>
-<li>Identifies common flaws found in studies that implement gene set
-enrichment tests</li>
-<li><a href="https://twitter.com/mdziemann/status/1626407797939384320?t=Y9rLCPnENn02-KeJb4dtNA&amp;s=31" target="_blank">Twitter
-Thread</a></li>
-</ul>
-<p><br></p>
+<footer>
+Version 1.1: Added Multiomic Integration paper
+</footer>
 </div>
-<div id="online-books" class="section level1">
-<h1>Online Books</h1>
-<hr />
-<p>These are online-accessible books related to single cell
-analysis.</p>
-<p><br></p>
-<p><a href="https://www.sc-best-practices.org/preamble.html" target="_blank">Multimodal
-single-cell analysis</a></p>
-<ul>
-<li>A work-in-progress book by Lukas Heumos and Anna Schaar</li>
-<li>Meant to inform both newcomers and experienced individuals on best
-practices for single cell analysis</li>
-</ul>
-<p><br></p>
-</div>
-<div id="courses" class="section level1">
-<h1>Courses</h1>
-<hr />
-<p>These are courses and other resources that will give an overall
-introduction to single cell analysis and provide opportunities to learn
-about computational biology strategies using scRNA-seq <br> <br>
-<strong>Introduction to Single-Cell RNA-Seq Technologies</strong></p>
-<p>Here are slides from a class that focuses on the computational
-biology of single-cell RNA-seq analysis. To access the slides, click
-<a href="https://liorpachter.wordpress.com/2019/02/19/introduction-to-single-cell-rna-seq-technologies/" target="_blank">here.</a></p>
-<p><strong>Analysis of Single Cell RNA-Seq Data</strong></p>
-<p>A course that covers all of the steps of scRNA-seq processing. It
-includes common analysis strategies and discusses central biological
-questions that can be addressed using scRNA-seq. To access this course,
-click
-<a href="https://broadinstitute.github.io/2019_scWorkshop/index.html" target="_blank">here.</a>
-Be sure to look at the section titled ‘Identifying Cell Populations’. It
-provides essential information about cell types. To access that section,
-click
-<a href="https://broadinstitute.github.io/2019_scWorkshop/identifying-cell-populations.html" target="_blank">here.</a></p>
-<p><strong>Analysis of Single Cell RNA-Seq Data (University of
-Cambridge)</strong></p>
-<p>A course that discusses questions that can be addressed using
-scRNA-seq and the current computational and statistical methods
-available. It was designed for those who are interested in learning
-about computational analysis of scRNA-seq data. To access this course,
-click
-<a href="https://scrnaseq-course.cog.sanger.ac.uk/website/index.html" target="_blank">here.</a></p>
-<p><strong>Overview Talk of Single Cell Genomics Day 2020</strong></p>
-<p>Here is an overview of the new computational analysis strategies and
-experimental technologies presented at Single Cell Genomics Day 2020. To
-access this video, click
-<a href="https://www.youtube.com/watch?v=b9bqKulMLp8" target="_blank">here.</a>
-To access the slides used in the video, click
-<a href="https://satijalab.org/scgd/" target="_blank">here.</a></p>
-<p><strong>Machine Learning for Single Cell Analysis
-Workshop</strong></p>
-<p>A course that helps its participants receive an introduction to
-emerging trends in single cell analysis, learn how to analyze single
-cell data sets, and develop an understanding of machine learning
-foundations. To access this workshop, click
-<a href="https://www.krishnaswamylab.org/workshop" target="_blank">here.</a></p>
-<p><br></p>
-</div>
-<div id="databases" class="section level1">
-<h1>Databases</h1>
-<hr />
-<p>Here are databases/portals/atlases that can be helpful for
-single-cell analysis. <br> <br></p>
-<p><strong>Broad Institute Single Cell Portal</strong></p>
-<p>Single-Cell Portal was developed to facilitate sharing scientific
-results and disseminating data generated from single cell technologies.
-To access it, click
-<a href="https://singlecell.broadinstitute.org/single_cell" target="_blank">here.</a></p>
-<p><strong>Mouse Brain Cell Atlas</strong></p>
-<p>Mouse Brain Cell Atlas uses the interactive online software (DropViz)
-to serve as a reference for development, disease, and evolution. To
-access it, click
-<a href="http://dropviz.org/" target="_blank">here.</a></p>
-<p><strong>CancerSEA</strong> CancerSEA is a database that aims to
-comprehensively decode distinct functional states of cancer cells at
-single-cell resolution. To access it, click
-<a href="http://biocc.hrbmu.edu.cn/CancerSEA/home.jsp" target="_blank">here.</a></p>
-<p><br></p>
-</div>
-<div id="tools" class="section level1">
-<h1>Tools</h1>
-<hr />
-<p>Here are some R packages and tools that can be used for single-cell
-analysis. <br> <br></p>
-<p><strong>Bioconductor Single-Cell R-Packages</strong> This is a link
-to a list of R packages for sc-RNA analysis accessible through
-Bioconductor. To access the list, click
-<a href="https://bioconductor.org/packages/release/BiocViews.html#___SingleCellData" target="_blank">here.</a></p>
-<p><strong>Orchestrating Single-Cell Analysis with
-Bioconductor</strong></p>
-<p>This is a website that teaches some common workflows for scRNA-seq
-data. It focuses on how to make use of cutting-edge Bioconductor tools
-to process, analyze, visualize, and explore scRNA-seq data. To access
-this book, click
-<a href="https://bioconductor.org/books/release/OSCA/" target="_blank">here.</a></p>
-<p><strong>Bioconductor workflow for single-cell RNA sequencing:
-Normalization, dimensionality reduction, clustering, and lineage
-inference</strong></p>
-<p>This is an integrated workflow that provides a step-by-step tutorial
-to the methodology and associated software for dimensionality reduction,
-cell clustering, inference of cell lineages and pseudo-times, and
-differential expression analysis along lineages. To access this
-workflow, click
-<a href="https://www.bioconductor.org/help/course-materials/2017/BioC2017/Day2/Workshops/singleCell/doc/workshop.html" target="_blank">here.</a></p>
-<p><strong>Introduction to singleCellTK</strong></p>
-<p>This is an R package used for interactive scRNA-seq analysis, which
-allows users to upload raw scRNA-seq count matrices and perform
-downstream scRNA-seq analysis interactively through a web interface or
-through R functions using the command line interface. To access this
-package, click
-<a href="https://www.bioconductor.org/packages/release/bioc/html/singleCellTK.html" target="_blank">here.</a></p>
-<p><strong>Stephanie Hicks Lab Projects</strong></p>
-<p>This is a list of projects and references from the Stephanie Hicks
-lab. Here you can find a lot of single-cell work with various goals to
-understand the depth of single-cell analysis. To access the list of
-projects, click
-<a href="https://www.stephaniehicks.com/projects/" target="_blank">here.</a></p>
-<p><strong>Multiplexing Cost Calculator</strong></p>
-<p>This is a handy single-cell price calculator. To access it, click
-<a href="https://satijalab.org/costpercell" target="_blank">here.</a></p>
-<p><strong>10X Genomics Cell Ranger Pipeline</strong></p>
-<p>This a set of analysis pipelines that processes Chromium single-cell
-RNA-seq output to align reads, generate feature-barcode matrices and
-perform clustering and gene expression analysis. It utilizes the STAR
-aligner. To access the pipelines, click
-<a href="https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger" target="_blank">here.</a></p>
-<p><strong>Drop-Seq Alignment Guide</strong></p>
-<p>This has Java tools for analyzing Drop-Seq data. This software
-pipeline performs many analyses including massive de-multiplexing of the
-data, alignment of reads to a reference genome, and processing of
-cellular and molecular barcodes. To access this guide, click
-<a href="https://github.com/broadinstitute/Drop-seq" target="_blank">here.</a></p>
-<p><strong>Seurat R toolkit for single cell genomics</strong></p>
-<p>This is an R package designed for quality control, analysis, and
-exploration of single-cell RNA-seq data. It enables users to identify
-and interpret sources of heterogeneity from single-cell transcriptomic
-measurements and to integrate diverse types of single-cell data. To
-access this package, click
-<a href="https://satijalab.org/seurat/" target="_blank">here.</a></p>
-<p><strong>Alevin</strong></p>
-<p>This is a tool used for a quasi-mapping approach. One may consider
-using Alevin for 10X Genomics or Drop-seq. To access the tool, click
-<a href="https://salmon.readthedocs.io/en/latest/alevin.html" target="_blank">here.</a></p>
-<p><strong>Spatial Alevin</strong></p>
-<p>This is a tutorial that will show how to generate the
-spatially-resolved gene-count matrix for each spot using
-<strong>Alevin</strong> and visualize it using <strong>Seurat</strong>.
-To access the tutorial, click
-<a href="https://combine-lab.github.io/alevin-tutorial/2020/alevin-spatial/" target="_blank">here.</a></p>
-<p><strong>ReactomeGSA</strong></p>
-<p>This package allows for Gene Set Enrichment Analysis using the
-Reactome database. It allows for comparison of independent datasets
-across species as well as different omics including single-cell RNA-seq
-analysis. It also has inbuilt plotting tools. To access the paper that
-introduces this package, click
-<a href="https://www.biorxiv.org/content/10.1101/2020.04.16.044958v1.full.pdf" target="_blank">here.</a></p>
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
-<br> <br>
-<center>
-Version 1.1.1: Added Füllgrabe, <em>et.al</em>,
-<a href="https://www.nature.com/articles/s41587-020-00744-z">https://www.nature.com/articles/s41587-020-00744-z</a>
-and ‘Identifying Cell Populations’ to the Analysis of Single Cell
-RNA-Seq Data course <br>
-<center>
-<p>Version 1.1.2: Added Twitter thread <a href="https://twitter.com/mdziemann/status/1626407797939384320?t=Y9rLCPnENn02-KeJb4dtNA&amp;s=31" class="uri">https://twitter.com/mdziemann/status/1626407797939384320?t=Y9rLCPnENn02-KeJb4dtNA&amp;s=31</a></p>
 </div>
 
 
