@@ -32,10 +32,6 @@ _<center>Note: not all co-I grants included above.</center>_
 
 * __<a href="https://sites.uab.edu/amc21scholarsprogram/scholars/" target="_blank">AMC21 Scholarship, Jennifer Fisher (Graduate Student), 2019-2021</a>__
 
-* __<a href="https://www.uab.edu/cas/cancerbiology/images/documents/RACE_21_Application_Student_11-11-20_revision.pdf" target="_blank">RACE21 Scholar, Avery Williams (Undergraduate Student), 2021-2022</a>__
-
-* __<a href="https://www.uab.edu/cas/cancerbiology/images/documents/RACE_21_Application_Student_11-11-20_revision.pdf" target="_blank">RACE21 Scholar, Nathaniel DeVoss (Undergraduate Student), 2023</a>__
-
 * __<a href="https://www.uab.edu/medicine/cdib/research/opportunities" target="_blank"> T32 Training Program in Cell, Molecular, and Developmental Biology Training Grant (CMB TG), Jordan Whitlock (Graduate Student), 2022-2023</a>__
 
 * __<a href="https://www.uab.edu/medicine/cnet/training/aca-scholar" target="_blank"> Alzheimer’s of Central Alabama Lindy Harrell Predoctoral Scholar Program, Tabea Soelter (Graduate Student), 2023</a>__
@@ -60,4 +56,5 @@ _<center>Note: not all co-I grants included above.</center>_
  * Defining circulating tumor profiles in human glioblastoma patient derived mouse xenograft models for drug repurposing prioritization
 
 <br>
+
 _<center>Updated June 2022</center>_

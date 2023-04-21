@@ -33,11 +33,11 @@ _<p style="text-align:center;"> Click from the links below for our lab members' 
 
 ### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/1tEOhkQOXOA1fX/bibliography/public/" target="_blank">Victoria Flanary</a></p>
 
-### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/avery.williams.1/bibliography/public/" target="_blank">Avery Williams</a></p>
-
 <br>
 
 ## <ins><p style="text-align:center;">Alumni</p></ins>
+
+### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/avery.williams.1/bibliography/public/" target="_blank">Avery Williams</a></p>
 
 ### <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/1t5_UTn1jmBQb/bibliography/public/" target="_blank">Drew Hardigan</a></p>
 
