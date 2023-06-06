@@ -21,7 +21,7 @@ _<p style="text-align:center;">If you are UAB trainees, faculty, or staff and wa
 
 ---
 
-### Data Science Guides
+### Data Science Guides:
 <ul>
 <li><p><a href="https://docs.google.com/document/d/174JsfrSy2XVpeCmQtDJKOXHMqT3XzyEHrN5qXWFPiJs/edit?usp=sharing" target="_blank">Lasseigne Lab-hosted 'Data Science Office Hours'</a><p></li>
 <li><p><a href="/education_resources/guides/rguide.html" target="_blank">R and RStudio</a></p></li>
