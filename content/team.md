@@ -128,6 +128,16 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/people/RebekahHeadshot1.jpg" alt="Rebekah" width="200px"/></p>
+
+### <p style="text-align:center;">Rebekah Beyea</p>
+
+##### <p style="text-align:center;"> _KURE Summer Student_</p>
+
+<p style="text-align:center;">Rebekah is an undergraduate student at UAB double majoring in immunology and neuroscience with a minor in chemistry and in the ABM MSMBS immunology program. This summer she is participating in UAB's KURE internship program.</p>
+
+---
+
 # <ins><p style="text-align:center;" id="alumni">Our Alumni</p></ins>
 
 ### <p style="text-align:center;"> Nathaniel DeVoss </p>
