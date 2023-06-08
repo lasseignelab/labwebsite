@@ -29,6 +29,7 @@ ignoreFiles             = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
   socialShare           = []
+  imageStretch          = "vertical"
 
   [params.meta]
     # Sets the meta tag description
