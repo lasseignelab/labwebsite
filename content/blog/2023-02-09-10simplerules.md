@@ -5,10 +5,9 @@ date: '2023-02-16'
 slug: 10 Simple Rules
 categories: [website, updates]
 tags: [lab, website, updates, ISCB]
-[[images]]
-  src = "/blog/2023-02-09-10_simple_rules/10rules.jpg"
-  alt = "Ten Simple Rules"
-  stretch = "Vertical"
+src: "/blog/2023-02-09-10_simple_rules/10rules.jpg"
+alt: "Ten Simple Rules"
+stretch: "Vertical"
 description: ''
 linktitle: ''
 type: post
