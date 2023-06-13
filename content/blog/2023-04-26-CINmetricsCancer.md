@@ -27,8 +27,5 @@ Using CIN inferred by methods in the CINmetrics R package, we evaluated how six 
 Conclusions. 
 We found that the tumor type impacts how well any two given CIN metrics correlate. While we also identified overlap between metrics regarding their association with clinical characteristics and patient sex, there was not complete agreement between metrics. We identified several cases where only one CIN metric was significantly associated with a clinical characteristic or patient sex for a given tumor type. Therefore, caution should be used when describing CIN based on a given metric or comparing to other studies.
 
-
-<img src="/blog/2023-4-26_CIN-cancers/CINcancerFig3.png" alt="">
-
 ---
 **Brittany Lasseigne** -- _April 26, 2023_<br>
