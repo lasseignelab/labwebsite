@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 <img src="/img/research_figs/PKDOverview2023.png" alt="">
 
-_<p style="text-align:center;">The Lasseigne Lab is currently engaged in multiple collaborative projects aimed at understanding the role of cell-cell communication, acute kidney injury, and cell state in polycystic kidney disease progression and how macrophage subpopulations respond to acute kidney injury with the goal of identifying disease mechanisms and potential drug targets for both.</p>_
+_<p style="text-align:center;">The Lasseigne Lab is currently engaged in multiple collaborative projects aimed at understanding the role of cell-cell communication, acute kidney injury, and cell state in polycystic kidney disease progression and how macrophage subpopulations respond to acute kidney injury with the goal of identifying disease mechanisms and potential drug targets for both through genomics approaches.</p>_
 
 _<p style="text-align:left;">Recent publications/preprints:</p>_
 
@@ -25,7 +25,13 @@ ________________________________________________________________________________
 
 # <ins><p style="text-align:center;" id="current">Brain Research</p></ins>
 
-<img src="/img/research_figs/PKDOverview2023.png" alt="">
+_<p style="text-align:center;">Our lab has several collaborative projects leveraging single-cell and long-read genomics approaches to learn how different cell types contribute to Alzheimer's, glioblastoma, and rare diseases impacting the brain through changes in cell-cell communication, transcription factor activity, and gene regulatory states.</p>_
+
+_<p style="text-align:left;">Recent publications/preprints:</p>_
+
+__<a href="https://www.biorxiv.org/content/10.1101/2023.03.10.532074v1" target="_blank">Signature reversion of three disease-associated gene signatures prioritizes cancer drug repurposing candidates, preprinted and under review, 2023.</a>__
+
+__<a href="https://pubmed.ncbi.nlm.nih.gov/37090499/" target="_blank">Evaluating cancer cell line and patient-derived xenograft recapitulation of tumor and non-diseased tissue gene expression profiles, preprinted and in revision, 2023.</a>__
 
 __<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8732818/" target="_blank">Liquid biopsies in epilepsy: biomarkers for etiology, diagnosis, prognosis, and therapeutics, Human Cell, 2022.</a>__
 
