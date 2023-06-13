@@ -1,5 +1,5 @@
 ---
-title: Inferring chromosomal instability from copy number aberrations as a measure of chromosomal instability across human cancers (Preprint)
+title: Inferring chromosomal instability from copy number aberrations as a measure of chromosomal instability across human cancers (Preprinted & Under Review)
 author: 'Brittany Lasseigne'
 date: '2023-04-26'
 slug: CIN across human cancers

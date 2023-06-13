@@ -1,5 +1,5 @@
 ---
-title: Computational Advancements in Drug Repurposing for Cancer Combination Therapy Prediction (Preprint)
+title: Computational Advancements in Drug Repurposing for Cancer Combination Therapy Prediction (Preprinted & Under Review)
 author: 'Brittany Lasseigne'
 date: '2023-04-30'
 slug: Combination drug repurposing review

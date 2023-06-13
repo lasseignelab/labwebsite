@@ -1,5 +1,5 @@
 ---
-title: Evaluating cancer cell line and patient-derived xenograft recapitulation of tumor and non-diseased tissue gene expression profiles (Preprint)
+title: Evaluating cancer cell line and patient-derived xenograft recapitulation of tumor and non-diseased tissue gene expression profiles (Preprinted & In Revision)
 author: 'Brittany Lasseigne'
 date: '2023-04-27'
 slug: Cancer preclinical models
