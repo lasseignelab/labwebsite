@@ -1,5 +1,5 @@
 ---
-title: 10 Simple Rules
+title: 10 Simple Rules Resource Publication
 author: 'Nathaniel DeVoss'
 date: '2023-02-16'
 slug: 10 Simple Rules
