@@ -1,5 +1,5 @@
 ---
-title: CINmetrics an R package for analyzing copy number aberrations as a measure of chromosomal instability (Published in PeerJ and available on CRAN)
+title: New Publication in PeerJ! CINmetrics an R package for analyzing copy number aberrations as a measure of chromosomal instability (CINmetrics is available on CRAN)
 author: 'Brittany Lasseigne'
 date: '2023-04-25'
 slug: CINmetrics R package

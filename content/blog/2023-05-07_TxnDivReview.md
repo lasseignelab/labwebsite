@@ -1,5 +1,5 @@
 ---
-title: Quantifying transcriptome diversity Review (Published in Briefings in Functional Genomics)  
+title: New Publication in Briefings in Functional Genomics! Quantifying transcriptome diversity Review 
 author: 'Brittany Lasseigne'
 date: '2023-05-07'
 slug: transcriptional diversity review
