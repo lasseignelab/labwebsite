@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 <img src="/img/research_figs/PKDOverview2023.png" alt="">
 
-__<a href="https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z" target="_blank">Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion, Molecular Medicine, 2023.</a>__
+
 ___________________________________________________________________________________________
 
 # <ins><p style="text-align:center;" id="current">Drug Target and Repurposing Prioritization</p></ins>
@@ -33,22 +33,12 @@ ________________________________________________________________________________
 __<a href="https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z" target="_blank">Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion, Molecular Medicine, 2023.</a>__
 ___________________________________________________________________________________________
 
-# <ins><p style="text-align:center;" id="current">Cross-Species Analyses</p></ins>
+# <ins><p style="text-align:center;" id="current">Methods, Tools, and Approaches for Cross-Condition Analyses</p></ins>
 
-<img src="/img/research_figs/PKDOverview2023.png" alt="">
+#<img src="/img/research_figs/PKDOverview2023.png" alt="">
 
-__<a href="https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z" target="_blank">Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion, Molecular Medicine, 2023.</a>__
+__<a href="https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elad019/7178017?redirectedFrom=fulltext&login=false" target="_blank">Quantifying transcriptome diversity: a review, Briefings in Functional Genomics, 2023.</a>__
 ___________________________________________________________________________________________
 
-<div class="card">
-    <a href="/projects/multiomics" title="" class="card-image hover-overlay">
-      <p style="text-align:center;"><img src="/img/research_figs/multiomicsfig.png" alt="" class="img-responsive" width="500"></p>
-    </a>
-    <div class="card-text">
-     <h4><p style="text-align:center;"><a href="/projects/multiomics">MULTIOMICS ASSAY AND ANALYTICAL APPROACHES</a></p></h4>
-       <div class="card-desription">
-      <p style="text-align:center;">Discovery of cancer (e.g., kidney, GBM, prostate, etc.) diagnostic biomarkers and therapeutic signatures</p>
-    </div>
-  </div>
 
 _<p style="text-align:center;">Learn more about our ongoing projects in Polycystic Kidney Disease:</p>_
