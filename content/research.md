@@ -42,7 +42,9 @@ ________________________________________________________________________________
 
 # <ins><p style="text-align:center;" id="current">Drug Target and Repurposing Prioritization</p></ins>
 
-<img src="/img/research_figs/PKDOverview2023.png" alt="">
+_<p style="text-align:center;">We are dedicated to not only identifying the right drug for the right patient at the right time, but improving that process by prioritizing drug targets and repurposing candidates by assessing sex-biased adverse events, predicting side effects, identifying drugs that will perform similarly in preclinical models and patients, etc.</p>_
+
+_<p style="text-align:left;">Recent publications/preprints:</p>_
 
 __<a href="https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z" target="_blank">Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion, Molecular Medicine, 2023.</a>__
 
