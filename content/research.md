@@ -17,9 +17,8 @@ _<p style="text-align:center;">The Lasseigne Lab develops and applies genomic st
       <p style="text-align:center;"><img src="/img/research_figs/LasseigneLabOverview_2023.png" alt="" class="img-responsive" width="500"></p>
     </a>
     <div class="card-text">
-     <h4><p style="text-align:center;"><a href="/projects/context">Context of disease manifestations</a></p></h4>
+     <h4><p style="text-align:center;"><a href="/projects/context">Lasseigne Lab Research Programs</a></p></h4>
        <div class="card-desription">
-      <p style="text-align:center;">Identification of causal variants and genes in cancer, neurodegenerative, and rare diseases</p>
     </div>
   </div>
 ___________________________________________________________________________________________
