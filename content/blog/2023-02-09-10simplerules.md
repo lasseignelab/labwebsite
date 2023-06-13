@@ -1,5 +1,5 @@
 ---
-title: 10 Simple Rules Resource Publication
+title: Ten simple rules for using public biological data for your research (Published in PLOS Computational Biology)
 author: 'Nathaniel DeVoss'
 date: '2023-02-16'
 slug: 10 Simple Rules

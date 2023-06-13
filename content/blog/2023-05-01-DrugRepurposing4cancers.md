@@ -1,5 +1,5 @@
 ---
-title: Signature reversion of three disease-associated gene signatures prioritizes cancer drug repurposing candidates Preprint
+title: Signature reversion of three disease-associated gene signatures prioritizes cancer drug repurposing candidates (Preprint)
 author: 'Brittany Lasseigne'
 date: '2023-05-01'
 slug: Four cancer drug repurposing
