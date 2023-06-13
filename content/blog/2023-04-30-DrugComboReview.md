@@ -3,8 +3,6 @@ title: Computational Advancements in Drug Repurposing for Cancer Combination The
 author: 'Brittany Lasseigne'
 date: '2023-04-30'
 slug: Combination drug repurposing review
-images: 
-  -
 description: ''
 linktitle: ''
 type: post
