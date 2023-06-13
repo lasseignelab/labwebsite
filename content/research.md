@@ -14,7 +14,7 @@ _<p style="text-align:center;">The Lasseigne Lab develops and applies genomic st
 
   <div class="card">
     <a href="/projects/context" title="" class="card-image hover-overlay">
-      <p style="text-align:center;"><img src="/img/research_figs/contextfig.png" alt="" class="img-responsive" width="500"></p>
+      <p style="text-align:center;"><img src="/img/research_figs/LasseigneLabOverview_2023.png" alt="" class="img-responsive" width="500"></p>
     </a>
     <div class="card-text">
      <h4><p style="text-align:center;"><a href="/projects/context">Context of disease manifestations</a></p></h4>
