@@ -10,7 +10,7 @@ linktitle: ""
 ---
 
 <form action="/brittany-education/index.html">
-    <input type="submit" value="Brittany's Teaching & Outreach" />
+    <input type="submit" value="Brittany's Teaching & Outreach--to be updated soon! Recent CV available upon request." />
 </form>
 
 ---
