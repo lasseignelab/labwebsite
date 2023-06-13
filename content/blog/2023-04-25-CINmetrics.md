@@ -3,8 +3,6 @@ title: CINmetrics R CRAN package and Publication
 author: 'Brittany Lasseigne'
 date: '2023-04-25'
 slug: CINmetrics R package
-categories: [website, updates]
-tags: [lab, website, updates, ISCB]
 images: 
   - '/blog/2023-04-25_CINmetrics-R-package/CINmetricsPeerJFig1.png'
 description: ''
