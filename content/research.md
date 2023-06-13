@@ -31,13 +31,15 @@ ________________________________________________________________________________
 <img src="/img/research_figs/PKDOverview2023.png" alt="">
 
 __<a href="https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z" target="_blank">Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion, Molecular Medicine, 2023.</a>__
+
+__<a href="https://www.biorxiv.org/content/10.1101/2023.05.23.541950" target="_blank">Sex-biased gene expression and gene-regulatory networks of sex-biased adverse event drug targets and drug metabolism genes, preprinted and under review, 2023.</a>__
 ___________________________________________________________________________________________
 
 # <ins><p style="text-align:center;" id="current">Methods, Tools, and Approaches for Cross-Condition Analyses</p></ins>
 
-#<img src="/img/research_figs/PKDOverview2023.png" alt="">
-
 __<a href="https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elad019/7178017?redirectedFrom=fulltext&login=false" target="_blank">Quantifying transcriptome diversity: a review, Briefings in Functional Genomics, 2023.</a>__
+
+__<a href="https://www.biorxiv.org/content/10.1101/2023.04.21.537877" target="_blank">CoSIA: an R Bioconductor package for CrOss Species Investigation and Analysis, preprinted, under review, and available on Bioconductor, 2023.</a>__
 ___________________________________________________________________________________________
 
 
