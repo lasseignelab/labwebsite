@@ -23,16 +23,7 @@ _<p style="text-align:center;">The Lasseigne Lab develops and applies genomic st
   </div>
 ___________________________________________________________________________________________
 
-  <div class="card">
-    <a href="/projects/drugs" title="" class="card-image hover-overlay">
-      <p style="text-align:center;"><img src="/img/research_figs/drugrepurposingfig.png" alt="" class="img-responsive" width="500"></p>
-    </a>
-    <div class="card-text">
-     <h4><p style="text-align:center;"><a href="/projects/drugs">Drug target and repurposing prioritization</a></p></h4>
-       <div class="card-desription">
-      <p style="text-align:center;">Developing computational tools to share with the research community</p>
-    </div>
-  </div>
+_<p style="text-align:center;">Learn more about our ongoing projects in Polycystic Kidney Disease:</p>_
 ___________________________________________________________________________________________
 
 <div class="card">
