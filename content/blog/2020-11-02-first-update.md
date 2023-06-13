@@ -1,5 +1,5 @@
 ---
-title: First Update
+title: 2020 Lab Update
 author: 'Avery Williams'
 date: '2020-11-02'
 slug: first-update

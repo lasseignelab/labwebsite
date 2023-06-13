@@ -1,5 +1,5 @@
 ---
-title: Second Update
+title: 2022 Lab Update
 author: 'Avery Williams'
 date: '2022-08-01'
 slug: second-update
