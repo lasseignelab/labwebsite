@@ -1,5 +1,5 @@
 ---
-title: CINmetrics R package and Publication
+title: CINmetrics R CRAN package and Publication
 author: 'Brittany Lasseigne'
 date: '2023-04-25'
 slug: CINmetrics R package
