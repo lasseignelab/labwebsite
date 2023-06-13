@@ -4,7 +4,7 @@ author: 'Brittany Lasseigne'
 date: '2023-04-26'
 slug: CIN across human cancers
 images: 
-  - '/blog/2023-04-26_CIN-cancers/CINcancerFig3.png'
+  - '/blog/2023-04-25_CINmetrics-R-package/CINmetricsPeerJFig1.png'
 description: ''
 linktitle: ''
 type: post
