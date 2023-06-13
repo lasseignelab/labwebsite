@@ -59,6 +59,10 @@ ________________________________________________________________________________
 
 # <ins><p style="text-align:center;" id="current">Methods, Tools, and Approaches for Cross-Condition Studies</p></ins>
 
+_<p style="text-align:center;">The Lasseigne Lab develops open-source methods, tools, and approaches for studying how extrinsic (e.g., tissue, species) and intrinsic (e.g., transcript expressed, copy number) factors impact disease states and our interpretation of them.</p>_
+
+_<p style="text-align:left;">Recent publications/preprints:</p>_
+
 __<a href="https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elad019/7178017?redirectedFrom=fulltext&login=false" target="_blank">Quantifying transcriptome diversity: a review, Briefings in Functional Genomics, 2023.</a>__
 
 __<a href="https://www.biorxiv.org/content/10.1101/2023.04.21.537877" target="_blank">CoSIA: an R Bioconductor package for CrOss Species Investigation and Analysis, preprinted, under review, and available on Bioconductor, 2023.</a>__
