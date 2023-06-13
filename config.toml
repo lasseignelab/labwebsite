@@ -105,8 +105,8 @@ ignoreFiles             = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$
   # Sets the menu items in the navigation bar
   # Identifier prepends a Font Awesome icon to the menu item
   [[menu.main]]
-    name              = "Home"
-    identifier        = "home"
+    name              = "News"
+    identifier        = "news"
     url               = "/"
     pre               = "<i class='fa fa-home'></i>"
     weight            = 1
