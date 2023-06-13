@@ -18,6 +18,8 @@ ________________________________________________________________________________
 
 _<p style="text-align:center;">The Lasseigne Lab is currently engaged in multiple collaborative projects aimed at understanding the role of cell-cell communication, acute kidney injury, and cell state in polycystic kidney disease progression and how macrophage subpopulations respond to acute kidney injury with the goal of identifying disease mechanisms and potential drug targets for both.</p>_
 
+_<p style="text-align:left;">Recent publications/preprints:</p>_
+
 __<a href="https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z" target="_blank">Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion, Molecular Medicine, 2023.</a>__
 ___________________________________________________________________________________________
 
