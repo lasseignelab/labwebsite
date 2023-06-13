@@ -10,6 +10,8 @@ linktitle: ""
 ---
 _<p style="text-align:center;">The Lasseigne Lab develops and applies genomic strategies to map molecular processes contributing to the etiology, progression, and treatment of diseases originating in the brain and/or the kidney. We investigate the impact of cell- and tissue-specific gene and transcript regulation and expression, cell-cell communication, and sex-associated molecular changes on disease manifestation. Through computational machine learning and data-driven approaches, we identify optimal precision preclinical models and nominate and prioritize drug targets and repositioning candidates for treating patient cellular phenotypes.</p>_
 
+_<p style="text-align:left;">Some of the questions our lab asks are: If Mendelian disease associated variants are present in every cell of the body, what cellular environments and mechanisms determine why some cells show a molecular or clinical phenotype when others do not? Why are some people or some tissues more susceptible to adverse events after taking medications than others? How does differential transcript expression impact disease progression? Can we identify gene regulatory states more susceptible to treatments and induce those states in cells? Which ligand-receptor-gene target relationship changes are important for disease progression and/or treatment?</p>_
+
 ---
 ___________________________________________________________________________________________
 # <ins><p style="text-align:center;" id="current">Kidney Research</p></ins>
