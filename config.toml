@@ -9,6 +9,7 @@ googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = ["fr, de, pl, pt"]
 ignoreFiles             = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+#paginate changes number of blog posts
 
 [params]
   mainSections = ["blog", "post"]
