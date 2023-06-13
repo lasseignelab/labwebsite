@@ -12,9 +12,28 @@ _<p style="text-align:center;">The Lasseigne Lab develops and applies genomic st
 
 ---
 ___________________________________________________________________________________________
-# <ins><p style="text-align:center;" id="current">Polycystic Kidney Disease Research</p></ins>
+# <ins><p style="text-align:center;" id="current">Kidney Research</p></ins>
 
-_<p style="text-align:center;">Learn more about our ongoing projects in Polycystic Kidney Disease:</p>_
+<img src="/img/research_figs/PKDOverview2023.png" alt="">
+
+__<a href="https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z" target="_blank">Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion, Molecular Medicine, 2023.</a>__
+___________________________________________________________________________________________
+
+# <ins><p style="text-align:center;" id="current">Brain Research</p></ins>
+
+<img src="/img/research_figs/PKDOverview2023.png" alt="">
+
+__<a href="https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z" target="_blank">Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion, Molecular Medicine, 2023.</a>__
+___________________________________________________________________________________________
+
+# <ins><p style="text-align:center;" id="current">Drug Target and Repurposing Prioritization</p></ins>
+
+<img src="/img/research_figs/PKDOverview2023.png" alt="">
+
+__<a href="https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z" target="_blank">Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion, Molecular Medicine, 2023.</a>__
+___________________________________________________________________________________________
+
+# <ins><p style="text-align:center;" id="current">Cross-Species Analyses</p></ins>
 
 <img src="/img/research_figs/PKDOverview2023.png" alt="">
 
@@ -31,3 +50,5 @@ ________________________________________________________________________________
       <p style="text-align:center;">Discovery of cancer (e.g., kidney, GBM, prostate, etc.) diagnostic biomarkers and therapeutic signatures</p>
     </div>
   </div>
+
+_<p style="text-align:center;">Learn more about our ongoing projects in Polycystic Kidney Disease:</p>_
