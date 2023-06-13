@@ -4,7 +4,7 @@ author: 'Brittany Lasseigne'
 date: '2023-04-26'
 slug: CIN across human cancers
 images: 
-  - '/blog/2023-04-26_CIN-cancers/CINcancerFig3.png'
+  - '/blog/2023-4-26_CIN-cancers/CINcancerFig3.png'
 description: ''
 linktitle: ''
 type: post
@@ -28,7 +28,7 @@ Conclusions.
 We found that the tumor type impacts how well any two given CIN metrics correlate. While we also identified overlap between metrics regarding their association with clinical characteristics and patient sex, there was not complete agreement between metrics. We identified several cases where only one CIN metric was significantly associated with a clinical characteristic or patient sex for a given tumor type. Therefore, caution should be used when describing CIN based on a given metric or comparing to other studies.
 
 
-<img src="/blog/2023-04-26_CIN-cancers/CINcancerFig3.png" alt="">
+<img src="/blog/2023-4-26_CIN-cancers/CINcancerFig3.png" alt="">
 
 ---
 **Brittany Lasseigne** -- _April 26, 2023_<br>
