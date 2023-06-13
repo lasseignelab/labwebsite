@@ -1,5 +1,5 @@
 ---
-title: Publication in Molecular Medicine; Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion
+title: Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse Pkd2 model gene expression reversion (Published in Molecular Medicine)
 author: 'Brittany Lasseigne'
 date: '2023-05-09'
 slug: PKD2 drug repurposing
