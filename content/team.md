@@ -28,7 +28,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;">_Principal Investigator and Assistant Professor_</p>
 
-<p style="text-align:center;">Dr. Lasseigne is an Assistant Professor in the Department of Cell, Developmental and Integrative Biology, an Associate Scientist in the Nephrology Research and Training Center, O’Neal Comprehensive Cancer Center Experimental Therapeutics Program, the Center for Clinical and Translational Science, the Informatics Institute, the Hugh Kaul Precision Medicine Institute, the Center for Neurodegeneration and Experimental Therapeutics, and the Comprehensive Neuroscience Center at the University of Alabama at Birmingham Heersink School of Medicine. She previously completed a BS in Biological Engineering at Mississippi State University, an interdisciplinary biology, chemistry, and chemical engineering PhD in Biotechnology Science and Engineering from The University of Alabama in Huntsville, and a postdoctoral fellowship in genetics and genomics at the HudsonAlpha Institute for Biotechnology. Brittany is passionate about developing and applying genomics technologies to human diseases and teaching genomics and data science to students and scientists of all backgrounds.</p>
+<p style="text-align:center;">Dr. Lasseigne is an Assistant Professor in the Department of Cell, Developmental and Integrative Biology, and an Associate Scientist in the Nephrology Research and Training Center, O’Neal Comprehensive Cancer Center Experimental Therapeutics Program, the Center for Clinical and Translational Science, the Informatics Institute, the Hugh Kaul Precision Medicine Institute, the Center for Neurodegeneration and Experimental Therapeutics, and the Comprehensive Neuroscience Center at the University of Alabama at Birmingham Heersink School of Medicine. She previously completed a BS in Biological Engineering at Mississippi State University, an interdisciplinary biology, chemistry, and chemical engineering PhD in Biotechnology Science and Engineering from The University of Alabama in Huntsville, and a postdoctoral fellowship in genetics and genomics at the HudsonAlpha Institute for Biotechnology. Brittany is passionate about developing and applying genomics technologies to human diseases and teaching genomics and data science to students and scientists of all backgrounds.</p>
 
 <p style="text-align:center;"><a href="https://www.ncbi.nlm.nih.gov/myncbi/brittany.lasseigne.1/bibliography/public/" target="_blank">Brittany's Publications</a> <a href="https://www.lasseigne.org/funding/" target="_blank">and Grants</a></p>
 
@@ -42,7 +42,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Postdoctoral Fellow_ </p>
 
-<p style="text-align:center;">Amanda is an <a href="https://www.uab.edu/meritprogram/" target="_blank">IRACDA-MERIT</a> Postdoctoral Fellow at the University of Alabama at Birmingham. She completed a B.S. in Molecular Biology at UAB and a PhD in Biology at Auburn University. Amanda is passionate about integrating computational thinking and data science into undergraduate biology education, the evolutionary dynamics of complex systems, and comparative multi-omics for human disease modeling.</p>
+<p style="text-align:center;">Dr. Clark is an <a href="https://www.uab.edu/meritprogram/" target="_blank">IRACDA-MERIT</a> Postdoctoral Fellow at the University of Alabama at Birmingham. She completed a B.S. in Molecular Biology at UAB and a PhD in Biology at Auburn University. Amanda is passionate about integrating computational thinking and data science into undergraduate biology education, the evolutionary dynamics of complex systems, and comparative multi-omics for human disease modeling.</p>
 
 ---
 
@@ -102,7 +102,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Scientist I and Lab Manager_</p>
 
-<p style="text-align:center;">T.C. earned his PhD in Biology from the University of Alabama at Birmingham. During his doctoral studies, T.C. focused on using network-based approaches to elucidate the molecular interactions between plants and bacterial pathogens. T.C. is currently serving as a lab manager as well as research scientist within the Lasseigne lab.</p>
+<p style="text-align:center;">Dr. Howton earned his PhD in Biology from the University of Alabama at Birmingham. During his doctoral studies, T.C. focused on using network-based approaches to elucidate the molecular interactions between plants and bacterial pathogens. T.C. is currently serving as a lab manager as well as research scientist within the Lasseigne lab.</p>
 
 ---
 
@@ -122,7 +122,7 @@ linktitle: ""
 
 ##### <p style="text-align:center;"> _Scientist II_</p>
 
-<p style="text-align:center;">Vishal is a Scientist II in the Department of Cell, Developmental and Integrative Biology at the University of Alabama at Birmingham Heersink School of Medicine. He got his PhD from University of Alabama, Tuscaloosa where he developed methods for constructing network models of Drosophila melanogaster metabolome from untargeted metabolomics data and integrating with genome and proteome, thus building a multilayered network model. His research interests include developing mathematical models using machine learning and network science to understand biological complexity.</p>
+<p style="text-align:center;">Dr. Oza is a Scientist II in the Department of Cell, Developmental and Integrative Biology at the University of Alabama at Birmingham Heersink School of Medicine. He got his PhD from University of Alabama, Tuscaloosa where he developed methods for constructing network models of Drosophila melanogaster metabolome from untargeted metabolomics data and integrating with genome and proteome, thus building a multilayered network model. His research interests include developing mathematical models using machine learning and network science to understand biological complexity.</p>
 
 ---
 
