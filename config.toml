@@ -3,7 +3,7 @@ DefaultContentLanguage  = "en"
 title                   = "Lasseigne Lab"
 theme = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
-paginate                = 4
+paginate                = 8
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
@@ -74,7 +74,7 @@ ignoreFiles             = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$
       alt                 = "Lasseigne Lab"
 
   [params.sidebar]
-    postAmount          = 3
+    postAmount          = 12
     # set to show or to hide categories in the sidebar
 
   [params.footer]
