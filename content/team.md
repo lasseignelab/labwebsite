@@ -56,13 +56,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Jen.JPEG" alt="Jen" width="200px"/></p>
 
-### <p style="text-align:center;">Jen Fisher</p>
-
-##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
-
-<p style="text-align:center;">Jen is a current PhD student in the Genomics, Genetics, and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She is supported by UAB’s AMC21 Scholars program. In 2019, she earned a B.S. in Biological Engineering with a minor in Mathematics from Mississippi State University. Jen is currently developing machine learning and network approaches to improve drug repurposing candidate selection and avoiding side effects due to sex differences. She is applying her methods in two rare diseases: Friedreich’s Ataxia & Glioblastoma multiforme.</p>
 
 ---
 
@@ -80,7 +74,7 @@ linktitle: ""
 
 ### <p style="text-align:center;">Lizzy Wilk</p>
 
-##### <p style="text-align:center;"> _Researcher III_</p>
+##### <p style="text-align:center;"> _Researcher V_</p>
 
 <p style="text-align:center;">Lizzy earned her B.S. in Biology with a minor in Chemistry from the University of Alabama at Huntsville and M.S. in Biotechnology with a specialization in Bioinformatics from University of Maryland Global Campus. Prior to working at the University of Alabama at Birmingham, she applied genomics technologies such as RNA-Seq for understanding cancer and chemotherapy resistance as a research assistant. Lizzy currently works as a staff scientist, applying transfer learning and drug repurposing methods to gene expression data.</p>
 
@@ -124,19 +118,26 @@ linktitle: ""
 
 <p style="text-align:center;">Dr. Oza is a Scientist II in the Department of Cell, Developmental and Integrative Biology at the University of Alabama at Birmingham Heersink School of Medicine. He got his PhD from University of Alabama, Tuscaloosa where he developed methods for constructing network models of Drosophila melanogaster metabolome from untargeted metabolomics data and integrating with genome and proteome, thus building a multilayered network model. His research interests include developing mathematical models using machine learning and network science to understand biological complexity.</p>
 
----
-
-<p style="text-align:center;"><img src="/about/people/RebekahHeadshot1.jpg" alt="Rebekah" width="200px"/></p>
-
-### <p style="text-align:center;">Rebekah Beyea</p>
-
-##### <p style="text-align:center;"> _KURE Summer Student_</p>
-
-<p style="text-align:center;">Rebekah is an undergraduate student at UAB double majoring in immunology and neuroscience with a minor in chemistry and in the ABM MSMBS immunology program. This summer she is participating in UAB's KURE internship program.</p>
 
 ---
 
 # <ins><p style="text-align:center;" id="alumni">Our Alumni</p></ins>
+
+### <p style="text-align:center;">Jen Fisher</p>
+
+##### <p style="text-align:center;"> _Graduate Research Assistant (2020-2023)_</p>
+
+<p style="text-align:center;"> Currently: Computational Biologist (CFD Research) </p>
+
+<br>
+
+### <p style="text-align:center;">Rebekah Beyea</p>
+
+##### <p style="text-align:center;"> _KURE Summer Student (2023)_</p>
+
+<p style="text-align:center;"> Currently: Undergraduate Student, University of Alabama at Birmingham </p>
+
+<br>
 
 ### <p style="text-align:center;"> Nathaniel DeVoss </p>
 
@@ -170,7 +171,7 @@ linktitle: ""
 
 <br>
 
-### <p style="text-align:center;">Sasha Thalluri</p>
+### <p style="text-align:center;">Sasha Taluri</p>
 ##### <p style="text-align:center;"> _Undergraduate Research Assistant (2019-2022)_</p>
 
 <p style="text-align:center;"> Currently: Medical Student, Heersink School of Medicine, University of Alabama at Birmingham </p>
@@ -209,11 +210,6 @@ linktitle: ""
 
 <br>
 
-### <p style="text-align:center;"> Randi Wood </p>
-
-##### <p style="text-align:center;"> _Researcher IV and Lab Manager (2019-2020)_ </p>
-
-<br>
 
 ### <p style="text-align:center;"> Roshan Darji </p>
 
@@ -223,13 +219,6 @@ linktitle: ""
 
 <br>
 
----
-
-## <p style="text-align:center;">Past Rotation Students</p>
-
-### <p style="text-align:center;"> Jack Hoover _(2020)_</p>
-
-### <p style="text-align:center;">Shaurita Hutchins _(2020)_</p>
 
 ---
 
@@ -258,27 +247,6 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/pets/bagley.jpg" alt="Bagley" width="200px"/></p>
-
-### <p style="text-align:center;"> Bagley (Bag-boo) Florence Fisher </p>
-
-##### <p style="text-align:center;"> __Owner:__ Jen </p>
-##### <p style="text-align:center;"> __Gotcha Day:__ May 19th, 2020 </p>
-##### <p style="text-align:center;"> __Likes:__ Dog cookies, peanut butter, and balls </p>
-##### <p style="text-align:center;"> __Dislikes:__ Rain and the dark </p>
-
----
-
-<p style="text-align:center;"><img src="/about/pets/lily.jpg" alt="Lily" width="200px"/></p>
-
-### <p style="text-align:center;"> Lily (Lily Lou) Williams </p>
-
-##### <p style="text-align:center;"> __Owner:__ Avery (Alum) </p>
-##### <p style="text-align:center;"> __Gotcha Day:__ sometime in 2006 </p>
-##### <p style="text-align:center;"> __Likes:__ Licking windows, attention, and her catnip banana</p>
-##### <p style="text-align:center;"> __Dislikes:__ Getting wet and vacuums </p>
-
----
 
 <p style="text-align:center;"><img src="/about/pets/mac.jpeg" alt="Mac" width="200px"/></p>
 
@@ -290,17 +258,6 @@ linktitle: ""
 
 ---
 
-
-<p style="text-align:center;"><img src="/about/pets/rocks.jpeg" alt="Methyl and Isla" width="200px"/></p>
-
-### <p style="text-align:center;"> Methyl and Isla Thalluri </p>
-
-##### <p style="text-align:center;"> __Owner:__ Sasha (Alum) </p>
-##### <p style="text-align:center;"> __Birthday:__ 3.8-billion years ago </p>
-##### <p style="text-align:center;"> __Likes:__ Outside </p>
-##### <p style="text-align:center;"> __Dislikes:__ Hard headed people </p>
-
----
 
 <p style="text-align:center;"><img src="/about/pets/partho.jpg" alt="Partho" width="200px"/></p>
 
