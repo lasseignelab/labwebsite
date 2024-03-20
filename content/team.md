@@ -100,16 +100,6 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Victoria.jpeg" alt="Victoria" width="200px"/></p>
-
-### <p style="text-align:center;">Victoria Flanary</p>
-
-##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
-
-<p style="text-align:center;">Victoria is an MD/PhD graduate trainee in the UAB Medical Scientist Training Program. She graduated from UAB in 2020 with a B.S. in Neuroscience, along with minors in Biology and Chemistry. Her background in conducting translational research for glioblastoma has inspired her to pursue a scientific career aimed toward maximizing clinical therapies for various malignancies, primarily via utilizing computational genomic data to advance precision medicine for cancer.</p>
-
----
-
 <p style="text-align:center;"><img src="/about/people/Vishal.jpg" alt="Vishal" width="200px"/></p>
 
 ### <p style="text-align:center;">Vishal H. Oza, PhD</p>
@@ -117,6 +107,16 @@ linktitle: ""
 ##### <p style="text-align:center;"> _Scientist II_</p>
 
 <p style="text-align:center;">Dr. Oza is a Scientist II in the Department of Cell, Developmental and Integrative Biology at the University of Alabama at Birmingham Heersink School of Medicine. He got his PhD from University of Alabama, Tuscaloosa where he developed methods for constructing network models of Drosophila melanogaster metabolome from untargeted metabolomics data and integrating with genome and proteome, thus building a multilayered network model. His research interests include developing mathematical models using machine learning and network science to understand biological complexity.</p>
+
+---
+
+<p style="text-align:center;"><img src="/about/people/ava.jpg" alt="Ava" width="200px"/></p>
+
+### <p style="text-align:center;">Ava Smith</p>
+
+##### <p style="text-align:center;"> _Rotating Graduate Student_</p>
+
+<p style="text-align:center;">Ava is a first year student PhD student in the Genetics, Genomics, and Bioinformatics theme at UAB. She is completing a two month rotation in Dr. Lasseigne's lab.</p>
 
 
 ---
@@ -233,17 +233,6 @@ linktitle: ""
 ##### <p style="text-align:center;"> __Likes:__ Warm laps, cuddles, and routines </p>
 ##### <p style="text-align:center;"> __Dislikes:__ Strangers and closed doors </p>
 ##### <p style="text-align:center;"> __Fun Fact:__ Only has 3 legs! </p>
-
----
-
-<p style="text-align:center;"><img src="/about/pets/mango.jpeg" alt="Mango" width="200px"/></p>
-
-### <p style="text-align:center;"> Mango Flanary </p>
-
-##### <p style="text-align:center;"> __Owner:__ Victoria </p>
-##### <p style="text-align:center;"> __Birthday:__ May 10, 2021 </p>
-##### <p style="text-align:center;"> __Likes:__ Bathrooms, cheek scratches, cat tv</p>
-##### <p style="text-align:center;"> __Dislikes:__ Long car rides </p>
 
 ---
 
