@@ -320,11 +320,3 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/pets/wrigley.jpg" alt="Wrigley" width="200px"/></p>
-
-### <p style="text-align:center;"> Wrigley Whitlock </p>
-
-##### <p style="text-align:center;"> __Owner:__ Jordan </p>
-##### <p style="text-align:center;"> __Gotcha Day:__ September 15th, 2016 </p>
-##### <p style="text-align:center;"> __Likes:__ His Squeaky ball, hikes, and watching baseball</p>
-##### <p style="text-align:center;"> __Dislikes:__ Being alone </p>
