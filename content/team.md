@@ -56,20 +56,6 @@ linktitle: ""
 
 ---
 
-
-
----
-
-<p style="text-align:center;"><img src="/about/people/Jordan.JPG" alt="Jordan" width="200px"/></p>
-
-### <p style="text-align:center;">Jordan Whitlock</p>
-
-##### <p style="text-align:center;"> _Graduate Research Assistant_</p>
-
-<p style="text-align:center;">Jordan is a current PhD student in the Genetics, Genomics and Bioinformatics theme within the UAB Graduate Biomedical Sciences program. She has a B.S. in Genetics and Genomic Sciences from UAB. Her projects and interests focus on developing and applying disease-agnostic computational approaches to understand the role of context dependency across and within disease. Jordan has a particular heart for rare diseases. She is currently investigating the role of cell-specificity in tissue-specific Mendelian disease manifestations. Using renal- and neurological-associated phenotypes as a test set, she is employing a combination of wet-lab and computational approaches involving expression and regulatory networks to identify the underlying drivers of Mendelian disease.</p>
-
----
-
 <p style="text-align:center;"><img src="/about/people/Lizzy.png" alt="Lizzy" width="200px"/></p>
 
 ### <p style="text-align:center;">Lizzy Wilk</p>
@@ -123,7 +109,15 @@ linktitle: ""
 
 # <ins><p style="text-align:center;" id="alumni">Our Alumni</p></ins>
 
-### <p style="text-align:center;">Jen Fisher</p>
+### <p style="text-align:center;">Jordan Whitlock, PhD</p>
+
+##### <p style="text-align:center;"> _Graduate Research Assistant (2020-2023)_</p>
+
+<p style="text-align:center;"> Currently: Medical and Scientific Board Advisor at the SETBP1 Society </p>
+
+<br>
+
+### <p style="text-align:center;">Jen Fisher, PhD</p>
 
 ##### <p style="text-align:center;"> _Graduate Research Assistant (2020-2023)_</p>
 
