@@ -96,13 +96,13 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/ava.jpg" alt="Ava" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/Tonie.jpg" alt="Tonie" width="200px"/></p>
 
-### <p style="text-align:center;">Ava Smith</p>
+### <p style="text-align:center;">Tonie Crumley</p>
 
-##### <p style="text-align:center;"> _Rotating Graduate Student_</p>
+##### <p style="text-align:center;"> _Undergraduate Research Assistant_</p>
 
-<p style="text-align:center;">Ava is a first year student PhD student in the Genetics, Genomics, and Bioinformatics theme at UAB. She is completing a two month rotation in Dr. Lasseigne's lab.</p>
+<p style="text-align:center;">Tonie has a bachelor's degree in Computer Science from UAB and is currently a student in Bioinformatics. He is working as an undergraduate researcher in Dr. Lasseigne's lab.</p>
 
 
 ---
