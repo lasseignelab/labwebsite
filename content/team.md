@@ -86,13 +86,13 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/Vishal.jpg" alt="Vishal" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/mualla/jpeg" alt="Mualla" width="200px"/></p>
 
-### <p style="text-align:center;">Vishal H. Oza, PhD</p>
+### <p style="text-align:center;">Mualla Eraslan</p>
 
-##### <p style="text-align:center;"> _Scientist II_</p>
+##### <p style="text-align:center;"> _Researcher IV_</p>
 
-<p style="text-align:center;">Dr. Oza is a Scientist II in the Department of Cell, Developmental and Integrative Biology at the University of Alabama at Birmingham Heersink School of Medicine. He got his PhD from University of Alabama, Tuscaloosa where he developed methods for constructing network models of Drosophila melanogaster metabolome from untargeted metabolomics data and integrating with genome and proteome, thus building a multilayered network model. His research interests include developing mathematical models using machine learning and network science to understand biological complexity.</p>
+<p style="text-align:center;">Mualla earned her first B.S. in Chemistry Education from Hacettepe University Ankara Turkey, her second B.S. in Biomedical Sciences and Clinical Laboratories from Boston University, and her M.S. in Biotechnology from the University of Alabama at Birmingham. She worked as a histotechnologist at Boston Medical Center Pathology Department. She worked as a researcher at UAB Spain Rehab Research Lab and Dermatology Research Lab. She is currently a Researcher IV in Dr. Lasseigne's lab.</p>
 
 ---
 
