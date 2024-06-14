@@ -86,7 +86,7 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/people/mualla/jpeg" alt="Mualla" width="200px"/></p>
+<p style="text-align:center;"><img src="/about/people/mualla.jpeg" alt="Mualla" width="200px"/></p>
 
 ### <p style="text-align:center;">Mualla Eraslan</p>
 
@@ -108,6 +108,14 @@ linktitle: ""
 ---
 
 # <ins><p style="text-align:center;" id="alumni">Our Alumni</p></ins>
+
+### <p style="text-align:center;">Vishal Oza, PhD</p>
+
+##### <p style="text-align:center;"> _Scientist II (2020-2024)_</p>
+
+<p style="text-align:center;"> Currently: Computational Biologist in Pathology at UAB </p>
+
+<br>
 
 ### <p style="text-align:center;">Jordan Whitlock, PhD</p>
 
@@ -242,17 +250,6 @@ linktitle: ""
 ---
 
 
-<p style="text-align:center;"><img src="/about/pets/partho.jpg" alt="Partho" width="200px"/></p>
-
-### <p style="text-align:center;"> Partho Oza </p>
-
-##### <p style="text-align:center;"> __Owner:__ Vishal </p>
-##### <p style="text-align:center;"> __Birthday:__ Jauary 19th, 2020 </p>
-##### <p style="text-align:center;"> __Likes:__ Playing fetch </p>
-##### <p style="text-align:center;"> __Dislikes:__ Sitting idle </p>
-
----
-
 <p style="text-align:center;"><img src="/about/pets/pj.jpg" alt="PJ" width="200px"/></p>
 
 ### <p style="text-align:center;"> Peanut Junior (PJ) Soelter </p>
@@ -264,16 +261,6 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/pets/poirot.jpg" alt="Poirot" width="200px"/></p>
-
-### <p style="text-align:center;"> Poirot Oza </p>
-
-##### <p style="text-align:center;"> __Owner:__ Vishal </p>
-##### <p style="text-align:center;"> __Birthday:__ August 18th, 2015 </p>
-##### <p style="text-align:center;"> __Likes:__ Exploring </p>
-##### <p style="text-align:center;"> __Dislikes:__ Flies </p>
-
----
 
 <p style="text-align:center;"><img src="/about/pets/sadie.jpeg" alt="Sadie" width="200px"/></p>
 
@@ -298,16 +285,6 @@ linktitle: ""
 
 ---
 
-<p style="text-align:center;"><img src="/about/pets/sophie.jpg" alt="Sophie" width="200px"/></p>
-
-### <p style="text-align:center;"> Sophie Howton </p>
-
-##### <p style="text-align:center;"> __Owner:__ TC </p>
-##### <p style="text-align:center;"> __Birthday:__ April 12th, 2010 </p>
-##### <p style="text-align:center;"> __Likes:__ Sleeping and treats</p>
-##### <p style="text-align:center;"> __Dislikes:__ Cardboard boxes </p>
-
----
 
 <p style="text-align:center;"><img src="/about/pets/william.jpg" alt="William" width="200px"/></p>
 
