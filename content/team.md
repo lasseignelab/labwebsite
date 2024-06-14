@@ -107,6 +107,17 @@ linktitle: ""
 
 ---
 
+<p style="text-align:center;"><img src="/about/people/kiron.png" alt="Kiron" width="200px"/></p>
+
+### <p style="text-align:center;">Kiron Ang</p>
+
+##### <p style="text-align:center;"> _KURE Studentt_</p>
+
+<p style="text-align:center;">Kiron Ang plans to graduate from Baylor University in May 2026 with a Bachelor of Science in Informatics with a major in Bioinformatics. Born and raised in the Rio Grande Valley, he is only in Alabama because of the KURE program, and he is grateful that he can learn more about computational biology in the Lasseigne Lab. In his free time, he enjoys freestyle dancing (waacking) and reading old textbooks.</p>
+
+
+---
+
 # <ins><p style="text-align:center;" id="alumni">Our Alumni</p></ins>
 
 ### <p style="text-align:center;">Vishal Oza, PhD</p>
